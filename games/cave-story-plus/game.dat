@@ -22,3 +22,5 @@ it has some input issues related to Yuzu when mapped to Certain Controllers.
 Settings:
 DockedMode = on
 MultiCore = off
+
+Canary Build : HEAD-3475271
