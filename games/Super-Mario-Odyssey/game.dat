@@ -1,0 +1,19 @@
+title = "Super Mario Odyssey"
+description = "Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser's wedding plans! Thanks to heroic, hat-shaped Cappy, Mario's got new moves that'll make you rethink his traditional run-and-jump gameplay—like cap jump, cap throw, and capture."
+github_issues = []
+needs_system_files = false
+needs_shared_font = true
+game_type = "switch"
+
+[[ releases ]]
+title = "0100000000010000"
+region = "usa"
+release_date = "2017-10-27"
+
+
+The game runs slow with graphic issues and no rendered Fonts
+
+
+Settings:
+Docked = on
+MultiCore = off
