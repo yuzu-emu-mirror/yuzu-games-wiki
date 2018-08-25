@@ -1,0 +1,19 @@
+title = "Liddy & Suri's Chain Gold Workshop - The incredible painting of the Chain Warlock"
+description = "This is the third series of the incredible series in "Golden Warlock". It continues the style of "daily RPG". It is based on the twin sisters. Although it has the dream of "becoming the nation's leading chain work room", it is not reliable. The chain of gold workshops operated by Dad is bleak, and it is necessary to worry about food expenses in threes. The very obvious difference from the previous work is that the twins started self-study on the chain, so there was no jigsaw-style reconciliation interface at the beginning, and the quality of the things they produced was not good, which led to the busines."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "?"
+region = "Jap"
+release_date = "2017-10-27"
+
+
+The game Does not Render and crashes when  going in game
+
+
+Settings:
+Docked = on
+MultiCore = off
