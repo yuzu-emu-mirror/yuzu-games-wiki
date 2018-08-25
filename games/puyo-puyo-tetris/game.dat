@@ -26,3 +26,5 @@ The game Runs at full speed with no graphical Errors
 Settings:
 Docked = on
 MultiCore = off
+
+Canary Build : HEAD-3475271
