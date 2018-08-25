@@ -17,3 +17,6 @@ The game runs slow with graphic issues and no rendered Fonts
 Settings:
 Docked = on
 MultiCore = off
+
+
+Canary Build : HEAD-3475271
