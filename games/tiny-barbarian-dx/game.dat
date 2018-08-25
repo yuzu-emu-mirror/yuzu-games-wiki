@@ -9,3 +9,14 @@ game_type = "switch"
 title = "0100D940022F6000"
 region = "all"
 release_date = "2017-10-10"
+
+
+Game runs way to fast but has no graphic issues and is fully playable
+
+Settings:
+
+Docked = on
+
+Multicore = on
+
+Carnary Build Used : HEAD-3475271
