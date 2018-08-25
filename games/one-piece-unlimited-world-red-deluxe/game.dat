@@ -27,3 +27,5 @@ Settings:
 
 Docked = on
 MultiCore = off
+
+Canary Build : HEAD-3475271
