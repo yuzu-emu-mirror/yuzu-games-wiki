@@ -14,3 +14,11 @@ release_date = "2017-06-20"
 title = "0100B7D0022EE000"
 region = "eur"
 release_date = "2017-07-20"
+
+
+The game is Fully playable from start To finish at max 60fps
+it has some input issues related to Yuzu when mapped to Certain Controllers.
+
+Settings:
+DockedMode = on
+MultiCore = off
