@@ -9,3 +9,12 @@ game_type = "switch"
 title = "01000320000CC000"
 region = "all"
 release_date = "2017-03-03"
+
+
+Game Does Boot as of HEAD-3475271
+
+Settings:
+
+Docked Mode = on
+
+MultiCore = off
