@@ -1,0 +1,20 @@
+title = "ARMS!"
+description = "These elite fighting superstars share one thing in common: extendable arms! So fight as never before: equip super-powered ARMS to create a slew of unprecedented combinations. Then use simple motion or button controls to dish out highly strategic beatdowns in 1-on-1, or even 2-on-2 battles! Features: Deep, strategic gameplay via simple motion and button controls: Tilt the Joy-Con™ controller to move your character about the arena, flick your fists to throw punches, then twist your hands to curve your punches midflight. It's easy to learn, and incredibly satisfying to reach out and punch someone. Mix and match arms to strategically bring new fights to your opponent: Select from a variety of different characters with unique abilities and equip a plethora of arms to strategize your approach. Use different combinations of arms and characters to change your approach in each round for endless gameplay possibilities. Take on a variety of game modes: Dunk your opponent through a basketball hoop in a game of Hoops, spike your opponent in the face with an exploding ball in a game of V-ball, take on 100 enemies in waves of increasing difficulty, and more. Brawl in multiplayer modes: Grab some friends for some team versus modes in 4-player action over local wireless, go online* as a pair, or get your game face on with some ranked 1-on-1 matches. Tournament Support and DLC: The LAN mode featured in the 2017 ARMS Open Invitational will release publicly to support competitive players (LAN adapter required; sold separately). Max Brass, the final boss of the game, and his Sky Arena stage will also become playable in a downloadable update."
+github_issues = []
+needs_system_files = false
+needs_shared_font = Unknown
+game_type = "switch"
+
+[[ releases ]]
+title = "01009b500007c000"
+region = "all"
+release_date = "2017-05-16"
+
+
+
+
+Settings:
+
+Docked Mode = on
+
+MultiCore = off
