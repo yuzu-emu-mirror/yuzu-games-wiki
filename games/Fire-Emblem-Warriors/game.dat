@@ -1,0 +1,20 @@
+title = "Fire Emblem Warriors"
+description = "Clash with legions of soldiers and fierce monsters as Marth, Xander, Corrin, and other Fire Emblem heroes unleashing over-the-top-powerful Dynasty Warriors-style moves. Take direct control of known and original Fire Emblem characters, issue them strategic commands in the midst of battle, pair up heroes to unleash stunning attacks, and more. Unlock new playable heroes, each with their own unique moves, special attacks, weapon types, and voiced dialogue in this large-scale action game from the Hyrule Warriors team. Features: Play and experience a new kingdom with original characters colliding with heroes from across the Fire Emblem universe. Battle as fan-favorite Fire Emblem heroes, like Chrom, Corrin, Ryoma, Marth, Xander and more, each with unique moves, special attacks, weapon types, and voiced dialogue. Pair up two hero characters as a single unit that can unleash devastating combos and even switch between these heroes mid-attack. With the classic weapons triangle, tactically choose and switch between Fire Emblem heroes to gain the advantage in combat against countless enemies. amiibo functionality with all previously released Fire Emblem amiibo figures, plus with upcoming Chrom and Tiki amiibo figures. Fire Emblem Warriors will also release on the New Nintendo 3DS XL, New Nintendo 3DS and New Nintendo 2DS XL systems. Please note that it's not compatible with other systems, including Nintendo 3DS, Nintendo 3DS XL, and Nintendo 2DS."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100f15003e64000"
+region = "all"
+release_date = "2018-10-20"
+
+
+Flashes Main boot Screen and goes black
+
+Settings:
+
+Docked Mode = on
+
+MultiCore = off

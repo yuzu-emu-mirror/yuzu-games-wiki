@@ -1,0 +1,1299 @@
+[   0.000000] Frontend <Info> yuzu\main.cpp:GMainWindow:129: yuzu Version: Canary  | HEAD-3475271
+[   0.149553] Loader <Warning> core\loader\loader.cpp:GetLoader:197: File adba0494f665741978fd4db560d0108d.cnmt.nca has a different type than its extension.
+[   5.177498] Loader <Warning> core\loader\loader.cpp:GetLoader:197: File adba0494f665741978fd4db560d0108d.cnmt.nca has a different type than its extension.
+[  11.324876] Frontend <Info> yuzu\main.cpp:BootGame:532: yuzu starting...
+[  11.711665] Service.NS <Warning> core\hle\service\ns\pl_u.cpp:PL_U:206: Unable to find font: FontNintendoExtended2.ttf
+[  11.711815] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:461: GL_VERSION: 3.3.13537 Core Profile Forward-Compatible Context 24.20.13001.1010
+[  11.711818] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:462: GL_VENDOR: ATI Technologies Inc.
+[  11.711819] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:463: GL_RENDERER: AMD Radeon R9 200 Series
+[  11.714940] Render.OpenGL <Critical> video_core\renderer_opengl\gl_rasterizer.cpp:RasterizerOpenGL:96: Sync fixed function OpenGL state here!
+[  11.993389] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[  11.998513] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[  12.007610] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[  12.020873] Service.AM <Warning> core\hle\service\am\am.cpp:GetAppletResourceUserId:39: (STUBBED) called
+[  12.027372] Service.AM <Warning> core\hle\service\am\am.cpp:GetEventHandle:354: (STUBBED) called
+[  12.029233] Service.AM <Warning> core\hle\service\am\am.cpp:ReceiveMessage:362: (STUBBED) called
+[  12.030083] Service.AM <Warning> core\hle\service\am\am.cpp:GetCurrentFocusState:370: (STUBBED) called
+[  12.031224] Service.AM <Warning> core\hle\service\am\am.cpp:AcquireForegroundRights:46: (STUBBED) called
+[  12.032321] Service.AM <Warning> core\hle\service\am\am.cpp:SetFocusHandlingMode:183: (STUBBED) called
+[  12.035297] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[  12.036738] IPC <Warning> core\hle\kernel\hle_ipc.cpp:ParseCommandBuffer:136: Domain request has no DomainMessageHeader!
+[  13.207810] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[  13.208256] IPC <Warning> core\hle\kernel\hle_ipc.cpp:ParseCommandBuffer:136: Domain request has no DomainMessageHeader!
+[  13.208811] Service.FS <Warning> core\hle\service\filesystem\fsp_srv.cpp:Initialize:513: (STUBBED) called
+[  13.210349] Service.FS <Critical> core\hle\service\filesystem\fsp_srv.cpp:OpenDataStorageByCurrentProcess:580: no file system interface available!
+[  13.214736] Service.AM <Warning> core\hle\service\am\am.cpp:SetTerminateResult:686: (STUBBED) called, result=0xFFFFFFFF
+[  13.215270] Debug.Emulated <Critical> core\hle\kernel\svc.cpp:Break:257: Emulated program broke execution! reason=0x0000000000000000, info1=0x0000000000000000, info2=0x0000000000000000
+[  48.814156] Loader <Warning> core\loader\loader.cpp:GetLoader:197: File adba0494f665741978fd4db560d0108d.cnmt.nca has a different type than its extension.
+[  52.409111] Frontend <Info> yuzu\main.cpp:BootGame:532: yuzu starting...
+[  52.584268] Service.NS <Warning> core\hle\service\ns\pl_u.cpp:PL_U:206: Unable to find font: FontNintendoExtended2.ttf
+[  52.584354] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:461: GL_VERSION: 3.3.13537 Core Profile Forward-Compatible Context 24.20.13001.1010
+[  52.584357] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:462: GL_VENDOR: ATI Technologies Inc.
+[  52.584358] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:463: GL_RENDERER: AMD Radeon R9 200 Series
+[  52.587379] Render.OpenGL <Critical> video_core\renderer_opengl\gl_rasterizer.cpp:RasterizerOpenGL:96: Sync fixed function OpenGL state here!
+[  52.861306] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[  52.866474] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[  52.875386] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[  52.888711] Service.AM <Warning> core\hle\service\am\am.cpp:GetAppletResourceUserId:39: (STUBBED) called
+[  52.895303] Service.AM <Warning> core\hle\service\am\am.cpp:GetEventHandle:354: (STUBBED) called
+[  52.897181] Service.AM <Warning> core\hle\service\am\am.cpp:ReceiveMessage:362: (STUBBED) called
+[  52.898077] Service.AM <Warning> core\hle\service\am\am.cpp:GetCurrentFocusState:370: (STUBBED) called
+[  52.899153] Service.AM <Warning> core\hle\service\am\am.cpp:AcquireForegroundRights:46: (STUBBED) called
+[  52.900234] Service.AM <Warning> core\hle\service\am\am.cpp:SetFocusHandlingMode:183: (STUBBED) called
+[  52.903258] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[  52.904777] IPC <Warning> core\hle\kernel\hle_ipc.cpp:ParseCommandBuffer:136: Domain request has no DomainMessageHeader!
+[  54.050773] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[  54.051209] IPC <Warning> core\hle\kernel\hle_ipc.cpp:ParseCommandBuffer:136: Domain request has no DomainMessageHeader!
+[  54.051766] Service.FS <Warning> core\hle\service\filesystem\fsp_srv.cpp:Initialize:513: (STUBBED) called
+[  54.053290] Service.FS <Critical> core\hle\service\filesystem\fsp_srv.cpp:OpenDataStorageByCurrentProcess:580: no file system interface available!
+[  54.057656] Service.AM <Warning> core\hle\service\am\am.cpp:SetTerminateResult:686: (STUBBED) called, result=0xFFFFFFFF
+[  54.058177] Debug.Emulated <Critical> core\hle\kernel\svc.cpp:Break:257: Emulated program broke execution! reason=0x0000000000000000, info1=0x0000000000000000, info2=0x0000000000000000
+[  95.126703] Loader <Warning> core\loader\loader.cpp:GetLoader:197: File adba0494f665741978fd4db560d0108d.cnmt.nca has a different type than its extension.
+[ 101.750033] Frontend <Info> yuzu\main.cpp:BootGame:532: yuzu starting...
+[ 101.930544] Service.NS <Warning> core\hle\service\ns\pl_u.cpp:PL_U:206: Unable to find font: FontNintendoExtended2.ttf
+[ 101.930675] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:461: GL_VERSION: 3.3.13537 Core Profile Forward-Compatible Context 24.20.13001.1010
+[ 101.930678] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:462: GL_VENDOR: ATI Technologies Inc.
+[ 101.930679] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:463: GL_RENDERER: AMD Radeon R9 200 Series
+[ 101.933674] Render.OpenGL <Critical> video_core\renderer_opengl\gl_rasterizer.cpp:RasterizerOpenGL:96: Sync fixed function OpenGL state here!
+[ 102.208864] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 102.214129] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 102.223182] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 102.236657] Service.AM <Warning> core\hle\service\am\am.cpp:GetAppletResourceUserId:39: (STUBBED) called
+[ 102.243323] Service.AM <Warning> core\hle\service\am\am.cpp:GetEventHandle:354: (STUBBED) called
+[ 102.245267] Service.AM <Warning> core\hle\service\am\am.cpp:ReceiveMessage:362: (STUBBED) called
+[ 102.246174] Service.AM <Warning> core\hle\service\am\am.cpp:GetCurrentFocusState:370: (STUBBED) called
+[ 102.247224] Service.AM <Warning> core\hle\service\am\am.cpp:AcquireForegroundRights:46: (STUBBED) called
+[ 102.248270] Service.AM <Warning> core\hle\service\am\am.cpp:SetFocusHandlingMode:183: (STUBBED) called
+[ 102.251355] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 102.252878] IPC <Warning> core\hle\kernel\hle_ipc.cpp:ParseCommandBuffer:136: Domain request has no DomainMessageHeader!
+[ 103.500227] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 103.500818] IPC <Warning> core\hle\kernel\hle_ipc.cpp:ParseCommandBuffer:136: Domain request has no DomainMessageHeader!
+[ 103.501385] Service.FS <Warning> core\hle\service\filesystem\fsp_srv.cpp:Initialize:513: (STUBBED) called
+[ 103.502968] Service.FS <Critical> core\hle\service\filesystem\fsp_srv.cpp:OpenDataStorageByCurrentProcess:580: no file system interface available!
+[ 103.507762] Service.AM <Warning> core\hle\service\am\am.cpp:SetTerminateResult:686: (STUBBED) called, result=0xFFFFFFFF
+[ 103.508335] Debug.Emulated <Critical> core\hle\kernel\svc.cpp:Break:257: Emulated program broke execution! reason=0x0000000000000000, info1=0x0000000000000000, info2=0x0000000000000000
+[ 121.069370] Loader <Warning> core\loader\loader.cpp:GetLoader:197: File adba0494f665741978fd4db560d0108d.cnmt.nca has a different type than its extension.
+[ 129.696899] Frontend <Info> yuzu\main.cpp:BootGame:532: yuzu starting...
+[ 129.877414] Service.NS <Warning> core\hle\service\ns\pl_u.cpp:PL_U:206: Unable to find font: FontNintendoExtended2.ttf
+[ 129.877521] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:461: GL_VERSION: 3.3.13537 Core Profile Forward-Compatible Context 24.20.13001.1010
+[ 129.877524] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:462: GL_VENDOR: ATI Technologies Inc.
+[ 129.877525] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:463: GL_RENDERER: AMD Radeon R9 200 Series
+[ 129.880571] Render.OpenGL <Critical> video_core\renderer_opengl\gl_rasterizer.cpp:RasterizerOpenGL:96: Sync fixed function OpenGL state here!
+[ 130.167383] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 130.172563] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 130.181572] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 130.195060] Service.AM <Warning> core\hle\service\am\am.cpp:GetAppletResourceUserId:39: (STUBBED) called
+[ 130.201578] Service.AM <Warning> core\hle\service\am\am.cpp:GetEventHandle:354: (STUBBED) called
+[ 130.203444] Service.AM <Warning> core\hle\service\am\am.cpp:ReceiveMessage:362: (STUBBED) called
+[ 130.204328] Service.AM <Warning> core\hle\service\am\am.cpp:GetCurrentFocusState:370: (STUBBED) called
+[ 130.205406] Service.AM <Warning> core\hle\service\am\am.cpp:AcquireForegroundRights:46: (STUBBED) called
+[ 130.206480] Service.AM <Warning> core\hle\service\am\am.cpp:SetFocusHandlingMode:183: (STUBBED) called
+[ 130.209582] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 130.211058] IPC <Warning> core\hle\kernel\hle_ipc.cpp:ParseCommandBuffer:136: Domain request has no DomainMessageHeader!
+[ 132.317208] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 132.333819] IPC <Warning> core\hle\kernel\hle_ipc.cpp:ParseCommandBuffer:136: Domain request has no DomainMessageHeader!
+[ 132.334392] Service.FS <Warning> core\hle\service\filesystem\fsp_srv.cpp:Initialize:513: (STUBBED) called
+[ 132.335911] Service.FS <Critical> core\hle\service\filesystem\fsp_srv.cpp:OpenDataStorageByCurrentProcess:580: no file system interface available!
+[ 132.340591] Service.AM <Warning> core\hle\service\am\am.cpp:SetTerminateResult:686: (STUBBED) called, result=0xFFFFFFFF
+[ 132.341128] Debug.Emulated <Critical> core\hle\kernel\svc.cpp:Break:257: Emulated program broke execution! reason=0x0000000000000000, info1=0x0000000000000000, info2=0x0000000000000000
+[ 389.403612] Loader <Warning> core\loader\loader.cpp:GetLoader:197: File adba0494f665741978fd4db560d0108d.cnmt.nca has a different type than its extension.
+[ 408.701499] Frontend <Info> yuzu\main.cpp:BootGame:532: yuzu starting...
+[ 408.941357] Service.NS <Warning> core\hle\service\ns\pl_u.cpp:PL_U:206: Unable to find font: FontNintendoExtended2.ttf
+[ 408.942310] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:461: GL_VERSION: 3.3.13537 Core Profile Forward-Compatible Context 24.20.13001.1010
+[ 408.942314] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:462: GL_VENDOR: ATI Technologies Inc.
+[ 408.942315] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:463: GL_RENDERER: AMD Radeon R9 200 Series
+[ 408.947942] Render.OpenGL <Critical> video_core\renderer_opengl\gl_rasterizer.cpp:RasterizerOpenGL:96: Sync fixed function OpenGL state here!
+[ 409.224069] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 409.229260] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 409.238959] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 409.254771] Service.AM <Warning> core\hle\service\am\am.cpp:GetAppletResourceUserId:39: (STUBBED) called
+[ 409.261608] Service.AM <Warning> core\hle\service\am\am.cpp:GetEventHandle:354: (STUBBED) called
+[ 409.263563] Service.AM <Warning> core\hle\service\am\am.cpp:ReceiveMessage:362: (STUBBED) called
+[ 409.264459] Service.AM <Warning> core\hle\service\am\am.cpp:GetCurrentFocusState:370: (STUBBED) called
+[ 409.265547] Service.AM <Warning> core\hle\service\am\am.cpp:AcquireForegroundRights:46: (STUBBED) called
+[ 409.266596] Service.AM <Warning> core\hle\service\am\am.cpp:SetFocusHandlingMode:183: (STUBBED) called
+[ 409.269710] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 409.271275] IPC <Warning> core\hle\kernel\hle_ipc.cpp:ParseCommandBuffer:136: Domain request has no DomainMessageHeader!
+[ 410.503314] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 410.503757] IPC <Warning> core\hle\kernel\hle_ipc.cpp:ParseCommandBuffer:136: Domain request has no DomainMessageHeader!
+[ 410.504317] Service.FS <Warning> core\hle\service\filesystem\fsp_srv.cpp:Initialize:513: (STUBBED) called
+[ 410.505802] Service.FS <Critical> core\hle\service\filesystem\fsp_srv.cpp:OpenDataStorageByCurrentProcess:580: no file system interface available!
+[ 410.510052] Service.AM <Warning> core\hle\service\am\am.cpp:SetTerminateResult:686: (STUBBED) called, result=0xFFFFFFFF
+[ 410.510561] Debug.Emulated <Critical> core\hle\kernel\svc.cpp:Break:257: Emulated program broke execution! reason=0x0000000000000000, info1=0x0000000000000000, info2=0x0000000000000000
+[ 448.696329] Frontend <Info> yuzu\main.cpp:BootGame:532: yuzu starting...
+[ 448.866259] Service.NS <Warning> core\hle\service\ns\pl_u.cpp:PL_U:206: Unable to find font: FontNintendoExtended2.ttf
+[ 448.866352] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:461: GL_VERSION: 3.3.13537 Core Profile Forward-Compatible Context 24.20.13001.1010
+[ 448.866354] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:462: GL_VENDOR: ATI Technologies Inc.
+[ 448.866355] Render.OpenGL <Info> video_core\renderer_opengl\renderer_opengl.cpp:Init:463: GL_RENDERER: AMD Radeon R9 200 Series
+[ 448.870328] Render.OpenGL <Critical> video_core\renderer_opengl\gl_rasterizer.cpp:RasterizerOpenGL:96: Sync fixed function OpenGL state here!
+[ 449.140816] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 449.146003] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 449.155037] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 449.168299] Service.AM <Warning> core\hle\service\am\am.cpp:GetAppletResourceUserId:39: (STUBBED) called
+[ 449.174878] Service.AM <Warning> core\hle\service\am\am.cpp:GetEventHandle:354: (STUBBED) called
+[ 449.176793] Service.AM <Warning> core\hle\service\am\am.cpp:ReceiveMessage:362: (STUBBED) called
+[ 449.177661] Service.AM <Warning> core\hle\service\am\am.cpp:GetCurrentFocusState:370: (STUBBED) called
+[ 449.178764] Service.AM <Warning> core\hle\service\am\am.cpp:AcquireForegroundRights:46: (STUBBED) called
+[ 449.179805] Service.AM <Warning> core\hle\service\am\am.cpp:SetFocusHandlingMode:183: (STUBBED) called
+[ 449.182916] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 449.184446] IPC <Warning> core\hle\kernel\hle_ipc.cpp:ParseCommandBuffer:136: Domain request has no DomainMessageHeader!
+[ 451.148246] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 451.148769] IPC <Warning> core\hle\kernel\hle_ipc.cpp:ParseCommandBuffer:136: Domain request has no DomainMessageHeader!
+[ 451.149515] Service.FS <Warning> core\hle\service\filesystem\fsp_srv.cpp:Initialize:513: (STUBBED) called
+[ 451.175503] Service.FS <Warning> core\hle\service\filesystem\fsp_srv.cpp:GetGlobalAccessLogMode:567: (STUBBED) called
+[ 451.206176] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 451.207081] Core <Critical> core\hle\kernel\hle_ipc.cpp:WriteBuffer:296: size (0000000000000088) is greater than buffer_size (0000000000000078)
+[ 451.299329] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:CreateTransferMemory:802: (STUBBED) called addr=0x112012000, size=0x800000, perms=0x00000000
+[ 451.300727] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 451.302102] Service.NVDRV <Warning> core\hle\service\nvdrv\interface.cpp:Initialize:56: (STUBBED) called
+[ 451.304679] Service <Warning> core\hle\service\sm\controller.cpp:DuplicateSessionEx:36: (STUBBED) called, using DuplicateSession
+[ 451.315968] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 451.316595] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetDisplayService:988: (STUBBED) called
+[ 451.318347] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetManagerDisplayService:812: (STUBBED) called
+[ 451.319843] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetSystemDisplayService:804: (STUBBED) called
+[ 451.321413] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetRelayService:796: (STUBBED) called
+[ 451.331036] Service.VI <Warning> core\hle\service\vi\vi.cpp:OpenDisplay:828: (STUBBED) called
+[ 451.331043] Service <Warning> core\hle\service\nvflinger\nvflinger.cpp:OpenDisplay:54: Opening display Default
+[ 451.346685] Service.VI <Warning> core\hle\service\vi\vi.cpp:AdjustRefcount:568: (STUBBED) called id=1, addval=00000001, type=00000000
+[ 451.348095] Service.VI <Warning> core\hle\service\vi\vi.cpp:AdjustRefcount:568: (STUBBED) called id=1, addval=00000001, type=00000001
+[ 451.354960] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetNativeHandle:582: (STUBBED) called id=1, unknown=0000000F
+[ 451.373306] Service.VI <Warning> core\hle\service\vi\vi.cpp:SetLayerScalingMode:869: (STUBBED) called
+[ 451.374204] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetDisplayVsyncEvent:939: (STUBBED) called
+[ 451.418631] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_ctrl_gpu.cpp:GetTPCMasks:87: called, mask=0x4, mask_buf_addr=0x5FFFF6C0
+[ 451.434202] Service.NVDRV <Warning> core\hle\service\nvdrv\interface.cpp:QueryEvent:66: (STUBBED) called, fd=2, event_id=2
+[ 451.437482] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:InitalizeEx:46: (STUBBED) called, big_page_size=0x1
+[ 451.437487] Core <Warning> core\hle\kernel\hle_ipc.cpp:WriteBuffer:288: skip empty buffer write
+[ 451.437745] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:GetVARegions:184: (STUBBED) called, buf_addr=0, buf_size=0
+[ 451.438789] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:GetVARegions:184: (STUBBED) called, buf_addr=5FFFF810, buf_size=30
+[ 451.461453] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x10806E000, size=0x1000, state0=0x8, state1=0x8
+[ 451.469233] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x108080000, size=0x10000, state0=0x8, state1=0x8
+[ 451.479985] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x112819000, size=0x2020000, state0=0x8, state1=0x8
+[ 451.492243] Core <Warning> core\hle\kernel\hle_ipc.cpp:WriteBuffer:288: skip empty buffer write
+[ 451.492625] Core <Warning> core\hle\kernel\hle_ipc.cpp:WriteBuffer:288: skip empty buffer write
+[ 451.492962] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:AllocGPFIFOEx2:111: (STUBBED) called, num_entries=800, flags=1, unk0=0, unk1=0, unk2=0, unk3=0
+[ 451.493149] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:AllocateObjectContext:122: (STUBBED) called, class_num=B197, flags=0
+[ 451.493899] Service.NVDRV <Warning> core\hle\service\nvdrv\interface.cpp:QueryEvent:66: (STUBBED) called, fd=5, event_id=3
+[ 451.494404] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SetErrorNotifier:93: (STUBBED) called, offset=0, size=1000, mem=4
+[ 451.494847] Core <Warning> core\hle\kernel\hle_ipc.cpp:WriteBuffer:288: skip empty buffer write
+[ 451.495527] Core <Warning> core\hle\kernel\hle_ipc.cpp:WriteBuffer:288: skip empty buffer write
+[ 451.497259] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x11483E000, size=0x10000, state0=0x8, state1=0x8
+[ 451.529888] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 451.530101] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080620A8, num_entries=3, flags=104
+[ 451.530235] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 451.530237] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 451.544866] Service <Warning> core\hle\service\nvflinger\buffer_queue.cpp:Query:91: (STUBBED) called type=2
+[ 451.552172] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocGetId:86: called
+[ 451.552820] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocFromId:101: (STUBBED) called
+[ 451.559379] Service <Warning> core\hle\service\nvflinger\buffer_queue.cpp:SetPreallocatedBuffer:25: Adding graphics buffer 0
+[ 451.561017] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocGetId:86: called
+[ 451.561033] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocFromId:101: (STUBBED) called
+[ 451.561112] Service <Warning> core\hle\service\nvflinger\buffer_queue.cpp:SetPreallocatedBuffer:25: Adding graphics buffer 1
+[ 451.561146] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocGetId:86: called
+[ 451.561155] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocFromId:101: (STUBBED) called
+[ 451.561188] Service <Warning> core\hle\service\nvflinger\buffer_queue.cpp:SetPreallocatedBuffer:25: Adding graphics buffer 2
+[ 451.567411] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocFromId:101: (STUBBED) called
+[ 451.574821] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1161EA000, size=0x81000, state0=0x8, state1=0x8
+[ 451.636772] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 451.642870] Service.HID <Warning> core\hle\service\hid\hid.cpp:ActivateDebugPad:427: (STUBBED) called
+[ 451.647795] Service.HID <Warning> core\hle\service\hid\hid.cpp:ActivateNpad:490: (STUBBED) called
+[ 451.649498] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetSupportedNpadIdType:484: (STUBBED) called
+[ 451.650838] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetSupportedNpadStyleSet:471: (STUBBED) called
+[ 451.660082] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x116907000, size=0x2000, state0=0x8, state1=0x8
+[ 451.673966] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x11690A000, size=0x36000, state0=0x8, state1=0x8
+[ 451.703557] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x11694A000, size=0x400000, state0=0x8, state1=0x8
+[ 451.790134] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:71: (STUBBED) called, num_entries=0x1
+[ 451.790140] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:80: remap entry, offset=0x107EA handle=0xE pages=0x2000
+[ 451.792877] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:71: (STUBBED) called, num_entries=0x1
+[ 451.792881] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:80: remap entry, offset=0x127EA handle=0xE pages=0x2000
+[ 451.795092] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:71: (STUBBED) called, num_entries=0x1
+[ 451.795095] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:80: remap entry, offset=0x147EA handle=0xE pages=0x2000
+[ 451.797481] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:71: (STUBBED) called, num_entries=0x1
+[ 451.797484] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:80: remap entry, offset=0x167EA handle=0xE pages=0x2000
+[ 451.800049] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:71: (STUBBED) called, num_entries=0x1
+[ 451.800054] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:80: remap entry, offset=0x187EA handle=0xE pages=0x2000
+[ 451.802902] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:71: (STUBBED) called, num_entries=0x1
+[ 451.802906] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:80: remap entry, offset=0x1A7EA handle=0xE pages=0x2000
+[ 451.805889] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:71: (STUBBED) called, num_entries=0x1
+[ 451.805892] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:80: remap entry, offset=0x1C7EA handle=0xE pages=0x2000
+[ 451.809040] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:71: (STUBBED) called, num_entries=0x1
+[ 451.809043] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:80: remap entry, offset=0x1E7EA handle=0xE pages=0x2000
+[ 451.812418] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:71: (STUBBED) called, num_entries=0x1
+[ 451.812422] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:80: remap entry, offset=0x207EA handle=0xE pages=0x2000
+[ 451.815974] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:71: (STUBBED) called, num_entries=0x1
+[ 451.815979] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:80: remap entry, offset=0x227EA handle=0xE pages=0x2000
+[ 451.819743] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:71: (STUBBED) called, num_entries=0x1
+[ 451.819749] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:80: remap entry, offset=0x247EA handle=0xE pages=0x2000
+[ 451.823655] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:71: (STUBBED) called, num_entries=0x1
+[ 451.823659] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:80: remap entry, offset=0x267EA handle=0xE pages=0x2000
+[ 451.827704] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:71: (STUBBED) called, num_entries=0x1
+[ 451.827707] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_as_gpu.cpp:Remap:80: remap entry, offset=0x287EA handle=0xE pages=0x2000
+[ 451.832914] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13820E000, size=0x10000, state0=0x8, state1=0x8
+[ 451.964875] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13855F000, size=0x1800000, state0=0x8, state1=0x8
+[ 452.296757] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x139F51000, size=0x10000, state0=0x8, state1=0x8
+[ 452.324521] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13A004000, size=0x10000, state0=0x8, state1=0x8
+[ 452.451104] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13A455000, size=0xCC000, state0=0x8, state1=0x8
+[ 452.465432] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13A5D8000, size=0x74000, state0=0x8, state1=0x8
+[ 452.470814] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13A106000, size=0x104000, state0=0x8, state1=0x8
+[ 452.499722] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13A780000, size=0x230000, state0=0x8, state1=0x8
+[ 452.518680] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13A547000, size=0x20000, state0=0x8, state1=0x8
+[ 452.522552] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13A2D2000, size=0x132000, state0=0x8, state1=0x8
+[ 452.573412] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13A9F7000, size=0x26000, state0=0x8, state1=0x8
+[ 452.594432] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13AA6C000, size=0x100000, state0=0x8, state1=0x8
+[ 452.609926] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13AD25000, size=0x21000, state0=0x8, state1=0x8
+[ 452.642133] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13AD6F000, size=0x11000, state0=0x8, state1=0x8
+[ 452.649686] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13AD81000, size=0x11000, state0=0x8, state1=0x8
+[ 452.657866] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13AD93000, size=0x11000, state0=0x8, state1=0x8
+[ 452.665201] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13ADA5000, size=0x11000, state0=0x8, state1=0x8
+[ 452.672542] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13ADB7000, size=0x11000, state0=0x8, state1=0x8
+[ 452.679857] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13ADC9000, size=0x11000, state0=0x8, state1=0x8
+[ 452.793996] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 452.794640] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 452.794649] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 452.794653] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 452.794657] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 452.794661] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 452.794664] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 452.794668] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 452.795327] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyHoldType:515: (STUBBED) called
+[ 452.795801] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetSupportedNpadIdType:484: (STUBBED) called
+[ 452.795845] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetSupportedNpadStyleSet:471: (STUBBED) called
+[ 452.802809] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetGyroscopeZeroDriftMode:457: (STUBBED) called
+[ 452.803348] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetGyroscopeZeroDriftMode:457: (STUBBED) called
+[ 452.803575] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetGyroscopeZeroDriftMode:457: (STUBBED) called
+[ 452.803583] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetGyroscopeZeroDriftMode:457: (STUBBED) called
+[ 452.803844] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetGyroscopeZeroDriftMode:457: (STUBBED) called
+[ 452.805446] Service.HID <Warning> core\hle\service\hid\hid.cpp:ActivateTouchScreen:433: (STUBBED) called
+[ 452.960843] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 452.975136] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E108, num_entries=7, flags=104
+[ 452.975141] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 452.975142] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 452.975146] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 452.975146] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 452.975147] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 452.975147] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 452.975794] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 452.987345] HW.GPU <Warning> video_core\engines\fermi_2d.cpp:HandleSurfaceCopy:29: Requested a surface copy with operation 3
+[ 452.992356] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.209870] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.255137] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 453.263386] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062228, num_entries=3, flags=104
+[ 453.263390] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.263391] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.290208] Service.HID <Warning> core\hle\service\hid\hid.cpp:StartSixAxisSensor:451: (STUBBED) called
+[ 453.292558] Service.AM <Warning> core\hle\service\am\am.cpp:SetOperationModeChangedNotification:219: (STUBBED) called flag=true
+[ 453.303040] Service.AM <Warning> core\hle\service\am\am.cpp:SetPerformanceModeChangedNotification:201: (STUBBED) called flag=true
+[ 453.304248] Service.HID <Warning> core\hle\service\hid\hid.cpp:ActivateVibrationDevice:287: (STUBBED) called
+[ 453.307371] Service.AM <Warning> core\hle\service\am\am.cpp:SetRestartMessageEnabled:190: (STUBBED) called
+[ 453.307852] Service.HID <Warning> core\hle\service\hid\hid.cpp:ActivateVibrationDevice:287: (STUBBED) called
+[ 453.310612] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocFromId:101: (STUBBED) called
+[ 453.311636] Service.AM <Warning> core\hle\service\am\am.cpp:GetOperationMode:389: (STUBBED) called
+[ 453.337372] Service.AM <Warning> core\hle\service\am\am.cpp:GetPerformanceMode:399: (STUBBED) called
+[ 453.338126] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 453.346594] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 453.346725] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E108, num_entries=6, flags=104
+[ 453.346727] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.346728] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.346730] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.346731] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.346731] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.346732] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.346739] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.347172] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.347287] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.408448] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062228, num_entries=3, flags=104
+[ 453.408453] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.408455] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.408541] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 453.417279] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvmap.cpp:IocFromId:101: (STUBBED) called
+[ 453.417585] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 453.427564] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 453.443815] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 453.443862] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E108, num_entries=6, flags=104
+[ 453.443864] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.443865] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.443867] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.443867] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.443868] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.443869] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.443875] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.443978] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.444083] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.497576] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062228, num_entries=3, flags=104
+[ 453.497581] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.497582] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.498423] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 453.504420] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 453.511022] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 453.511069] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E108, num_entries=6, flags=104
+[ 453.511071] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.511072] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.511074] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.511075] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.511076] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.511076] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.511082] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.511221] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.511332] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.511602] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062228, num_entries=3, flags=104
+[ 453.511603] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.511604] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.518594] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 453.561831] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 453.563094] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 453.574047] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 453.574095] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E108, num_entries=6, flags=104
+[ 453.574097] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.574098] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.574100] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.574101] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.574101] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.574102] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.574108] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.574240] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.574458] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.574757] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062228, num_entries=3, flags=104
+[ 453.574759] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.574760] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.584801] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 453.638897] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13C9C2000, size=0x4000, state0=0x8, state1=0x8
+[ 453.650357] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13C1D4000, size=0x32000, state0=0x8, state1=0x8
+[ 453.700268] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 453.701411] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 453.768372] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 453.768430] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 453.768432] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.768433] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.768435] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.768436] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.768437] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.768437] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.768444] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.768580] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.768696] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 453.768823] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 453.769196] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062288, num_entries=3, flags=104
+[ 453.769198] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.769199] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 453.786081] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13CA09000, size=0x164000, state0=0x8, state1=0x8
+[ 453.841612] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13CBE9000, size=0x1B000, state0=0x8, state1=0x8
+[ 453.999790] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13CE41000, size=0x10000, state0=0x8, state1=0x8
+[ 454.081161] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13CF61000, size=0x10000, state0=0x8, state1=0x8
+[ 454.089317] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13CF9F000, size=0x10000, state0=0x8, state1=0x8
+[ 454.126285] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13D1BB000, size=0x10000, state0=0x8, state1=0x8
+[ 454.133918] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13D1CD000, size=0x10000, state0=0x8, state1=0x8
+[ 454.181547] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 454.182704] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 454.186787] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 454.186823] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 454.186825] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.186826] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.186828] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.186829] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.186830] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.186830] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.186837] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 454.186953] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 454.187066] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 454.190852] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 454.194587] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080622B8, num_entries=3, flags=104
+[ 454.194591] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.194592] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.314790] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F717000, size=0x10000, state0=0x8, state1=0x8
+[ 454.325639] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F741000, size=0x10000, state0=0x8, state1=0x8
+[ 454.335546] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F765000, size=0x10000, state0=0x8, state1=0x8
+[ 454.351882] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F799000, size=0x10000, state0=0x8, state1=0x8
+[ 454.362405] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F7C3000, size=0x10000, state0=0x8, state1=0x8
+[ 454.372963] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F7ED000, size=0x10000, state0=0x8, state1=0x8
+[ 454.383320] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F817000, size=0x10000, state0=0x8, state1=0x8
+[ 454.391886] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F832000, size=0x10000, state0=0x8, state1=0x8
+[ 454.402356] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F85C000, size=0x10000, state0=0x8, state1=0x8
+[ 454.412747] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F886000, size=0x10000, state0=0x8, state1=0x8
+[ 454.423233] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F8B0000, size=0x10000, state0=0x8, state1=0x8
+[ 454.431795] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F8CB000, size=0x10000, state0=0x8, state1=0x8
+[ 454.442230] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F8F5000, size=0x10000, state0=0x8, state1=0x8
+[ 454.468251] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F949000, size=0x10000, state0=0x8, state1=0x8
+[ 454.478646] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F973000, size=0x10000, state0=0x8, state1=0x8
+[ 454.487169] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F98F000, size=0x10000, state0=0x8, state1=0x8
+[ 454.498255] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F9B9000, size=0x10000, state0=0x8, state1=0x8
+[ 454.509330] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13F9E3000, size=0x10000, state0=0x8, state1=0x8
+[ 454.520055] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FA0D000, size=0x10000, state0=0x8, state1=0x8
+[ 454.528680] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FA28000, size=0x10000, state0=0x8, state1=0x8
+[ 454.539802] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FA52000, size=0x10000, state0=0x8, state1=0x8
+[ 454.550553] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 454.551591] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 454.551628] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FA7C000, size=0x10000, state0=0x8, state1=0x8
+[ 454.555535] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 454.555583] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 454.555585] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.555586] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.555588] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.555589] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.555590] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.555590] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.555597] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 454.555845] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 454.555973] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 454.559831] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 454.559936] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080622B8, num_entries=3, flags=104
+[ 454.559938] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.559939] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.570660] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FAB8000, size=0x10000, state0=0x8, state1=0x8
+[ 454.580669] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FADC000, size=0x10000, state0=0x8, state1=0x8
+[ 454.589678] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FAFE000, size=0x10000, state0=0x8, state1=0x8
+[ 454.600073] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FB28000, size=0x10000, state0=0x8, state1=0x8
+[ 454.616695] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FB6C000, size=0x10000, state0=0x8, state1=0x8
+[ 454.634989] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FBB6000, size=0x10000, state0=0x8, state1=0x8
+[ 454.646194] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FBF5000, size=0x10000, state0=0x8, state1=0x8
+[ 454.657116] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FC2E000, size=0x10000, state0=0x8, state1=0x8
+[ 454.675364] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FC79000, size=0x10000, state0=0x8, state1=0x8
+[ 454.686671] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FCB8000, size=0x10000, state0=0x8, state1=0x8
+[ 454.705027] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FD03000, size=0x10000, state0=0x8, state1=0x8
+[ 454.715876] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FD3C000, size=0x10000, state0=0x8, state1=0x8
+[ 454.734729] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FD8D000, size=0x10000, state0=0x8, state1=0x8
+[ 454.748297] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FDCC000, size=0x10000, state0=0x8, state1=0x8
+[ 454.758741] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FDF6000, size=0x10000, state0=0x8, state1=0x8
+[ 454.767334] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FE11000, size=0x10000, state0=0x8, state1=0x8
+[ 454.804697] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FE90000, size=0x20000, state0=0x8, state1=0x8
+[ 454.812699] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FEB2000, size=0x10000, state0=0x8, state1=0x8
+[ 454.824107] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FEC4000, size=0x10000, state0=0x8, state1=0x8
+[ 454.852504] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FF23000, size=0x10000, state0=0x8, state1=0x8
+[ 454.860082] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 454.860832] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 454.860872] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FF35000, size=0x10000, state0=0x8, state1=0x8
+[ 454.864731] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 454.864773] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 454.864775] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.864776] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.864778] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.864779] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.864779] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.864780] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.864786] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 454.864964] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 454.865090] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 454.868872] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 454.868983] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080622B8, num_entries=3, flags=104
+[ 454.868985] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.868986] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 454.869293] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FF47000, size=0x10000, state0=0x8, state1=0x8
+[ 454.878978] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FF61000, size=0x10000, state0=0x8, state1=0x8
+[ 454.887334] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FF73000, size=0x10000, state0=0x8, state1=0x8
+[ 454.895140] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FF85000, size=0x10000, state0=0x8, state1=0x8
+[ 454.902873] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FF9F000, size=0x10000, state0=0x8, state1=0x8
+[ 454.910547] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FFB1000, size=0x10000, state0=0x8, state1=0x8
+[ 454.918969] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FFC3000, size=0x10000, state0=0x8, state1=0x8
+[ 454.926521] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FFD5000, size=0x10000, state0=0x8, state1=0x8
+[ 454.934288] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x13FFEF000, size=0x10000, state0=0x8, state1=0x8
+[ 454.941955] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x140001000, size=0x10000, state0=0x8, state1=0x8
+[ 454.949471] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x140013000, size=0x10000, state0=0x8, state1=0x8
+[ 454.957213] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14002D000, size=0x10000, state0=0x8, state1=0x8
+[ 454.964844] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14003F000, size=0x10000, state0=0x8, state1=0x8
+[ 454.972476] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x140051000, size=0x10000, state0=0x8, state1=0x8
+[ 454.980152] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14006B000, size=0x10000, state0=0x8, state1=0x8
+[ 454.987828] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14007D000, size=0x10000, state0=0x8, state1=0x8
+[ 454.995493] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14008F000, size=0x10000, state0=0x8, state1=0x8
+[ 455.003214] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1400A9000, size=0x10000, state0=0x8, state1=0x8
+[ 455.010922] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1400BB000, size=0x10000, state0=0x8, state1=0x8
+[ 455.018559] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1400CD000, size=0x10000, state0=0x8, state1=0x8
+[ 455.026090] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1400DF000, size=0x10000, state0=0x8, state1=0x8
+[ 455.033819] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1400F9000, size=0x10000, state0=0x8, state1=0x8
+[ 455.041464] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14010B000, size=0x10000, state0=0x8, state1=0x8
+[ 455.049024] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14011D000, size=0x10000, state0=0x8, state1=0x8
+[ 455.070971] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x140142000, size=0x10000, state0=0x8, state1=0x8
+[ 455.375661] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x140DEF000, size=0x10000, state0=0x8, state1=0x8
+[ 455.416951] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x141243000, size=0x10000, state0=0x8, state1=0x8
+[ 455.446454] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14146D000, size=0x10000, state0=0x8, state1=0x8
+[ 455.454055] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14147F000, size=0x10000, state0=0x8, state1=0x8
+[ 455.489153] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 455.490914] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 455.495526] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 455.495561] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 455.495563] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.495564] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.495566] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.495566] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.495567] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.495568] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.495574] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 455.495703] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 455.495818] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 455.495920] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 455.495941] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1439B4000, size=0x10000, state0=0x8, state1=0x8
+[ 455.499707] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080622B8, num_entries=3, flags=104
+[ 455.499709] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.499710] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.506313] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1439CF000, size=0x10000, state0=0x8, state1=0x8
+[ 455.525819] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143A0B000, size=0x10000, state0=0x8, state1=0x8
+[ 455.537927] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143A35000, size=0x10000, state0=0x8, state1=0x8
+[ 455.550309] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143A5F000, size=0x10000, state0=0x8, state1=0x8
+[ 455.561848] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143A83000, size=0x10000, state0=0x8, state1=0x8
+[ 455.572570] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143AA5000, size=0x10000, state0=0x8, state1=0x8
+[ 455.584707] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143ACF000, size=0x10000, state0=0x8, state1=0x8
+[ 455.596844] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143AF9000, size=0x10000, state0=0x8, state1=0x8
+[ 455.608984] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143B23000, size=0x10000, state0=0x8, state1=0x8
+[ 455.619089] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143B3E000, size=0x10000, state0=0x8, state1=0x8
+[ 455.631213] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143B68000, size=0x10000, state0=0x8, state1=0x8
+[ 455.650769] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143BA4000, size=0x10000, state0=0x8, state1=0x8
+[ 455.668925] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143BE7000, size=0x10000, state0=0x8, state1=0x8
+[ 455.679082] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143C02000, size=0x10000, state0=0x8, state1=0x8
+[ 455.691344] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143C2C000, size=0x10000, state0=0x8, state1=0x8
+[ 455.701812] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 455.702931] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 455.705221] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 455.705257] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 455.705259] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.705260] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.705262] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.705263] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.705264] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.705264] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.705270] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 455.705392] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 455.705499] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 455.705592] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 455.706659] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080622B8, num_entries=3, flags=104
+[ 455.706660] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.706661] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.706673] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143C56000, size=0x10000, state0=0x8, state1=0x8
+[ 455.719249] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143C80000, size=0x10000, state0=0x8, state1=0x8
+[ 455.729441] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143C9C000, size=0x10000, state0=0x8, state1=0x8
+[ 455.742378] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143CC6000, size=0x10000, state0=0x8, state1=0x8
+[ 455.762075] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143D02000, size=0x10000, state0=0x8, state1=0x8
+[ 455.774157] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143D2C000, size=0x10000, state0=0x8, state1=0x8
+[ 455.784271] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143D47000, size=0x10000, state0=0x8, state1=0x8
+[ 455.796485] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143D71000, size=0x10000, state0=0x8, state1=0x8
+[ 455.808615] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143D9B000, size=0x10000, state0=0x8, state1=0x8
+[ 455.820757] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143DC5000, size=0x10000, state0=0x8, state1=0x8
+[ 455.837410] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143DFE000, size=0x10000, state0=0x8, state1=0x8
+[ 455.858241] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143E49000, size=0x10000, state0=0x8, state1=0x8
+[ 455.871653] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143E88000, size=0x10000, state0=0x8, state1=0x8
+[ 455.884589] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143EC1000, size=0x10000, state0=0x8, state1=0x8
+[ 455.905064] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143F0C000, size=0x10000, state0=0x8, state1=0x8
+[ 455.916566] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 455.917413] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 455.919760] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 455.919793] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 455.919795] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.919796] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.919798] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.919799] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.919799] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.919800] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.919806] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 455.920016] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 455.920128] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 455.920218] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 455.920234] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143F4B000, size=0x10000, state0=0x8, state1=0x8
+[ 455.924053] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080622B8, num_entries=3, flags=104
+[ 455.924056] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.924057] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 455.941343] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143F96000, size=0x10000, state0=0x8, state1=0x8
+[ 455.954540] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x143FCF000, size=0x10000, state0=0x8, state1=0x8
+[ 455.975655] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14401F000, size=0x10000, state0=0x8, state1=0x8
+[ 455.990918] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x144063000, size=0x10000, state0=0x8, state1=0x8
+[ 456.001776] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x144085000, size=0x10000, state0=0x8, state1=0x8
+[ 456.014040] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1440AF000, size=0x10000, state0=0x8, state1=0x8
+[ 456.035550] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x144131000, size=0x20000, state0=0x8, state1=0x8
+[ 456.044509] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x144153000, size=0x10000, state0=0x8, state1=0x8
+[ 456.053349] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x144165000, size=0x10000, state0=0x8, state1=0x8
+[ 456.062171] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1441C3000, size=0x10000, state0=0x8, state1=0x8
+[ 456.070076] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1441D5000, size=0x10000, state0=0x8, state1=0x8
+[ 456.078014] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1441E7000, size=0x10000, state0=0x8, state1=0x8
+[ 456.085798] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x144201000, size=0x10000, state0=0x8, state1=0x8
+[ 456.093586] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x144213000, size=0x10000, state0=0x8, state1=0x8
+[ 456.101364] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x144225000, size=0x10000, state0=0x8, state1=0x8
+[ 456.109009] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x144237000, size=0x10000, state0=0x8, state1=0x8
+[ 456.116891] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x144251000, size=0x10000, state0=0x8, state1=0x8
+[ 456.124692] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x144263000, size=0x10000, state0=0x8, state1=0x8
+[ 456.132407] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x144275000, size=0x10000, state0=0x8, state1=0x8
+[ 456.140267] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14428F000, size=0x10000, state0=0x8, state1=0x8
+[ 456.148051] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1442A1000, size=0x10000, state0=0x8, state1=0x8
+[ 456.155835] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1442B3000, size=0x10000, state0=0x8, state1=0x8
+[ 456.163634] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1442CD000, size=0x10000, state0=0x8, state1=0x8
+[ 456.171432] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1442DF000, size=0x10000, state0=0x8, state1=0x8
+[ 456.179211] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1442F1000, size=0x10000, state0=0x8, state1=0x8
+[ 456.186867] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x144303000, size=0x10000, state0=0x8, state1=0x8
+[ 456.194860] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14431D000, size=0x10000, state0=0x8, state1=0x8
+[ 456.202877] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14432F000, size=0x10000, state0=0x8, state1=0x8
+[ 456.210693] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x144341000, size=0x10000, state0=0x8, state1=0x8
+[ 456.218598] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14435B000, size=0x10000, state0=0x8, state1=0x8
+[ 456.226456] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14436D000, size=0x10000, state0=0x8, state1=0x8
+[ 456.234191] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14437F000, size=0x10000, state0=0x8, state1=0x8
+[ 456.242060] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x144399000, size=0x10000, state0=0x8, state1=0x8
+[ 456.249905] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1443AB000, size=0x10000, state0=0x8, state1=0x8
+[ 456.257785] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1443BD000, size=0x10000, state0=0x8, state1=0x8
+[ 456.265198] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 456.266001] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 456.266900] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 456.266933] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 456.266935] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.266936] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.266937] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.266938] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.266939] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.266939] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.266945] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 456.267076] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 456.267171] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 456.267259] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 456.267299] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080622B8, num_entries=3, flags=104
+[ 456.267301] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.267302] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.550322] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14507D000, size=0x10000, state0=0x8, state1=0x8
+[ 456.590726] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1454BD000, size=0x10000, state0=0x8, state1=0x8
+[ 456.601626] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x145502000, size=0x10000, state0=0x8, state1=0x8
+[ 456.630510] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x145710000, size=0x10000, state0=0x8, state1=0x8
+[ 456.666221] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147BB4000, size=0x10000, state0=0x8, state1=0x8
+[ 456.681393] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147C53000, size=0x10000, state0=0x8, state1=0x8
+[ 456.703510] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147C90000, size=0x10000, state0=0x8, state1=0x8
+[ 456.715352] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 456.716221] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 456.719256] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 456.719290] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 456.719293] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.719294] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.719296] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.719296] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.719297] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.719298] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.719303] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 456.719416] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 456.719518] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 456.719605] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 456.719635] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147CBA000, size=0x10000, state0=0x8, state1=0x8
+[ 456.723433] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080622B8, num_entries=3, flags=104
+[ 456.723436] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.723437] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.732179] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147CD5000, size=0x10000, state0=0x8, state1=0x8
+[ 456.746593] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147CFF000, size=0x10000, state0=0x8, state1=0x8
+[ 456.760859] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147D29000, size=0x10000, state0=0x8, state1=0x8
+[ 456.775106] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147D53000, size=0x10000, state0=0x8, state1=0x8
+[ 456.788560] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147D77000, size=0x10000, state0=0x8, state1=0x8
+[ 456.801523] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147D99000, size=0x10000, state0=0x8, state1=0x8
+[ 456.815907] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147DC3000, size=0x10000, state0=0x8, state1=0x8
+[ 456.837884] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147DFF000, size=0x10000, state0=0x8, state1=0x8
+[ 456.852142] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147E29000, size=0x10000, state0=0x8, state1=0x8
+[ 456.864279] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147E44000, size=0x10000, state0=0x8, state1=0x8
+[ 456.884569] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147E87000, size=0x10000, state0=0x8, state1=0x8
+[ 456.894262] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 456.895092] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 456.899952] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 456.899991] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 456.899993] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.899994] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.899996] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.899997] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.899997] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.899998] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.900004] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 456.900137] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 456.900246] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 456.900337] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 456.900372] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080622B8, num_entries=3, flags=104
+[ 456.900373] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.900374] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 456.900385] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147EB1000, size=0x10000, state0=0x8, state1=0x8
+[ 456.915135] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147EDB000, size=0x10000, state0=0x8, state1=0x8
+[ 456.927251] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147EF6000, size=0x10000, state0=0x8, state1=0x8
+[ 456.941693] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147F20000, size=0x10000, state0=0x8, state1=0x8
+[ 456.956085] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147F4A000, size=0x10000, state0=0x8, state1=0x8
+[ 456.977934] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147F86000, size=0x10000, state0=0x8, state1=0x8
+[ 456.990082] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147FA2000, size=0x10000, state0=0x8, state1=0x8
+[ 457.005436] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147FCC000, size=0x10000, state0=0x8, state1=0x8
+[ 457.021769] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x147FF6000, size=0x10000, state0=0x8, state1=0x8
+[ 457.037294] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x148020000, size=0x10000, state0=0x8, state1=0x8
+[ 457.049690] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14803B000, size=0x10000, state0=0x8, state1=0x8
+[ 457.064776] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x148065000, size=0x10000, state0=0x8, state1=0x8
+[ 457.078488] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 457.079570] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 457.085839] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 457.085885] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 457.085887] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.085888] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.085890] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.085891] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.085892] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.085892] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.085898] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 457.086124] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 457.086251] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 457.086349] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 457.090163] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080622B8, num_entries=3, flags=104
+[ 457.090165] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.090166] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.095872] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1480C2000, size=0x10000, state0=0x8, state1=0x8
+[ 457.112074] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x148101000, size=0x10000, state0=0x8, state1=0x8
+[ 457.127920] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14813A000, size=0x10000, state0=0x8, state1=0x8
+[ 457.151357] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x148185000, size=0x10000, state0=0x8, state1=0x8
+[ 457.167568] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1481C4000, size=0x10000, state0=0x8, state1=0x8
+[ 457.190456] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14820F000, size=0x10000, state0=0x8, state1=0x8
+[ 457.206068] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x148248000, size=0x10000, state0=0x8, state1=0x8
+[ 457.229928] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x148299000, size=0x10000, state0=0x8, state1=0x8
+[ 457.245156] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1482D2000, size=0x10000, state0=0x8, state1=0x8
+[ 457.262065] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14830A000, size=0x10000, state0=0x8, state1=0x8
+[ 457.270246] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 457.271152] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 457.277715] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 457.277759] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 457.277762] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.277763] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.277764] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.277765] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.277766] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.277766] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.277773] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 457.277939] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 457.278055] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 457.278153] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 457.278183] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x148334000, size=0x10000, state0=0x8, state1=0x8
+[ 457.281991] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080622B8, num_entries=3, flags=104
+[ 457.281993] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.281994] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.303463] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1483BA000, size=0x20000, state0=0x8, state1=0x8
+[ 457.312653] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1483DC000, size=0x10000, state0=0x8, state1=0x8
+[ 457.321761] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1483EE000, size=0x10000, state0=0x8, state1=0x8
+[ 457.329531] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14841E000, size=0x10000, state0=0x8, state1=0x8
+[ 457.338648] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14845E000, size=0x10000, state0=0x8, state1=0x8
+[ 457.346721] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x148470000, size=0x10000, state0=0x8, state1=0x8
+[ 457.354549] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x148482000, size=0x10000, state0=0x8, state1=0x8
+[ 457.362709] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14849C000, size=0x10000, state0=0x8, state1=0x8
+[ 457.371161] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1484AE000, size=0x10000, state0=0x8, state1=0x8
+[ 457.379867] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1484C0000, size=0x10000, state0=0x8, state1=0x8
+[ 457.388589] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1484DA000, size=0x10000, state0=0x8, state1=0x8
+[ 457.397171] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1484EC000, size=0x10000, state0=0x8, state1=0x8
+[ 457.406629] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1484FE000, size=0x10000, state0=0x8, state1=0x8
+[ 457.414933] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x148518000, size=0x10000, state0=0x8, state1=0x8
+[ 457.423144] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14852A000, size=0x10000, state0=0x8, state1=0x8
+[ 457.431298] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14853C000, size=0x10000, state0=0x8, state1=0x8
+[ 457.439254] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14854E000, size=0x10000, state0=0x8, state1=0x8
+[ 457.447585] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x148568000, size=0x10000, state0=0x8, state1=0x8
+[ 457.455747] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14857A000, size=0x10000, state0=0x8, state1=0x8
+[ 457.463783] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14858C000, size=0x10000, state0=0x8, state1=0x8
+[ 457.471888] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1485A6000, size=0x10000, state0=0x8, state1=0x8
+[ 457.480039] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1485B8000, size=0x10000, state0=0x8, state1=0x8
+[ 457.488094] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1485CA000, size=0x10000, state0=0x8, state1=0x8
+[ 457.496167] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1485E4000, size=0x10000, state0=0x8, state1=0x8
+[ 457.504307] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x1485F6000, size=0x10000, state0=0x8, state1=0x8
+[ 457.512528] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x148608000, size=0x10000, state0=0x8, state1=0x8
+[ 457.520448] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14861A000, size=0x10000, state0=0x8, state1=0x8
+[ 457.528787] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x148634000, size=0x10000, state0=0x8, state1=0x8
+[ 457.536995] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x148646000, size=0x10000, state0=0x8, state1=0x8
+[ 457.544957] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x148658000, size=0x10000, state0=0x8, state1=0x8
+[ 457.759973] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 457.761295] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 457.765534] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 457.765568] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 457.765570] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.765571] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.765573] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.765574] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.765575] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.765575] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.765581] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 457.765705] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 457.765820] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 457.765914] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 457.765944] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080622B8, num_entries=3, flags=104
+[ 457.765946] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.765947] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.843052] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x149321000, size=0x10000, state0=0x8, state1=0x8
+[ 457.886727] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 457.887859] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 457.889590] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 457.890948] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080622B8, num_entries=3, flags=104
+[ 457.890951] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.890952] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.890983] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 457.891774] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 457.891776] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.891776] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.891778] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.891779] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.891780] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.891780] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.891787] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 457.891924] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 457.892057] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 457.892224] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080622B8, num_entries=3, flags=104
+[ 457.892225] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.892226] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.892656] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 457.893268] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 457.904431] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 457.904477] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 457.904479] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.904480] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.904481] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.904482] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.904482] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.904483] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.904489] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 457.904756] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 457.904878] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 457.909387] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 457.909416] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 457.909490] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=1080622B8, num_entries=3, flags=104
+[ 457.909493] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 457.909494] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.005317] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.006968] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.008163] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.013647] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.015278] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.016525] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.016567] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.016601] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.016634] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.016694] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.016725] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.016755] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.016795] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.016887] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.016919] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.016949] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.016979] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.017041] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.017070] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.017100] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.017129] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.017187] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.017219] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.017252] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.017281] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.017338] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.017367] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.017396] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.017425] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.018932] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.018966] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.018996] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019030] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019085] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019107] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019121] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019152] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019252] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019267] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019281] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019295] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019325] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019339] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019352] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019366] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019400] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019418] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019432] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.019465] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 458.118038] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x149B7D000, size=0x4000000, state0=0x8, state1=0x8
+[ 458.192106] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14DD1F000, size=0x1000, state0=0x8, state1=0x8
+[ 458.200494] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14DD20000, size=0x1000, state0=0x8, state1=0x8
+[ 458.208743] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14DD21000, size=0x1000, state0=0x8, state1=0x8
+[ 458.217475] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14DD23000, size=0x1000, state0=0x8, state1=0x8
+[ 458.225317] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14DD25000, size=0x1000, state0=0x8, state1=0x8
+[ 458.238220] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:SetMemoryAttribute:47: (STUBBED) called, addr=0x14DD28000, size=0x4000000, state0=0x8, state1=0x8
+[ 458.294535] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 458.295694] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 458.296237] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.296308] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 458.296310] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.296311] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.296313] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.296314] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.296315] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.296315] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.296322] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.296610] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.296741] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.296992] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.297027] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 458.297030] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.297032] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.437178] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 458.438545] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 458.439136] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.439167] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 458.439170] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.439171] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.439173] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.439173] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.439174] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.439175] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.439181] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.439347] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.439465] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.439558] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.439590] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 458.439592] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.439593] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.559379] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 458.560579] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 458.566386] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.566422] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 458.566425] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.566426] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.566428] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.566429] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.566429] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.566430] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.566437] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.566591] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.566712] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.567000] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 458.567015] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.567015] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.573729] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.621476] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 458.622740] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 458.626913] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.626987] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 458.626991] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.626992] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.626995] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.626996] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.626996] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.626997] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.627004] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.627525] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.627660] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.627945] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 458.627947] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.627948] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.632649] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.710626] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 458.711917] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 458.714790] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.714828] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 458.714830] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.714831] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.714833] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.714834] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.714835] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.714835] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.714842] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.715020] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.715137] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.715427] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 458.715429] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.715429] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.720314] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.770363] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 458.771566] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 458.774994] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.775032] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 458.775034] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.775035] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.775038] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.775038] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.775039] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.775040] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.775047] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.775181] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.775298] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.775605] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 458.775607] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.775608] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.780161] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.830773] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 458.831582] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 458.832814] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.832855] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 458.832858] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.832859] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.832861] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.832862] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.832862] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.832863] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.832870] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.833021] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.833141] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.833434] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 458.833436] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.833437] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.838825] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.893206] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 458.894069] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 458.897179] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.897224] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 458.897227] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.897227] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.897230] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.897230] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.897231] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.897232] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.897238] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.897377] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.897489] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.898070] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 458.898072] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.898073] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.902495] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.952375] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 458.953546] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 458.957179] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 458.957220] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 458.957222] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.957224] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.957225] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.957226] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.957227] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.957228] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.957234] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.957352] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.957461] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 458.957720] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 458.957722] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.957723] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 458.962305] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.011152] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 459.012052] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 459.016261] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.016303] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 459.016305] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.016306] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.016308] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.016309] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.016310] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.016310] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.016316] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.016775] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.016890] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.017143] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 459.017145] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.017146] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.021522] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.069450] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 459.070832] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 459.074459] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.074494] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 459.074496] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.074497] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.074499] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.074500] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.074501] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.074501] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.074508] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.074635] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.074748] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.075062] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 459.075064] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.075065] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.079546] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.132066] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 459.133591] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 459.134894] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.134942] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 459.134944] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.134945] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.134947] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.134948] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.134949] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.134950] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.134957] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.135101] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.135242] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.135609] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 459.135612] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.135613] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.141682] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.195100] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 459.196342] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 459.199507] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.199551] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 459.199554] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.199555] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.199557] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.199557] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.199558] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.199559] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.199566] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.199894] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.200034] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.200351] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 459.200353] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.200353] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.205024] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.255803] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 459.256955] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 459.257722] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.257757] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 459.257760] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.257760] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.257763] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.257763] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.257764] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.257765] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.257771] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.257895] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.258009] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.258265] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 459.258266] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.258267] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.263094] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.315129] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 459.316899] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 459.321961] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.322008] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 459.322010] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.322011] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.322014] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.322014] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.322015] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.322016] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.322022] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.322182] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.322314] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.322626] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 459.322628] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.322629] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.327821] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.377885] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 459.378675] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 459.383432] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.383475] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 459.383477] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.383478] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.383481] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.383482] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.383482] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.383483] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.383489] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.383719] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.383857] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.384173] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 459.384175] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.384176] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.389980] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.442215] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 459.443511] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 459.447990] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.448025] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 459.448028] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.448029] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.448031] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.448031] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.448032] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.448033] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.448039] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.448161] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.448276] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.448549] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 459.448551] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.448552] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.453689] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.505531] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 459.506831] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 459.508898] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.508937] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 459.508940] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.508941] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.508943] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.508944] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.508945] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.508945] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.508952] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.509169] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.509289] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.509572] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 459.509574] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.509574] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.515253] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.568632] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 459.570270] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 459.574471] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.574509] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 459.574511] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.574512] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.574514] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.574515] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.574516] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.574517] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.574523] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.575562] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.575700] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.576046] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 459.576049] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.576049] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.583495] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.632024] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 459.633417] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 459.637536] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.637572] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 459.637574] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.637575] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.637577] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.637578] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.637579] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.637579] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.637585] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.637717] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.637830] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.638092] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 459.638093] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.638094] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.642380] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.691175] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 459.692411] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 459.696170] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.696218] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 459.696221] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.696221] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.696223] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.696224] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.696225] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.696226] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.696232] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.696463] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.696627] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.696911] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 459.696913] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.696913] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.701473] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.791990] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 459.796408] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 459.798390] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 459.798876] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:CreateTransferMemory:802: (STUBBED) called addr=0x16418B000, size=0x5D000, perms=0x00000000
+[ 459.799329] Service <Warning> core\hle\service\sm\controller.cpp:QueryPointerBufferSize:46: (STUBBED) called
+[ 459.827421] Service.Audio <Warning> core\hle\service\audio\audren_u.cpp:QuerySystemEvent:97: (STUBBED) called
+[ 459.841634] Service.Audio <Warning> core\hle\service\audio\audren_u.cpp:RequestUpdateAudioRenderer:73: (STUBBED) called
+[ 459.845887] Service.Audio <Warning> core\hle\service\audio\audren_u.cpp:StartAudioRenderer:81: (STUBBED) called
+[ 459.876701] Service.Audio <Warning> core\hle\service\audio\audren_u.cpp:RequestUpdateAudioRenderer:73: (STUBBED) called
+[ 459.894126] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 459.895013] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 459.899049] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.899102] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 459.899104] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.899105] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.899107] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.899108] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.899109] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.899109] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.899115] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.899390] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.899536] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.918763] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.918909] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.918965] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 459.918967] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.918968] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.919483] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:ResetSignal:792: (STUBBED) called handle 0x0012809A
+[ 459.919790] Service.Audio <Warning> core\hle\service\audio\audren_u.cpp:RequestUpdateAudioRenderer:73: (STUBBED) called
+[ 459.942785] Kernel.SVC <Warning> core\hle\kernel\svc.cpp:ResetSignal:792: (STUBBED) called handle 0x0012809A
+[ 459.943583] Service.Audio <Warning> core\hle\service\audio\audren_u.cpp:RequestUpdateAudioRenderer:73: (STUBBED) called
+[ 459.943666] Service <Warning> core\hle\service\nvdrv\devices\nvdisp_disp0.cpp:flip:26: Drawing from address 114899000 offset 00000000 Width 1920 Height 1080 Stride 1920 Format 1
+[ 459.944454] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl.cpp:IocCtrlEventWait:46: (STUBBED) called, syncpt_id=4294967295, threshold=0, timeout=-1, is_async=false
+[ 459.945061] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.945096] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=10805E0B8, num_entries=6, flags=104
+[ 459.945098] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.945099] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.945101] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.945102] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.945103] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.945103] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.945109] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.945229] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.945327] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.945386] Render.OpenGL <Warning> video_core\renderer_opengl\gl_rasterizer_cache.cpp:GetFramebufferSurfaces:690: hard-coded for render target 0!
+[ 459.945458] Service.HID <Warning> core\hle\service\hid\hid.cpp:SetNpadJoyAssignmentModeSingleByDefault:528: (STUBBED) called
+[ 459.945491] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SubmitGPFIFO:135: (STUBBED) called, gpfifo=108062318, num_entries=3, flags=104
+[ 459.945495] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented
+[ 459.945495] HW.GPU <Error> video_core\command_processor.cpp:WriteReg:46: Special buffer methods other than Bind are not implemented

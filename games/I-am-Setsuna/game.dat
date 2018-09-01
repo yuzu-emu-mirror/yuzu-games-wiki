@@ -1,0 +1,20 @@
+title = "I am Setsuna"
+description = "I AM SETSUNA introduces the authentic JRPG style of yesteryear to Nintendo Switch™! Journey with Setsuna as she prepares to make the ultimate sacrifice and save the people of her land. A powerfully nostalgic experience, blending a classic style of story-telling, battle system and gameplay. An emotionally impactful story which immerses players in the narrative of Setsuna, whose story portrays heartrending sorrow A new battle system inspired by the timeless JRPG classic, Chrono Trigger A great homage to JRPG masterpieces of yesteryear, beautiful character designs and varied in-game locales evoke nostalgia for classic RPGs."
+github_issues = []
+needs_system_files = false
+needs_shared_font = Unknown
+game_type = "switch"
+
+[[ releases ]]
+title = "0100849000bda000"
+region = "all"
+release_date = "2017-03-03"
+
+The game runs well with minor sync issues and 20-30fps and can softlock at anytime!
+
+
+Settings:
+
+Docked Mode = on
+
+MultiCore = off

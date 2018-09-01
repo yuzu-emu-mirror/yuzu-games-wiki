@@ -1,0 +1,19 @@
+title = "Crash Bandicoot N. Sane trilogy"
+description = " Play Crash Bandicoot™ anywhere! Your favorite marsupial, Crash Bandicoot™, is back! He's enhanced, entranced and ready-to-dance with the N. Sane Trilogy game collection. Now you can experience Crash Bandicoot like never before. Spin, jump, wump and repeat as you take on the epic challenges and adventures through the three games that started it all, Crash Bandicoot™, Crash Bandicoot™ 2: Cortex Strikes Back and Crash Bandicoot™ 3: Warped. Relive all your favorite Crash moments in their fully-remastered graphical glory and get ready to put some UMPH in your WUMP!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = true
+game_type = "switch"
+
+[[ releases ]]
+title = "0100d1b006744000"
+region = "usa"
+release_date = "2018-06-29"
+
+
+The game Runs with low speed with major graphical Errors
+
+
+Settings:
+Docked = off
+MultiCore = off

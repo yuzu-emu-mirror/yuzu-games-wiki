@@ -1,0 +1,20 @@
+title = "Kirby -Star-Allies"
+description = "Kirby™ is back—and he's finally on the Nintendo Switch console in HD! But this time, he's not alone. Recruit enemies by hitting them with hearts and gather helpers for a party of up to four characters. On top of that, you can join with up to three friends for a different kind of team-up action! Features: The newest Kirby title comes to the Nintendo Switch console in HD Recruit up to three enemies as helpers by hitting them with hearts Returning copy abilities include, Sword, Fire, Water, Bomb, Broom and many more! Imbue copy abilities with different elements, such as wind, water, fire and electricity, by borrowing or giving them to helpers to add more attack power, unleash powerful attacks, or solve puzzles Up to 4 players can join in with the horizontal Joy-Con™ controller configuration, or 8 Joy-Con with 4 Joy-Con Grips."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01007e3006dda000"
+region = "all"
+release_date = "2018-03-16"
+
+Goes in Game With a save file and without one Runs in nvdec as it tries to play a video at the start
+
+
+Settings:
+
+Docked Mode = on
+
+MultiCore = off

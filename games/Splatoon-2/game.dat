@@ -1,0 +1,20 @@
+title = "Splatoon-2!"
+description = "For the first time, take Turf War battles on-the-go with the Nintendo Switch™ system, and use any of the console's portable play styles for intense local multiplayer* action. Even team up for new 4-player co-op fun in Salmon Run! Two years have passed since the original Splatoon™ game was released, and two years have also passed in Inkopolis! So expect a fresh wave of fashion, not to mention new weapons and gear. Dual wield the new Splat Dualies or stick to mainstays like chargers and rollers, which have been remixed with new strategic possibilities. As always, Turf War is the favored sport among Inklings, but they also dig ranked battles, taking down Octarians in a robust single-player campaign, and battling enemy Salmonids in one dangerous part-time job! No matter which way you play, splat at home or on-the-go with Nintendo Switch. Staying fresh never felt so good. Turf War - Team up in fierce 4-on-4 multiplayer battles* to see which team can cover the most turf with ink Salmon Run – 2-4 players* can team up for co-op fun and defeat waves of enemy Salmonids. New weapons – Dual wield the new Splat Dualies and avoid getting splatted with the new Dodge Roll move. Mainstays like the Splat Roller and Splat Charger have been remixed to include new gameplay mechanics, and all special weapons are brand-new. Local and Online Multiplayer - In a first for the series, compete in local multiplayer Turf War battles*, whether in TV mode or on-the-go in handheld or tabletop modes. Online battles also make a return** New ways to play – Play with the Joy-Con™ controllers or the Nintendo Switch™ Pro Controller (sold separately), both of which support motion controls for better aiming Fresh Updates - Similar to the Splatoon™ game for the Wii U™ console, updates will roll out post-launch, adding new content and in-game events. Smart Device Support** - An upcoming smart-device application for the Nintendo Switch system will allow players to set play appointments with friends and teammates, as well as voice chat with friends during play sessions. LAN Play - Up to 10 docked systems – eight players and two spectators – can connect via wired LAN (additional accessories required; sold separately). This feature allows players to create local Private Battle tournaments without the need for an internet connection. Local wireless play is perfect for your regular gaming get-togethers, but LAN Play is where it's at when you want to organize a serious tournament. Customize – Change your Inkling's style with different weapons, headgear, clothes, and shoes. Gear isn't just aesthetic; it offers different boosts in battles. amiibo - Compatible with all Splatoon™ series amiibo™ figures. By tapping these amiibo, the figure's character will appear in the game and befriend players. Befriend an amiibo character and they will remember favorited weapons, gear, outfits and option settings."
+github_issues = []
+needs_system_files = false
+needs_shared_font = Unknown
+game_type = "switch"
+
+[[ releases ]]
+title = "01003bc0000a0000"
+region = "all"
+release_date = "2017-06-21"
+
+
+Splatoon 2 goes in game and runs at a low speed and is missing lots of graphics also you need a save to bypass the tutorial 
+
+Settings:
+
+Docked Mode = on
+
+MultiCore = off
