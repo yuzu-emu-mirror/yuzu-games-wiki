@@ -1,21 +1,11 @@
 title = "The World Ends with You -Final Remix-"
-
 description = "Head back to the streets of Tokyo as Neku Sakuraba in The World Ends with You -Final Remix- for Nintendo Switch. The remastered game combines an old gaming favorite with HD visuals and additional story history."
-
 github_issues = []
-
 needs_system_files = false
-
 needs_shared_font = false
-
 game_type = "switch"
 
-
-
 [[ releases ]]
-
 title = "0100C1500B82E000"
-
 region = "usa"
-
 release_date = "2018-10-12"
