@@ -7,10 +7,5 @@ game_type = "switch"
 
 [[ releases ]]
 title = "0100A48008AE8000"
-region = "eur"
-release_date = "2017-03-08"
-
-[[ releases ]]
-title = "0100A48008AE8000"
-region = "usa"
+region = "all"
 release_date = "2017-03-08"
