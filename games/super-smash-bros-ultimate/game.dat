@@ -1,0 +1,11 @@
+title = "Super Smash Bros. Ultimate"
+description = "Super Smash Bros. Ultimate is a crossover fighting game developed by Bandai Namco Studios and Sora Ltd. and published by Nintendo. It is the fifth installment in the Super Smash Bros. series."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01006A800016E000"
+region = "all"
+release_date = "2018-12-07"
