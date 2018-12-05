@@ -1,0 +1,11 @@
+title = "Attack on Titan 2"
+description = Attack on Titan 2 is the gripping sequel to the action game based on the worldwide hit anime series "Attack on Titan.""
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010034500641A000"
+region = "usa"
+release_date = "2018-03-20"
