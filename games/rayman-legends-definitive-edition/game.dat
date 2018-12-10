@@ -1,0 +1,11 @@
+title = "Rayman Legends: Definitive Edition"
+description = "Rayman Legends is a platform video game developed by Ubisoft Montpellier and published by Ubisoft. It is the fifth main title in the Rayman series and the direct sequel to the 2011 game Rayman Origins."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01005FF002E2A000"
+region = "all"
+release_date = "2017-11-12"
