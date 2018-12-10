@@ -1,0 +1,11 @@
+title = "Die for Valhalla!"
+description = "Die for Valhalla! is an action RPG!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = true
+game_type = "switch"
+
+[[ releases ]]
+title = "0100D98005E8C000"
+region = "all"
+release_date = "2018-05-29"
