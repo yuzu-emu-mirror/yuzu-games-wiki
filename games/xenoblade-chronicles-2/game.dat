@@ -9,8 +9,3 @@ game_type = "switch"
 title = "0100E95004038000"
 region = "all"
 release_date = "2017-12-01"
-
-[[ releases ]]
-title = "0100F3400332C000"
-region = "jpn"
-release_date = "2017-12-01"

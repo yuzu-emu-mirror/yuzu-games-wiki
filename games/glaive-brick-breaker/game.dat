@@ -1,5 +1,5 @@
 title = "Glaive: Brick Breaker"
-description = "Glaive: Brick Breaker is a classic and popular arkanoid-type game with beautiful 3D graphics. \n\nMany power-ups, tons of different stages and dynamic gameplay. "
+description = "Glaive: Brick Breaker is a classic and popular arkanoid-type game with beautiful 3D graphics. \n\nMany power-ups, tons of different stages and dynamic gameplay."
 github_issues = []
 needs_system_files = false
 needs_shared_font = false

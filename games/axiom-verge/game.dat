@@ -1,6 +1,6 @@
 title = "Axiom Verge"
 description = "Axiom Verge is a Metroidvania video game developed by Thomas Happ. It is a side-scroller action-adventure game where the player controls Trace, a scientist who, after suffering a crippling injury, wakes up in an ancient and high-tech world."
-github_issues = [658]
+github_issues = []
 needs_system_files = false
 needs_shared_font = false
 game_type = "switch"
