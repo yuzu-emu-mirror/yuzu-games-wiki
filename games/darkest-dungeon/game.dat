@@ -1,5 +1,5 @@
 title = "Darkest Dungeon"
-description = "Darkest Dungeon is a role-playing video game developed by Red Hook Studios and published by Merge Games."
+description = "Darkest Dungeon is a role-playing video game developed by Red Hook Studios and published by Merge Games. "
 github_issues = []
 needs_system_files = false
 needs_shared_font = false
@@ -7,5 +7,5 @@ game_type = "switch"
 
 [[ releases ]]
 title = "010083B00989C000"
-region = "all"
+region = "eur"
 release_date = "2018-01-18"

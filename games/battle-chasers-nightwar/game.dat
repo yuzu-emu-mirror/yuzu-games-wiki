@@ -5,7 +5,7 @@ needs_system_files = false
 needs_shared_font = false
 game_type = "switch"
 
-[[ releases ]]
+ [[ releases ]]
 title = "0100551001D88000"
 region = "all"
 release_date = "2018-05-15"

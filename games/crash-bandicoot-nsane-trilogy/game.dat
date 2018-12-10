@@ -9,3 +9,8 @@ game_type = "switch"
 title = "0100D1B006744000"
 region = "all"
 release_date = "2018-06-29"
+
+[[ releases ]]
+title = "01006D300BDA0000"
+region = "jpn"
+release_date = "2018-06-29"

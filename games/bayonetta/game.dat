@@ -1,5 +1,6 @@
 title = "Bayonetta"
-description = "Bayonetta is an action-adventure hack and slash video game developed by PlatinumGames and published by Sega. Originally released for Xbox 360 and PlayStation 3, it was later released for Wii U and then for the Nintendo Switch.\nBayonetta stars the eponymous character, a witch who is capable of shapeshifting and using various firearms. She also possesses magical attacks."
+description = "Bayonetta is an action-adventure hack and slash video game developed by PlatinumGames and published by Sega. Originally released for Xbox 360 and PlayStation 3, it was later released for Wii U and then for the Nintendo Switch.
+Bayonetta stars the eponymous character, a witch who is capable of shapeshifting and using various firearms. She also possesses magical attacks."
 github_issues = []
 needs_system_files = false
 needs_shared_font = false
