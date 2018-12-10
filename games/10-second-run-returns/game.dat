@@ -1,0 +1,11 @@
+title = "10 Second Run RETURNS"
+description = "The legendary action game, \"10 Second Run\" is back! The rules (and controls) are simple: \"Move Sideways\" and \"Jump & Dash\" to get to the finish line in under 10 seconds! Unlock different types of stick figures as you clear the stages! Run solo or race against others in multiplayer mode! Any time, any where, with anyone, simply run, run, run! You'll be surprised how much excitement is packed in 10 seconds- and how long 10 seconds can be!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01004D1007926000"
+region = "all"
+release_date = "2018-01-25"

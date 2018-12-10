@@ -1,0 +1,11 @@
+title = "EARTH WARS"
+description = "In the year 2020 the world has become a nest for the unknown hostile organisms (E.B.E.). No current weapons appear to make any impact on the E.B.E. leaving humanity powerless, and on the brink of destruction. However, humanity has now got one last hope for survival in the development of bioarmor which fuses the EBE's body tissue with metal. These are the Special Enhanced A.N.T.I troops who have incorporated this weaponry with remodeling surgery. With the power of the A.N.T.I., humanity for the first time successfully destroys the EBE Baron class. In the wake of this victory, humanity has mounted a large-scale counteroffensive. With the hopes of the new strength of the A.N.T.I. \n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009B7006C88000"
+region = "all"
+release_date = "2018-01-25"

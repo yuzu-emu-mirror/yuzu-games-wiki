@@ -1,0 +1,11 @@
+title = "Frederic 2"
+description = "Defeat famous opponents in musical duels. Immense yourself in fantastic story of Frederic's endeavors. Catch all the Easter Eggs and subtle parodies hidden in the background. Practice your skills until perfection and become the Master of the Piano.\n\nThe world of music is once again threatened. The art of soulful music, the kind that touches your heart, is in grave danger of disappearance. The evil forces that you fought so bravely are back! And they are even more powerful and desperate. Once again you'll need to step into Frederic Chopin's shoes and face opponents that have only one agenda - to enslave the musical world, mass produce soulless artists with their same-sounding radio hits, and reap enormous profits, hindering any creativity in the process. \n\n10 challenging musical duels with some of the most renown pop stars\n10 fantastic, catchy tracks, inspired by Frederic Chopin's composition and different music genres.\nQuirky story with tons of parody and twists\nExtremely easy to get to, but hard to master gameplay\nHand-painted animated comic"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01000490067AE000"
+region = "all"
+release_date = "2018-02-01"

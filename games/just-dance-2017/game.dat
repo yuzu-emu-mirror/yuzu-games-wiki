@@ -1,0 +1,11 @@
+title = "JUST DANCE® 2017"
+description = "Just Dance® 2017 is more fun to play than ever! Grab your friends and family and start dancing anytime, anywhere, with anyone on Nintendo Switch™. Be sure to keep the party going with the included three-month trial of Just Dance® Unlimited, giving you access to an online catalog with 300+ of your favorite Just Dance tracks!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100BCE000598000"
+region = "all"
+release_date = "2017-03-03"

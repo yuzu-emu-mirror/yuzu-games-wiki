@@ -1,0 +1,11 @@
+title = "Batman: The Enemy Within"
+description = "In this latest chapter from the award-winning studio behind Batman - The Telltale Series, both Bruce Wayne and Batman will be forced into precarious new roles. The Riddler has returned to terrorize Gotham City, but his gruesome puzzles merely foreshadow an even greater crisis. With the arrival of a ruthless federal agent and the return of a still nascent Joker, Batman must navigate uneasy alliances while Bruce Wayne undertakes a perilous series of deceptions. Which of Batman’s new allies will you choose to trust? And how deep into the darkness will you let Bruce descend?\n\nIncludes access to all five episodes in this all-new season from the award-winning studio, Telltale Games."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100E6300AA3A000"
+region = "all"
+release_date = "2018-10-02"

@@ -1,0 +1,11 @@
+title = "Grid Mania"
+description = "If you own or buy Tactical Mind or Mad Carnage, you can save 20% off this title!\n\nSolve over 170 levels in 4 different modes:\n \nCasual Puzzle – No pressure, place each ball on its right spot without worrying about the number of moves you can make.\n\nQuick Challenge – Levels must be completed in just a few moves. There is probably only one solution, can you find it?\n\nGrid Madness – Make the most of your brainpower to fill the whole level with colors in Match-3 style game.\n\nChain Reaction – Build large chains of balls of the same color in a fun but mind-boggling maze.\n \nIf you manage to solve all those riddles, the challenge is not yet over: Grid Mania generates random levels which might prove even more puzzling to wrap your head around.\n \nFeatures:\n• 4 game modes\n• 170 custom-crafted levels\n• Randomly generated levels\n• Chilly music\n• Great for short gaming sessions\n• Real challenge for your brain"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010031200981C000"
+region = "all"
+release_date = "2018-03-02"

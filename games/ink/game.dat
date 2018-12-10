@@ -1,0 +1,11 @@
+title = "INK"
+description = "The world’s first splatformer is here! INK is a fast-paced platformer with a twist – levels are invisible and must be splattered with brightly colored paint before they can be seen!\n\nPlayers can reveal levels in a variety of ways: double-jumping, wall sliding or squishing an enemy all create splashes and splodges. Even failing is useful – when your blocky character perishes it explodes in a shower of color, painting the surrounding area to reveal more of the level for your next try!\n\nKey Features\n•\tTest your platforming skills across 75 INKgeniously designed levels!\n•\tJump, squish, slide and die to splatter brightly colored paint and uncover your surroundings!\n•\tSplat enemies, dodge missiles, and take down super-challenging bosses!\n•\tLocal 2-player mode: Take on INK with a friend, exclusive to Nintendo Switch (supports split Joy-Con play) \n•\t20 deviously hidden coins to find and collect!\n•\tAmbient and atmospheric original soundtrack by Vincent Rubinetti\n•\tPrecision platforming makes INK a perfect challenge for speedrunners \n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010060300A67C000"
+region = "all"
+release_date = "2018-06-19"

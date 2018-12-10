@@ -1,0 +1,11 @@
+title = "Wasteland 2: Director's Cut"
+description = "From the Producer of the original Fallout comes Wasteland 2, the sequel to the first-ever post-apocalyptic computer RPG.\n\nThe Wasteland's hellish landscape is waiting for you to make your mark... or die trying. With over 80 hours of gameplay, you will deck out your Desert Ranger squad with the most devastating weaponry this side of the fallout zone, test the limits of your strategy skills, and bring justice to the wasteland. "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010039A00BC64000"
+region = "all"
+release_date = "2018-09-13"

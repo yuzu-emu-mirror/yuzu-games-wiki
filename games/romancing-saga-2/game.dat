@@ -1,0 +1,11 @@
+title = "Romancing SaGa 2"
+description = "Sit upon the throne of the Varennes Empire and control several generations of rulers in a valiant battle against the Seven Heroes. A dynamic freeform scenario system - a hallmark of the million-selling SaGa RPG series - enables you to take command of a variety of protagonists along the line of imperial succession and experience the history of a nation as it grows and changes based on your actions.\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01001F600829A000"
+region = "all"
+release_date = "2017-12-15"

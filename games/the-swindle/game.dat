@@ -1,0 +1,11 @@
+title = "The Swindle"
+description = "London, 1849. Scotland Yard will soon activate its breakthrough surveillance technology, 'The Devil's Basilisk'. \nIts surveillance capabilities will be total, and your career as a master thief will be over. \nSteal it, before that can happen.\nFrom the safety of your rickety airship, you can modify your thief with new skills, tools, and all manner of technological horrors to tackle the wealthiest and most secure buildings in London.\nAll the buildings you’ll be robbing are randomly-generated, so you’ll never get the same level twice.\nHave you got what it takes to pull off The Swindle?"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010040D00B7CE000"
+region = "all"
+release_date = "2018-10-11"

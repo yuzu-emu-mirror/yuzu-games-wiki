@@ -1,0 +1,11 @@
+title = "Final Light, The Prison"
+description = "Governments and institutions manipulated by very powerful men, who created perverse constructions for their service under the pseudonym black butterfly.\n\nOne of these terrifying secret buildings was the S-313 prison, created in 1968 in an inhospitable area unknown to humanity.\n\nPoliticians, spies, inventors and anyone else who could possibly harm those who live in the shadows and control the world, were imprisoned while others were led to believe that they had simply disappeared.\n\nThey were flooded with darkness and confusion, being subjected to all kinds of barbaric acts.\n\nMany prisoners and non-prisoners died and their souls became trapped within the prison’s walls.\n\nNow it’s a ghost prison, where everything that happened stays in the past.\n\nFreeing these hate-filled souls will be our irresponsible and difficult mission.   \n\n• Play by conspiring against governments and secret institutions.\n\n• Either participate or don’t! In certain areas of the game, you'll find small tests that you can take. If you pass them, you win a reward. The decision to accept the challenge or not depends solely on you!\n\n• In the virtual store, you can get or buy all of the many weapons with specific uses for each adverse situation. There are two types: consumables and others that come loaded and never run out.\n\n• Replayability with various challenges to overcome.\n\n• Big, difficult-to-defeat bosses.\n\n• Dark, desolate and extremely hostile environments.\n\n• A style of Metroidvania gameplay and a roguelike philosophy.\n\n• Get the infinite jet pack and experience new sensations.\n\n• As a roguelike game, you have two options when starting a new game, you choose:\n  • With a new seed you will have a different generation of the game.\n  • With the same seed, you will have an identical game situation.\n\n• Don’t miss out on this adventure as it will continue on with future chapters in new conspiracies."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01001BA00AE4E000"
+region = "all"
+release_date = "2018-07-27"

@@ -1,0 +1,11 @@
+title = "Gate of Doom"
+description = "Gate of Doom a is classic multiplayer action RPG for one to two players. Originally release in 1990, and a noted classic arcade title from the 90s. "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010069B002CDE000"
+region = "all"
+release_date = "2018-02-15"

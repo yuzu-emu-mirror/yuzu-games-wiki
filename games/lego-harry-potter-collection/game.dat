@@ -1,0 +1,11 @@
+title = "LEGO® Harry Potter™ Collection"
+description = "The LEGO® Harry Potter™ Collection brings LEGO® Harry Potter™: Years 1-4 and LEGO® Harry Potter™: Years 5-7 remastered! This compilation unites the creative prowess of LEGO and the expansive world of Harry Potter, with an exciting journey full of spell-casting, potion-making, puzzle-solving, lessons, dueling and much more for players of all ages to enjoy.\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010052A00B5D2000"
+region = "all"
+release_date = "2018-10-30"

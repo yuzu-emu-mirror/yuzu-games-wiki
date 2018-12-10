@@ -1,0 +1,11 @@
+title = "Othello"
+description = "The well-acclaimed boardgame for all ages, Othello is now on Nintendo Switch!\nPlay in the comfort of your home or outside, and play in a style that suits you best!\n\nA total of 16 levels of computer AI difficulty are available for Single Player Modes!\nHints on where the stones can be placed, and displays to show which tiles will be flipped in this move are also available to help new players understand the game better!\n\nTwo-player mode is also available!\nBoth players can play together on 1 Nintendo Switch by simply sharing the Joy-con, or simply operate directly on the Touch Screen!\nDo play with your family and friends!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100902001014000"
+region = "all"
+release_date = "2017-03-23"

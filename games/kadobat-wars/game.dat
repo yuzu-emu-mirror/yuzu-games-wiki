@@ -1,0 +1,11 @@
+title = "KADOBAT WARS!"
+description = "KADOBAT WARS! is a action card game battle game featuring fights by drawing out many cards using energy accumulated in real time!\n\nThere are 2 types of alien:\n\nAlien Hula\nAlien Kane\n\nProve your strength by fighting as either alien!\n\nFriend battle is also available!\n\n50 challengeable stages waits for you!\n\nLet's be the winner making the best of many players and various effective cards!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01000A800ADEE000"
+region = "all"
+release_date = "2018-06-07"

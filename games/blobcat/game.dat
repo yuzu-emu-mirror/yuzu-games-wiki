@@ -1,0 +1,11 @@
+title = "BlobCat"
+description = "In BlobCat it's your job to protect the DiceMice!  \nPlace arrows and guide the Dicemice to the Micehole! But beware, the naive BlobCats are rolling around (not quite at the speed of sound)! Solve over 90 different levels spanning over 5 worlds, each with a unique gameplay twist! \n\nLet the battle begin!\nYou want more action? Then the Multiplayer is for you! \nUp to four players try to save as many DiceMice as possible! Outsmart your opponents and send the BlobCats straight to your enemies! \nPlay with your friends ]on the couch or go online and battle the whole world! You can even do both!\n\nFeatures:\n- 110 Puzzle  \n- 6 different worlds  \n- Local and online multiplayer  \n- Collect over 100 stickers  \n- Dress your own mice\n- Crossplay support"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100F3500A20C000"
+region = "all"
+release_date = "2018-08-09"

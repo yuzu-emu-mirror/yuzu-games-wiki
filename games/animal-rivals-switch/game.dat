@@ -1,0 +1,11 @@
+title = "Animal Rivals Switch"
+description = "Animal Rivals is a crazy party game for up to 4 players. \nDifferent characters, game modes, lots of stages and tons of fun. \nMany unlockables like costumes and skins.\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010065B009B3A000"
+region = "all"
+release_date = "2018-07-18"

@@ -1,0 +1,11 @@
+title = "InnerSpace"
+description = "InnerSpace is an exploration flying game set in the Inverse, a world of inside-out planets with no horizons. Soar through ancient skies and abandoned oceans to discover the lost history of this fading realm, where gods still wander. Your greatest journey is within. "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100F200049C8000"
+region = "all"
+release_date = "2018-01-16"

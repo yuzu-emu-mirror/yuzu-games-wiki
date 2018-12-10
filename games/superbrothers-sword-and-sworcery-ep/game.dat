@@ -1,0 +1,11 @@
+title = "Superbrothers: Sword & Sworcery EP"
+description = "Traverse a mythic little realm, use a sword to do battle & evoke ‘sworcery’ to solve mystical musical mysteries. Experience a videogame world that is affected by moon phases & help a wandering warrior monk complete her woeful errand.\nSuperbrothers: Sword & Sworcery EP features an album's worth of original music by noted composer Jim Guthrie as well as artwork & designs by Superbrothers Inc, crafted & engineered by videogame wizards at Capy in Toronto, Canada."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100AA400C396000"
+region = "all"
+release_date = "2018-11-30"

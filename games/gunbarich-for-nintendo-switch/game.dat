@@ -1,0 +1,11 @@
+title = "GUNBARICH for Nintendo Switch"
+description = "Gunbarich launched in arcade version in 2001. It is a new game with elements of puzzle and shooting in the late works of Japanese brand \"Psikyo\". In Japan's amusement arcade, there is always one popular game."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01002B2004F76000"
+region = "all"
+release_date = "2017-08-03"

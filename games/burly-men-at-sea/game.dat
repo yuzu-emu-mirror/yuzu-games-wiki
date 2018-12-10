@@ -1,0 +1,11 @@
+title = "Burly Men at Sea"
+description = "One of TIME’s top ten games of the year, Burly Men at Sea is a folktale about a trio of large, bearded fishermen who step away from the ordinary to seek adventure.\n\nWith gameplay halfway between a visual novel and a point-and-click adventure, the branching story carries its ungainly heroes into waters where lurk creatures from Scandinavian folklore and other misadventures. You play as storyteller and wayfinder, shaping a custom tale that begins again where it ends.\n\n“The closest thing I’ve played to an interactive fairy-tale.” —The Telegraph\n\n“It’s whimsical and charming; a real breath of fresh air.” —Paste Magazine\n\n…\n\nBRANCHING STORY: Play through multiple choice-driven adventures, each designed to be completed in a single sitting.\n\nINNOVATIVE CONTROLS: Shape the narrative through a unique, draggable viewport and your interactions within it.\n \nPLAYFUL AESTHETIC: Colorful art style with handcrafted animation, set to a whimsical original soundtrack inspired by the game’s Scandinavian setting.\n\n…\n\nBurly Men at Sea is the second game from husband-and-wife team Brain&Brain, developed during their own adventures as nomads and erstwhile farmhands."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01002BD00983E000"
+region = "all"
+release_date = "2018-04-12"

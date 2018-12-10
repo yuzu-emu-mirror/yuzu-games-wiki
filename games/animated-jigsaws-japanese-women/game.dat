@@ -1,0 +1,11 @@
+title = "Animated Jigsaws: Japanese Women"
+description = "Complete moving jigsaw puzzles alone or team up with friends and finish them together!\nAnimated Jigsaws: Japanese Women contains short videos as\njigsaw puzzles that are pieced together to reveal beautiful ladies.\n\nThe video puzzles capture 10 beautiful Japanese ladies wearing traditional kimono and yukata clothes in various locations such Kyoto City, by a lake, and relaxing in a hot spring bath. \n\nAn easy-to-use interface such as separating edge and inner pieces makes solving puzzles fun and relaxing. Tackle the puzzles by yourself, or team up with friends and solve them together.\n\nFeatures:\n    Solve puzzles with friends in multiplayer for up to 4 players\n    Easy-to-play traditional jigsaw puzzle\n    Selection of three background colors\n    3 sizes for each puzzle: 60, 120 and 240 pieces\n    Saves time spent completing each puzzle and each size\n    Separate edge and inner pieces\n    Each piece snaps into place for stress-free experience\n    Ability to snap individual pieces together\n    Save a puzzle half way and continue later\n    Selection of traditional Japanese music to choose from"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01002BB00C01E000"
+region = "all"
+release_date = "2018-10-04"

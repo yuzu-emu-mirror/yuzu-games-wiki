@@ -1,0 +1,11 @@
+title = "Atelier Lydie and Suelle ~The Alchemists and the Mysterious Paintings~"
+description = "Lydie and Suelle are twin sisters, who are also alchemists, living in Merveille, the capital of Kingdom of Adalet, and they aim to make their atelier the best atelier in the kingdom.\n\nOne day, they find a Mysterious Painting with a strange and wonderful world inside of it, full of rare materials for their alchemy. This discovery is sure to become the very key to realizing their dream.\n\nA new Mysterious story to mark the 20th anniversary of the Atelier series! \n\nDelve into the fantastic worlds of Mysterious Paintings together with Lydie and Suelle!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010009900947A000"
+region = "all"
+release_date = "2018-03-27"

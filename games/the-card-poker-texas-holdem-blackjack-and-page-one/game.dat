@@ -1,0 +1,11 @@
+title = "THE Card: Poker, Texas Holdem, Blackjack and Page One"
+description = "This game includes Poker, Texas hold 'em, Blackjack, and Page One.\n\n-Built-in ranking system! Compete with users across the country over the coins earned in a game.\n-The more coins you have, the bigger bets you can make, so the game gets more and more exciting!\n-The achievement system lets you can gather backgrounds and card designs as you get into the game.\n-You can make your ideal game environment by customizing the number of rounds, backgrounds, and card designs!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100EB600AB5E000"
+region = "all"
+release_date = "2018-09-20"

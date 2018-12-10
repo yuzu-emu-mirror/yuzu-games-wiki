@@ -1,0 +1,11 @@
+title = "Cartoon Network Adventure Time: Pirates of the Enchiridion"
+description = "Ahoy! The Land of Ooo is underwater and it’s up to Finn and Jake to find out why.  Join our heroes as they explore the high seas, search for hidden clues, interrogate shady suspects and fight pirates to solve the mystery and save their waterlogged world!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C4E004406000"
+region = "all"
+release_date = "2018-07-17"

@@ -1,0 +1,11 @@
+title = "Lost Phone Stories"
+description = "If you own or buy A Normal Lost Phone or Another Lost \nPhone: Laura's Story, you can save 60% on this title!\n\nLost Phone Stories contains the two critically acclaimed and \naward winning games A Normal Lost Phone and Another \nLost Phone: Laura's Story.\n\nThe Lost Phone games are about exploring the intimacy of \nan unknown person whose phone you've found. \n\nThey are designed as narrative investigations where you \nmust piece together elements from the different \napplications, messages and pictures to progress. Through \nthe interface of a mobile phone, you must discover what \nhappened to their owner. \n\nExperience relatable stories which help build empathy with \nthe characters, allowing to explore difficult topics and social \nissues. "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010046600B76A000"
+region = "all"
+release_date = "2018-07-19"

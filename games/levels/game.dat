@@ -1,0 +1,11 @@
+title = "Levels+"
+description = "Levels+ is an addictive puzzle game that you'll want to challenge over and over again.\n\nThe rule is simple. Slide and match panels with the same color and number to level up!\n\nThe blue panel is your ally. It will get stronger as you level up. \nThe red panel is your enemy and it will get in your way. Level up your blue panels to defeat your foe. \nThe yellow panel is your treasure. Level it up to increase its wealth. \n\nThere is no time limit, and the auto-save feature allows you to play even with interruptions, so reach for your high score at your own pace. \n\nIt looks simple but you need to use your brain.\nRecommended for both people not so good at games and for those who are looking for a certain challenge, this puzzle game features a new refreshing feeling!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C960041DC000"
+region = "all"
+release_date = "2017-07-13"

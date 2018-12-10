@@ -1,0 +1,11 @@
+title = "Oh My Godheads: Party Edition"
+description = "• Grab eleven Godheads with their own game-changing abilities, such as explosions, mind-control and freeze\n• Visit ten locations with their own obstacles to overcome, like the waterfalls in Japan, Italian volcanoes, and more\n• Who can say no to a Penguin with a top hat, monocle & smoking pipe? Meet nine curious characters\n• Challenge yourself in various game modes, like Capture the Head, King of the Head, Headhunters and Last Man Standing\n• Play with your friends in two-player co-op Trials of the Gods mode and face challenges set forth by the gods\n• Challenge others in sets of matches with a classification, or play customised matches in tournament mode\n• Explore the “Gallery” for characters profiles, Heads, levels and concept art of the game"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01003B900AE12000"
+region = "all"
+release_date = "2018-09-25"

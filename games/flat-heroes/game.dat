@@ -1,0 +1,11 @@
+title = "Flat Heroes"
+description = "When was the last time you felt like a hero? Flat Heroes rewards you with that good old feeling of surviving impossible levels alongside a smooth modern design with a minimalist style. With a simple set of movements — Run. Jump. Dash. Attack. — and delightful controls, Flat Heroes encourages you to stylishly navigate and survive over 300 handcrafted levels, destroy the most epic bosses around and truly be the two-dimensional hero (or heroes!) you’ve always dreamed you could be.\n\nEasy to learn and hard to master; it is easy to pick up and even easier to learn, but don’t let that fool you! During your adventure you will face increasingly difficult challenges that will require you to master the game’s controls on the journey to becoming a true Hero. And while Flat Heroes comes along with a very minimalistic art style, it’s spiced up with stunning effects making it one truly unique eye candy experience.\n\nGot stuck in the campaign or want to survive longer in the challenge modes? Too intense for you to take on alone? Let your friends join the party; Flat Heroes is the perfect couch co-op experience! Invite a few friends, get some pizza and overcome the challenges together!\n\nKey Features:\n*Play alone or share the experience with up to 4 friends on all modes\n*Drop in & Drop Out Co-Op\n*More than 300 Levels\n*Face 10 unique final Bosses\n*Unlimited survival Levels, with daily challenges and Leaderboards\n*Versus Modes offer you and your friends an option to compete against each other"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C53004C52000"
+region = "all"
+release_date = "2018-08-02"

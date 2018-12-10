@@ -1,0 +1,11 @@
+title = "Grim Fandango Remastered"
+description = "Something's rotten in the land of the dead, and you're being played for a sucker. Meet Manny Calavera, travel agent at the Department of Death. He sells luxury packages to souls on their four-year journey to eternal rest. But there's trouble in paradise. Help Manny untangle himself from a conspiracy that threatens his very salvation.\n\nGrim Fandango's epic story of four years in the life (or death) of Manny Calavera, travel agent to the dead, has been remastered to look, sound, and control even better than when it won GameSpot's Game of the Year award upon its original launch.\n\nRemastered version includes:\n\n• Repainted, hi-res character textures\n• New, dynamic lighting\n• Classic score re-recorded with a full live orchestra\n• Over 2 hours of exclusive developer commentary\n• Concept art browser"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100B7900B024000"
+region = "all"
+release_date = "2018-11-01"

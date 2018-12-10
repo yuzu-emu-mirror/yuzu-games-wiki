@@ -1,0 +1,11 @@
+title = "Risk"
+description = "Lead your troops to victory in this modern version of the classic RISK® game, with enhanced 3D visuals, custom rules, and tactical gameplay. Play at home or on the go with up to four players, or play solo against opponents online from around the world. \n\nClassic rules with a twist: Play with the standard rules or choose Capture the Capitals for a shorter game.\n \nModern battle map: Direct your troops from a high-tech control room and get tactical advice to help you reach your objectives.\n\nExciting rewards: Unlock epic videos of tank battles, air combat, and more as you lead your troops to victory.\n\nChallenge yourself online: Play against opponents from around the world or take on the best of the best in League Play. \n\nThanks to the Nintendo Switch™ system, you can now enjoy RISK® anytime, anywhere! Play at home on your TV screen or on the go with the tabletop and handheld modes."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100E8300A67A000"
+region = "all"
+release_date = "2018-10-30"

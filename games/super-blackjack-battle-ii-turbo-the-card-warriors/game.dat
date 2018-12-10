@@ -1,0 +1,11 @@
+title = "Super Blackjack Battle II Turbo - The Card Warriors"
+description = "Super Blackjack Battle II Turbo Edition introduces a roster of 12 very different characters all competing to become the greatest Blackjack player of all time.\n\nFollowing an invitation by the owner of the largest Casino in Las Vegas and Godfather of the local most influential crime family, each character will face the other participants in a face-off game of cards.\n\nOnly the best of them will fly to Vegas to challenge the Godfather himself in a final match, not knowing that the tournament itself is nothing more than a charade to hide a ruthless master plan to defeat the competing clan family...\n\nSo what's the deal with this game? \n-It's Blackjack!\n-It tributes to a well-known arcade fighting game from the '90s\n-A roster with 12 characters from all around the World such as Mark, an undercover FBI Agent, Kamiko from Japan, seeking revenge for her Uncles death or Gregor, a South African warlord.\n-Ten different story lines with individual endings and dialogues in an epic Single player campaign\n- Play with up to four players"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010093800A98C000"
+region = "all"
+release_date = "2018-08-07"

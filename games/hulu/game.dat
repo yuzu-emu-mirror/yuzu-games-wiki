@@ -1,0 +1,11 @@
+title = "Hulu"
+description = "Access our huge online streaming library – featuring exclusive SVOD past seasons from shows like Seinfeld, South Park, Fargo and Fear the Walking Dead; bold originals you can’t stream anywhere else; along with today’s most popular current shows, movies, kids series, and more. \n\nAnd now you have the option to add Live TV. Stream Hulu’s entire library, plus over 50 top Live and On Demand channels, including FOX, ABC, NBC, CBS, ESPN, FX, NBCSN, FS1, History Channel and TNT. Watch live sports from top pro and college leagues plus regional sports networks available in many areas. Plus, enjoy national news with local feeds available in select cities, popular kids shows, and can’t-miss events.\n\nLimited and commercial-free options are available for plans without Live TV.\n\n\nFeatures\n\nWith any subscription, you’ll enjoy features that help you customize how you watch:\n\nA reimagined TV experience that adjusts to your tastes every time you use Hulu.\n\nUp to 6 personalized profiles to enjoy separate collections of shows, movies, networks, and more.\n\nMy Stuff to keep track of shows, networks, and movies for quick access across your devices.\n\nFliptray for recommendations on what to watch next.\n\n\nWith a Hulu with Live TV subscription, you’ll have access to additional features including:\n\nRecord Live TV with your Cloud DVR to watch your favorites anytime.\n\nWatch concurrent streams on multiple devices.\n\nTrack and record games from your favorite teams with My Teams.\n\n\nIf you’re new to Hulu, your base Hulu subscription fee will be $7.99/month for the Limited Commercials plan or $11.99/month for the No Commercials plan, or starting at $39.99/month for a Hulu with Live TV plan. You’ll be charged as a recurring transaction starting at the end of your free trial (unless you cancel during the free trial). Payment will automatically renew unless you cancel your account at least 24 hours before the end of the current subscription month. You can manage your subscription, cancel anytime, or turn off auto-renewal by accessing your Hulu account via Settings. Hulu is available to US customers only."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100A66003384000"
+region = "all"
+release_date = "2017-11-09"

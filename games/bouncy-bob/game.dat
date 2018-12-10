@@ -1,0 +1,11 @@
+title = "Bouncy Bob"
+description = "Defeat hordes of zombies and seal your fate with the push of one button! \n\nBeat your own score in Single Mode or invite your friends to play together in Multiplayer Mode.\n\nKey features:\n• Local multiplayer for up to 4 players\n• Challenging single mode with high scores\n• Music by Piotr Surmacz\n• 15 arenas to play\n• HD Rumble\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100A2700A86E000"
+region = "all"
+release_date = "2018-04-27"

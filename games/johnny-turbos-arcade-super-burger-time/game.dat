@@ -1,0 +1,11 @@
+title = "Johnny Turbo's Arcade Super Burger Time"
+description = "Super Burger Time, play as Peter Pepper Jr. and complete the burgers, but watch out for Mr. Hot Dog, Mr. Egg and the dangerous Mr. Pickle! "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01000E400222A000"
+region = "all"
+release_date = "2018-05-17"

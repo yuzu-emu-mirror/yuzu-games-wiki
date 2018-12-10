@@ -1,0 +1,11 @@
+title = "DARK SOULS™: REMASTERED NETWORK TEST VER."
+description = "Get ready for your return to Lordran and play Dark Souls: Remastered early with this network test version. The network test version is available to download starting on 9/19. The test servers will be live and playable:\n\n9/21 5:00pm - 9:00pm (PDT)\n9/22 5:00pm - 9:00pm (PDT)\n9/23 5:00pm - 9:00pm (PDT)\n\nThe test will take place in the Undead Parish with access to single player and multiplayer content.\n \nThe full game will be available October 19, 2018. Save data from this Network Test version will not be carried over to the full game."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100DF200AC96000"
+region = "all"
+release_date = "2018-09-19"

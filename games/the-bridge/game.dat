@@ -1,0 +1,11 @@
+title = "The Bridge"
+description = "The Bridge is a logic puzzle game that forces you to reevaluate your preconceptions of physics and perspective. It is Isaac Newton meets M. C. Escher. Manipulate gravity to redefine the ceiling as the floor while venturing through impossible architectures. Explore increasingly difficult worlds, each uniquely detailed and designed to leave you with a pronounced sense of intellectual accomplishment. The Bridge exemplifies games as an art form, with beautifully hand-drawn art in the style of a black-and-white lithograph.\n\nKey Features: \n48 thought-provoking puzzles, each unique from the rest, all requiring an innovative solution.\nGravity manipulations, gravitational vortexes, parallel dimensions, and many more mind-bending concepts in a world where the laws of physics are not what they seem.\nM. C. Escher-esque worlds with impossible architecture set in the style of beautifully hand-drawn black-and-white lithographic art.\nAn alternate version of the game unlocked after the main storyline has been completed, including challenging alternate versions of each of the 24 main puzzles, along with an alternate ending.\nA time-backtracking system to alleviate any fears of making a mistake."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01002A2004530000"
+region = "all"
+release_date = "2017-09-07"

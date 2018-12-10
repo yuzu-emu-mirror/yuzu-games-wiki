@@ -1,0 +1,11 @@
+title = "Carcassonne"
+description = "Make your kingdom come alive with meeples, tiles and tactics!\n \nThe best-selling tile-based game is now available on Nintendo Switch™!\n \nDraw and place your tiles to build your medieval city. Cities, roads, monasteries and fields will help you enlarge your landscape, where you can place your followers, the meeples. Knights, robbers or farmers... Each meeple will help you control your territory and win points.\nBut be careful, you'll need your wits and tactics to optimize your points! Place your tiles and meeples wisely to stop your opponents and win the game!\n  \n\nSimple gameplay and easily accessible tactics mean fun for the whole family.\nChallenge up to 6 players! \nRelive all the fun of the board game experience on your Nintendo Switch in tv or Tabletop mode.\nPlay against the computer or face off against your friends at home using pass and play.\nChoose the 3D landscape or try out the aerial view to refine your strategy.\nTwo expansions included! Discover brand-new tiles and meeples in the two expansions included in the game, The River and The Abbot. Use them to embellish your city and enrich your gameplay with new rules and more ways to earn points."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C9200A9C2000"
+region = "all"
+release_date = "2018-12-06"

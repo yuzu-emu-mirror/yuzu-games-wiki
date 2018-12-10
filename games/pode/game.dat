@@ -1,0 +1,11 @@
+title = "Pode"
+description = "Pode is a co-op puzzle exploration game about a rock and a fallen star working together to solve ancient puzzles in a stunning environment inspired by Norwegian art and culture.\nTravelling through the insides of a mysterious and magical mountain, Bulder and Glo breathe life into an ancient sleeping world and esplore the ruins of a long lost civilization with their unique talents and abilities. Only by helping each other can these unlikely adventure companions solve the ancient puzzles that open the secret passageways up the cavers of Mount Fjellheim. \nThe soundtrack is by the legendary Austin Wintory! \nKey Features:\nExploration. discover a beautiful and ancient cave system and uncover its secrrets to reach your goal. \nPuzzles. Solve puzzles, riddles and mysteries. Combine the two character's special abilities to overcome obstacles. \nCo-op or single player. share the experience with a friend, or enjoy playing it by yourself. \nUnique art style. Enjoy a world inspired by Norwegian art and nature. "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009440095FE000"
+region = "all"
+release_date = "2018-06-21"

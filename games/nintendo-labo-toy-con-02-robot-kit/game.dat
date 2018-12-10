@@ -1,0 +1,11 @@
+title = "Nintendo Labo Toy-Con 02: Robot Kit"
+description = "Nintendo Labo™ Toy-Con 02: Robot Kit "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009AB0034E0000"
+region = "all"
+release_date = "2018-04-20"

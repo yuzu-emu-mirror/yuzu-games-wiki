@@ -1,0 +1,11 @@
+title = "Freaky Awesome"
+description = "Freaky Awesome is a roguelite with the randomly generated environment, permadeath and a whole lot of gradually unlocked content. Game developers are fans of such games as Binding of Isaac and Broforce. But Freaky Awesome raises the degree of madness! During the fight, you can mutate into a new form with unique mechanics and quickly adapt to survive. In addition to mutations, you can unlock skills and objects that affect mechanics and gameplay. Play solo or co-op with your friends!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01001EE00AD4C000"
+region = "all"
+release_date = "2018-10-26"

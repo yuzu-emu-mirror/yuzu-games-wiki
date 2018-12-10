@@ -1,0 +1,11 @@
+title = "Caveman Warriors"
+description = "Jump back in time and free your inner caveman. Smash heads in this cooperative platformer game. Play solo or team up with up to 4 players. \n\nDifferent playable characters: Choose one of the playable characters, but don’t worry! You can change your character at any time in the game and play with them all!\n\n1-4 players: Play solo, with one, two or three friends. Work together to become unstoppable!\n\nVaried Enemies: Each level has different enemies, watch out as they can catch you unguarded.\n\nSecret Levels: Unlock secret levels inside the game for more excitement!\n\nChallenging: Challenge yourself to unlock all the achievements! "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01006DB004566000"
+region = "all"
+release_date = "2017-12-05"

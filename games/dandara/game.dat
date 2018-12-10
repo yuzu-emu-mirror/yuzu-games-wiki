@@ -1,0 +1,11 @@
+title = "Dandara"
+description = "The world of Salt hangs on the brink of collapse. The citizens, once free spirits, now stand oppressed and isolated. But not all is lost, for out of this aether of fear arises a heroine, a ray of hope. Her name is Dandara.\n\nWelcome to a unique 2D metroidvania platformer full of mystical creatures and boundless exploration. Defy gravity as you jump across floors, walls, and ceilings alike. Discover the mysteries and secrets hidden throughout the world of Salt and its diverse array of characters. Empower Dandara for combat and survival against enemies bent on oppression.\n\nAwaken, Dandara, to bring freedom and balance to this directionless world."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100BFC002B4E000"
+region = "all"
+release_date = "2018-02-06"

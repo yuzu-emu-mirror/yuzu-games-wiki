@@ -1,0 +1,11 @@
+title = "Dead Fun Pack: Penguins and Aliens Strikes Again"
+description = "Dead Fun Pack: Penguins and Aliens Strike Again is a collection for those who love challenges, including Run Run and Die and Mutant Alien Moles of the Dead. \n\nBoth games, designed by Pixel Bones Studio, offer very simple playability and a colorful look, while challenging the player’s reflexes. \n\nAre you ready to take on the madcap challenges in this Dead Fun Pack?"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01008D800A162000"
+region = "all"
+release_date = "2018-08-10"

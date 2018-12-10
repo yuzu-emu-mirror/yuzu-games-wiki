@@ -1,0 +1,11 @@
+title = "Mr Shifty"
+description = "Shift through bullets, and master lightning-fast takedowns in an all new kind of action game from tinyBuild and Team Shifty! Mr. Shifty follows a teleportation-fueled heist to break into the world's most secure facility."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010031F002B66000"
+region = "all"
+release_date = "2017-04-13"

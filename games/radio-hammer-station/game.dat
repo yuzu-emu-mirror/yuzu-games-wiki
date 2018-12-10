@@ -1,0 +1,11 @@
+title = "RADIO HAMMER STATION"
+description = "A popular radio station spreading its love of groove with some the best DJs in the world. Providing tunes to groove to throughout the day. \nIts true purpose is to serve as the radio station of justice, beating evil down with a ginormous hammer! \nTo ensure peace and harmony, RADIOHAMMER continues to go live with style!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01008FA00ACEC000"
+region = "all"
+release_date = "2018-07-12"

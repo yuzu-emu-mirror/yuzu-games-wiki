@@ -1,0 +1,11 @@
+title = "Nine Parchments"
+description = "Nine Parchments is a co-op action-RPG game of magic mayhem from Frozenbyte, the creators of the Trine series.\n\nA group of runaway wizard apprentices decide to skip their training to search for the Nine Parchments. \n\nAs the wannabe wizards rapidly discover powerful new spells and ignore all safety aspects, it's natural that their hasty progress results in lots of deadly accidents...\n\nWield the power of the elements and master a diverse and ever-changing arsenal of spells\nUnlock new playable characters, wizard hats and magical staves\nLevel up and train your characters in the magical arts, but choose your path wisely!\nBattle strange creatures and mighty bosses in a breathtakingly beautiful world, set in the Trine universe\nOnline and local co-op with 1-4 players"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100D03003F0E000"
+region = "all"
+release_date = "2017-12-05"

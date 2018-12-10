@@ -1,0 +1,11 @@
+title = "Tower Of Babel"
+description = "Experience the most daring of deeds with the moork knight. Reset the balance of the mysterious towers of Babel.\n\nChallenge yourself in a variety of different 1-2-3Dimensional environments.\n\nMove more slowly, more quickly or change track to evade the hundreds of obstacles which will aim to keep you from reaching the summit.\n\nGet the jetpack to reach impossible regions in hostile places.\n\nOvercome your own challenges by conquering the towers in the shortest time possible."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100F7B00595C000"
+region = "all"
+release_date = "2017-09-28"

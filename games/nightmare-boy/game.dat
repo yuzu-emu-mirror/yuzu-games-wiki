@@ -1,0 +1,11 @@
+title = "Nightmare Boy"
+description = "This story takes place in Donorok, in the state of Noctum. After the King of Noctum, Aster, disappears, chaos rules over the world. The relationships between Monsters, Mongos and Dreamers are completely unstable, and Donorok - the land so heavily affected by the chaos - slowly absorbs terrain from the surrounding regions.  "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01005F4009112000"
+region = "all"
+release_date = "2018-01-16"

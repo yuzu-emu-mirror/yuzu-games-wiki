@@ -1,0 +1,11 @@
+title = "Hardway Party"
+description = "Hardway Party is a fast-paced arcade game. Unlock over 50 unique cars and over a dozen worlds. Play with up to 3 of your friends in versus mode or crazy survival mode. If that's not enough, show off your skills in 6 differently-themed missions. Let’s get the party rollin’!\n\n\nKEY FEATURES:\n\nSINGLE PLAYER\nBuild bridges across more than a dozen unique worlds.\n\nVERSUS\nCompete locally with up to 3 other players in fast-paced Versus mode.\n\nSURVIVAL\nWork with your friends to try and manage extra roads in the crazy Survival mode.\n\nSIX UNIQUE MISSIONS\nThe islands are swarming with zombies – clear the horde! (No, honking won't work)\nDragon mode! Hunt for sheep and princesses, but watch out for explosive decoys\nFire! Save burning towns as a brave firefighter\nCatch thieves and robbers as a law enforcer\nFight hunger by delivering pizzas\nLeave no kid behind as a school bus driver"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100BB600C096000"
+region = "all"
+release_date = "2018-09-27"

@@ -1,0 +1,11 @@
+title = "Jumping Joe & Friends"
+description = "If you own or buy Pirates: All Aboard!, Astro Bears Party, or Robonauts, you can save 50% on this title!\n\nThe creators of Robonauts and Astro Bears Party proudly present a new title perfect for intense playtimes with your friends and family. \n\nHelp Joe and his fellas on their upwards journey. Be quick as a flash and dodge roaring cannonballs, vicious bats and other traps. Perform high scores or leave your competitors in the dust! \n\nFeatures:\n• 3 Single modes: Arcade, Race and Hero with 8 unique heroes to unlock and upgrade\n• Multiplayer “couch party” mode with 42 funny characters to choose\n• Plenty of bonuses to collect and activate\n• No learning needed, start right away\n• High scores and wild challenges\n• Suitable for all ages and skills"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100D87009954000"
+region = "all"
+release_date = "2018-05-25"

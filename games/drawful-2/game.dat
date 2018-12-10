@@ -1,0 +1,11 @@
+title = "Drawful 2"
+description = "The team behind the hit party games Fibbage, Quiplash, and YOU DON’T KNOW JACK presents Drawful 2, the game of terrible drawings and hilariously wrong answers! \n\nYou use your phone or tablet to draw weird and funny things like “pitcher of nachos” or “death by trombone.”\n\nThe other players type in what they think the (probably terrible) drawing is and those become the multiple-choice wrong answers. Then everyone - even an audience of potentially thousands – tries to guess the REAL answer.\n\nDrawful 2 includes new features like the ability to add your own user generated prompts to make even crazier custom games with your friends, as well as expanded tools for streaming including censoring players.\n\nDrawful 2 is a go-to party game that everyone can play and enjoy!\n\nNOTE: Drawful 2 is in English only.\nNOTE: This game is local multiplayer only.\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100F7800A434000"
+region = "all"
+release_date = "2018-06-21"

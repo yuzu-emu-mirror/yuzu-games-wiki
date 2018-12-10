@@ -1,0 +1,11 @@
+title = "Party Golf"
+description = "Tee off simultaneously to a psychedelic 2D world, with satisfyingly simple physics, except it’s a frenetic free-for-all to get in the hole. It’s instant fun with endless variety; there are trillions of gameplay combinations, from giant banana balls to turbo power-ups. This spontaneous couch party may drive a wedge between friends, but have everyone shouting “just one more round!”\n\n4-player local-multiplayer and even 8-player matches with everyone using their own JoyCon\nover 100 included game modes, and you can make your own with our super powerful gameplay customisation system\nprocedurally generated terrains so you'll never play the same hole twice\nover 10 different powerups to suit any play style \n\n... and crazy powerups, night golf, checkpoints, elimination modes, rat-king... the number of ways to play is practically endless!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100B8E00359E000"
+region = "all"
+release_date = "2017-10-19"

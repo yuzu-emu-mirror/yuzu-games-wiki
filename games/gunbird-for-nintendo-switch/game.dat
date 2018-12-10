@@ -1,0 +1,11 @@
+title = "GUNBIRD for Nintendo Switch"
+description = "Who called “GUNBIRD (Adventurer of the sky)”.\n\nIn the 19th century Europe, five GUNBIRDs are challenging. They keep each wish to themselves and collect “A magic mirror of Atra”. Finally, whose wish will be granted with the power of mirror? It depends on your playing skill…\n\nAll players can enjoy 1st round and senior player will be satisfied with 2nd round too.\n\nTHIS IS THE “Psikyo’s GUNBIRD”!\nLet’s say “GUNBIRD”!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01003C6008940000"
+region = "all"
+release_date = "2018-02-08"

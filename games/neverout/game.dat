@@ -1,0 +1,11 @@
+title = "Neverout"
+description = "It will lock you down in a room and won't let you escape. Will you survive or ever get out? Your only choice is to find your way to the next room, but watch out, many traps lie ahead. Wander around for hours solving over 60 beautifully crafted levels.\n\nNeverout is a mysterious puzzle game. It puts you in a small, claustrophobic room, that has only one way out and its unique mechanics lets every wall become the floor. Watch out for something heavy, getting electrocuted or giant spikes."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010043800AD94000"
+region = "all"
+release_date = "2018-07-10"

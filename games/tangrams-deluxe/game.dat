@@ -1,0 +1,11 @@
+title = "Tangrams Deluxe"
+description = "It's time to fit in like a tangram master! Turn, flip, and drag shapes together to solve the puzzle and reveal a doodle.\n\nA tangram is a Chinese logic puzzle in which you must fit seven pieces into a target shape without any overlapping.\n\nEnjoy solving over 200 deceptively simple puzzles in Tangrams Deluxe!\n\n● Beautiful Presentation.\n● Intuitive Controls.\n● A doodle for each puzzle.\n● 200+ Puzzles!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009CC00BD6E000"
+region = "all"
+release_date = "2018-09-27"

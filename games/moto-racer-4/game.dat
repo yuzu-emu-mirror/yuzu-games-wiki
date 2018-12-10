@@ -1,0 +1,11 @@
+title = "Moto Racer 4"
+description = "Moto Racer 4 is racing game you can play on asphalt or dirt.\n\nIn a world where freestyle and risk-taking dominate, impose your riding style all around the world. Impress your opponents and win races with class!\n\nMaster drifting, wheelies, sharp turns and other techniques to earn a place on the podium!\n\nCustomize and upgrade your bike! Progress through Moto Racer 4 and take in the stunning environments.\nFrom the United States to the Himalayas by way of the desert, Moto Racer 4 takes you through perilous, breathtaking courses at 100 miles an hour."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01002ED00B01C000"
+region = "all"
+release_date = "2018-11-20"

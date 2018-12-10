@@ -1,0 +1,11 @@
+title = "Shio"
+description = "“Shio” is a challenging platformer game in which you deep and moving story by jumping from lantern to lantern. If you like challenge yourself, you will like Shio as well!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C2F00A568000"
+region = "all"
+release_date = "2018-08-23"

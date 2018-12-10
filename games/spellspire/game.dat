@@ -1,0 +1,11 @@
+title = "Spellspire"
+description = "Spellspire is a thrilling mashup of word game and action role playing game. Pick letters from a grid to spell words and shoot them from your wand as spells. The longer the word, the bigger the blast!\n\nBuy more powerful wands, hats and robes with magical special effects and abilities. Power through tough encounters and bossfights with health potions, spell scrolls and other magical items.\n\nWill you reach the top of the Spellspire, and what will you find?\n\nFeatures:\nExciting mashup of word game and action role playing game\nPick letters to spell words, words are blasted at monsters as spells\nCollect gold and upgrade your gear between levels\nUse consumable magical items to push through tough encounters"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100E74007EAC000"
+region = "all"
+release_date = "2017-11-09"

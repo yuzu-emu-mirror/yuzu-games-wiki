@@ -1,0 +1,11 @@
+title = "The Lost Child"
+description = "The Lost Child is an RPG set in modern Japan. Hayato Ibuki, an occult journalist, is thrust into the middle of a conflict between angels, demons, and fallen angels. Now, he must capture defeated foes and turn them into valuable allies."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01008A000A404000"
+region = "all"
+release_date = "2018-06-19"

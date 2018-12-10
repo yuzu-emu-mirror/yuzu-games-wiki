@@ -1,0 +1,11 @@
+title = "Monster Energy Supercross - The Official Videogame"
+description = "Live the adrenaline of the 2017 Monster Energy Supercross Championship with the official videogame!\nRace on the official tracks with the official riders from 250SX and 450SX or create your custom rider and bike and conquer the top of the leaderboard."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100742007266000"
+region = "all"
+release_date = "2018-02-13"

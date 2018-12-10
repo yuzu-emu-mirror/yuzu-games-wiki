@@ -1,0 +1,11 @@
+title = "DRAGON BALL XENOVERSE 2 FOR NINTENDO SWITCH"
+description = "DRAGON BALL Xenoverse 2 arrives on Nintendo Switch™ with all-new functionality!\n\nNew functionality added just for Nintendo Switch™\nPlay with up to 6 players simultaneously over local wireless! In addition to the same great online play, the Nintendo Switch™ version also supports local co-op raid boss battles with up to 6 players and 3 on 3 versus matches.\nActivate ultimate moves with motion controls! Move the Joy-Con™ in tandem with the on-screen icons to perform the Kamehameha and all sorts of other classic DRAGON BALL moves in battle with your own hands.\nSupports shared local multiplayer! A single Nintendo Switch™ is all you need to enjoy fast-paced 1 on 1 versus matches wherever you go!\n\nWhat is DRAGON BALL Xenoverse 2?\nThe wait is over. It's time to fight!\nBecome a Time Patroller in order to preserve DRAGON BALL’s history in this unprecedented experience.\n\nYou are the protagonist! Stand with Goku and his friends as you battle a new enemy that has been warping DRAGON BALL’s history. Fight alongside famous fighters from Z, Super, GT, and more, including movie-only characters like Turles, Broly, and Janemba, the mysterious Masked Saiyan, and many others.\n\nCreate your own warrior avatar from one of DRAGON BALL’s 5 races. Everything from your race, gender, build, and face can be customized down to the smallest detail. Each race has its own special transformative Awoken Skill, including Super Saiyan 3 for Saiyans and turning giant for Namekkians. Get ready to recreate yourself and dive into the world of DRAGON BALL.\n\nThe setting for this adventure is Conton City, where time patrollers come from far and wide. Here you can communicate with other players from around the world, fly through the air, enjoy PvP combat, and team up in groups of 6 to tackle powerful raid bosses.\n\nDRAGON BALL Xenoverse 2 also contains many opportunities to talk with characters from the animated series. You can join Frieza’s army, rescue Namekkians, learn new moves directly from Goku and his friends at Time Patrol Academy... All sorts of new opportunities await you in the world of DRAGON BALL."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010078D000F88000"
+region = "all"
+release_date = "2017-09-22"

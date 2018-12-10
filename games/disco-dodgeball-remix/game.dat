@@ -1,0 +1,11 @@
+title = "Disco Dodgeball Remix"
+description = "Disco Dodgeball – REMIX is a ridiculous physics-based futuresport combining robots, one-hit-kill projectile combat and crazy dodgeball action. Dodge, deflect and catch enemy fire as you perform ridiculous aerial stunt shots with your mustachio'd unicycle robot and enjoy the voice of a booming monster truck driver announcer when you score! Play a wide variety of classic and expert game modes in singleplayer, local multiplayer, or online multilpayer matches. "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C81004780000"
+region = "all"
+release_date = "2018-05-22"

@@ -1,0 +1,11 @@
+title = "Robbotto"
+description = "A gigantic space cruiser was slowly gliding through the vastness of cosmos, when suddenly disaster struck! The ship flew straight through a magnetic storm, causing all the robots and machines onboard to go crazy. Luckily, Robb and Otto, the ships top maintenance robots were putting out a fire in the ships shield generator room, and didn't get affected by the storm. Now the two unlikely heroes must travel through the ship and disable all the malfunctioning machines!\n\nClassic Arcade Action\n100 Levels\n20 Different Enemies\n10 Huge Bosses\nSingle Player or Local Co-op"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01004F400B978000"
+region = "all"
+release_date = "2018-08-16"

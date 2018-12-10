@@ -1,0 +1,11 @@
+title = "Party Crashers"
+description = "Fast-paced battle-racing with a retro-future aesthetic for 1–4 players. With over 50 included game modes and almost endless customisation, Party Crashers is amazingly fun out-of-the-box, and then lets you create your own fun.\n \nCrash your way through varied game modes inspired by decades of racing games \n• manic vehicular carnage battles with customised vehicles\n• top-down high-speed arcade racing\n• precise skillful timetrials\n• fast-paced split-screen golf kart racing with lots of rubber-banding\n• crazy school bus battle royale\n• procedurally-generated tracks with bananas raining from the sky\n \nCreate your own game modes from hundreds of settings with trillions of combinations… crazy powerups, teleporting track edges, ramps, bollards, icy roads, no brakes, explosive car collisions, coin chasing, backwards driving, air-time bonuses, slow-motion, attached trailers, 15-second rounds… the number of ways to play is practically endless!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100CB10089DE000"
+region = "all"
+release_date = "2018-10-04"

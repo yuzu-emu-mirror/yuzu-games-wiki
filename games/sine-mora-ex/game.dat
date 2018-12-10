@@ -1,0 +1,11 @@
+title = "Sine Mora EX"
+description = "Sine Mora is a side-scrolling shoot'em up that provides a unique challenge, where time is the ultimate factor. Mixing classic shooter sensibilities with contemporary presentation, Sine Mora is a gorgeous shoot'em up offering both a Story Mode that weaves an over-the-top tale and an Arcade Mode that provides deep, satisfying gameplay to challenge fans of the genre. With many ways to manipulate time, Sine Mora features over 50 weapon combinations to complete each beautiful stage that fits to the player's skills with scaling difficulty. Soundtrack composed by Akira Yamaoka and featuring boss designs by Mahiro Maeda."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01002820036A8000"
+region = "all"
+release_date = "2017-09-26"

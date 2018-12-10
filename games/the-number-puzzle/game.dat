@@ -1,0 +1,11 @@
+title = "THE Number Puzzle"
+description = "In THE Number Puzzle you follow easy rules to fill in a grid with the numbers 1-9.\n\nSo simple you will get addicted!\n\n500 puzzles in all!\n\nWith 4 sets of rules and 4 difficulties, you'll never get tired of playing.\n\n•Normal, Mini, Diagonal Line, and Overlapping play modes!\n•The How to Play gives easy instructions for each play mode's rules!\n•You can pick from 4 difficulties for each set of rules! Beginners and experts alike can enjoy!\n•There's even ranked mode! Compete with other users for the fastest completion time.\n•Unlock achievements! Play the game to collect all 50 background images."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100A6F00A0FE000"
+region = "all"
+release_date = "2018-06-07"

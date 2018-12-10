@@ -1,0 +1,11 @@
+title = "Sigi - A Fart for Melusina"
+description = "Take down hordes of goofy enemies and crazy bosses. Earn riches, find long lost holy artefacts and make your way up to the top of Mount Stinkup! Super tight gameplay and wonderful pixel graphics make Sigi a light-hearted and loving 8-bit adventure to enjoy.\n\n- 8-bit pixel graphics and chiptune soundtrack (Saskrotch) !\n- Detailed animation, parallax backgrounds, and solid game design.\n- Hordes of goofy enemies and unforgettable boss fights.\n- Secret caverns full of loot to collect and long lost artefacts to find.\n\nCollect all letters and hidden treasures to complete 100% of the game!\nPlatformer junkies and speedrunners could finish Sigi in around 30 minutes!\nFor everyone else, completing the story mode will take roughly 1 hour. \nBut beware! Aiming for a score of 100% will put you to the test!\nAre you a standard player or a gamepad master?"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01007FC00B674000"
+region = "all"
+release_date = "2018-09-07"

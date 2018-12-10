@@ -1,0 +1,11 @@
+title = "Reigns: Kings & Queens"
+description = "Reigns: Kings & Queens includes both award-winning games Reigns and Reign: Her Majesty. Sit on the throne as a benevolent (or malevolent) monarch of the modern age and swipe your royal decrees to the left or right to impose your will upon the kingdom."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100CCE00A4F2000"
+region = "all"
+release_date = "2018-09-20"

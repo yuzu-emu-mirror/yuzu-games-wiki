@@ -1,0 +1,11 @@
+title = "Banner Saga"
+description = "Live through an epic role-playing Viking saga where your strategic choices directly affect your personal journey. Make allies as you travel with your caravan across this stunning yet harsh landscape. Carefully choose those who will help fight a new threat that jeopardizes an entire civilization. Every decision you make in travel, conversation and combat has a meaningful effect on the outcome as your story unfolds. Not everyone will survive, but they will be remembered.\n\nKey Features\n\n• Player choice that drives your own narrative– every decision you make in travel, conversation and combat has a meaningful effect on the outcome as your story unfolds. \n\n• Over 25 playable characters from 2 different races, human and varl, the horned giants– embark on your epic journey with a variety of characters from 7 different classes, each with unique abilities and upgrade options to fit your play style.\n\n• Strategic combat with consequences- victory or defeat and even the permanent loss of a character depends on which characters you choose to take into battle and what decisions you make afterwards.\n\n• The journey is as important as battle – your role in building and managing your caravan as you travel the vast frozen landscape is critical to not only your own survival but the survival of an entire civilization.\n\n• An epic Viking saga brought to life in 2D glory – beautifully hand drawn combat sequences and animations, accompanied by an evocative score from Grammy-nominated composer Austin Wintory, will immerse you into a fantasy realm inspired by Norse mythology.\n\n• The Banner Saga is the first part of a planned trilogy. If you complete this game, your unique progress and storyline will carry over to the next part of the story. "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100465008756000"
+region = "all"
+release_date = "2018-05-17"

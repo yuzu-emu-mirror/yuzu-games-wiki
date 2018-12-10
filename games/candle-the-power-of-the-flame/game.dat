@@ -1,0 +1,11 @@
+title = "Candle - The Power of the Flame"
+description = "Candle is an adventure with challenging puzzles. Play as Teku, a young novice on a dangerous journey to rescue his tribe's shaman from the evil tribe of the Wakcha. But the way is littered with sinister traps and difficult obstacles."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100E4600B166000"
+region = "all"
+release_date = "2018-07-26"

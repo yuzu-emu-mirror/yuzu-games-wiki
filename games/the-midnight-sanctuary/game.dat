@@ -1,0 +1,11 @@
+title = "The Midnight Sanctuary"
+description = "\"Um, so. Are you... maybe one of the Dead, too?\"\nA curious, haunting tale.\nIs it salvation which the Saint who descended into this isolated village brings... or is it the end of things?\nAn occult horror visual novel wrought by mystical visuals & talented voice artists.\n\n\"What ending do those eyes desire, little watcher?\"\n\n-- Mysterious Graphics --\nGorgeous graphics like cut-paper art that blur the line between realism and surrealism.\nExperience a trip into a mysterious world that's not quite two or three dimensional.\n\n-- Fully Acted, Fully Animated --\nAnimated by the two-person team at CAVYHOUSE and voiced by a team of professional Japanese actors, Midnight Sanctuary comes to life in ways you'll never expect.\n* Voice audio is in Japanese.\n\n-- Mysterious Doings --\nHamomoru Tachibana has been invited to catalogue the traditions of Daiusu Village, long isolated from the rest of Japan. But once she arrives, a being the villagers identify as the Saints also appears. What could it mean?..."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100DEC00B2BC000"
+region = "all"
+release_date = "2018-10-04"

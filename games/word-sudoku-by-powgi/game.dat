@@ -1,0 +1,11 @@
+title = "Word Sudoku by POWGI"
+description = "It's Sudoku with words! Place letters in the grid according to normal Sudoku rules and one row or column will spell the word.\n\nOf course, you can switch back to number mode if you prefer.\n\nWord Sudoku by POWGI includes 240 unique and beautifully symmetrical Word Sudoku puzzles, graded for difficulty from beginner to expert."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01002AA00C708000"
+region = "all"
+release_date = "2018-11-22"

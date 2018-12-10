@@ -1,0 +1,11 @@
+title = "Zotrix: Solar Division"
+description = "The battle against Zotrix aliens is getting closer to your \ndoor step. Every space station in the network is in danger \nand Solar Division command needs your help to setup \nproper strategy for the defense. This, primarily strategy, \ngame blends game mechanics between tower defense and \nreal time strategy with hybrid elements such as patrolling \nships, navigation towers. You are trusted with this \nimportant task before the whole network is taken to the \nedge of the unknown.\n\nFeatures:\n• 45 action packed missions\n• 6 different challenge modes (CLASSIC, ALL TOWERS ON, \nREVERSAL, LIMITED TOWERS, MAX CREDITS, ENDLESS)\n• Rankings for Classic mode\n• 15 towers\n• 32 types of aliens with full encyclopedia"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01001EE00A6B0000"
+region = "all"
+release_date = "2018-04-12"

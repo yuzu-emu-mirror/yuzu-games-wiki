@@ -1,0 +1,11 @@
+title = "Grandpa and the Zombies"
+description = "Grandpa Willy’s brain might not be the freshest anymore, but he’s not ready to surrender it to the zombies anytime soon! If only the brakes would function on his wheelchair… Brace yourself for crazy puzzle fun and help Willy to safely navigate through the zombie apocalypse.\n\n\n120 Levels full of undead\n\nJust after waking up in a hospital, Grandpa Willy quickly realizes that there’s something fishy going on and that the world has changed. There’s no time to ask questions though since the zombies are already pounding on the door. \n\n“Grandpa and the Zombies” is a fast-paced trip through 120 levels and four different worlds, which shows that you can also survive a zombie invasion in a wheelchair. The levels are filled to the brim with the craziest undead that make Grandpa Willy’s escape that much harder including stinky Burping Bob or Lifting Leah the Forklift of Evil. Some of the undead can even be really helpful if you know how to interact with them. \n\n\nThe puzzle for the fearless from 9-99\n\nA cool head, logic and vision are called for in order to reach the saving elevator move-by-move in every level while collecting as many candies as possible. Grandpa Willy is not in the mood for zombies but he loves candy more than anything and is willing to make a detour for this. \n\nSteer Grandpa Willy’s wheelchair through the various levels. Grandpa Willy will roll only as far as he can until reaching an obstacle. And this better not be a zombie! Use obstacles, light declines and hazards cleverly and disorient the zombies. This is how you reach the saving elevator.\n\n• Satisfying gameplay thanks to four different worlds and a total of 120 levels\n• Horrible zombies – flee from Burping Bob, Roaming Ray and Ripley or Lifting Louis!\n• A new challenge in every level\n• The zombie apocalypse has never been this funny: ingenious comic-style for adults and children"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010038500BCD6000"
+region = "all"
+release_date = "2018-09-12"

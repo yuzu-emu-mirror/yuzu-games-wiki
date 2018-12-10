@@ -1,0 +1,11 @@
+title = "Johnny Turbo's Arcade Nitro Ball"
+description = "Join the game show and blast your way through 5 intense levels gathering power-ups and special weapons, including a special super power."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100D07002CD6000"
+region = "all"
+release_date = "2018-08-16"

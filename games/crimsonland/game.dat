@@ -1,0 +1,11 @@
+title = "Crimsonland"
+description = "Thousands of aliens, mutant lizards, and more are on the attack - can you survive the onslaught? Unlock dozens of weapons and perks in sixty missions, then show your skill in five survival modes in this intense twin stick shooter.\n\nCrimsonland is an intense top-down dual stick shooter where your screen is filled with literally hundreds of aliens, giant spiders, mutant lizards, and more. Complete sixty quests to unlock an array of weapons and abilities, then unleash your arsenal in five survival modes with leaderboards.\n\nAll Crimsonland game modes feature local co-op for up to four players. There are also dedicated leaderboards for co-op games, so gather your friends and show everyone who wields the gauss shotgun like a pro! \n\nFeatures:\nSixty quests in the Quest mode\nUp to four player local co-op\nSix survival modes: Survival, Rush, Blitz, Weapon Picker, and Nukefism\n30 unique weapons\n55 awesome perks\nLeaderboards: global and friends"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01005640080B0000"
+region = "all"
+release_date = "2017-11-24"

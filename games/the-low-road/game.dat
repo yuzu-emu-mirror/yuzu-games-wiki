@@ -1,0 +1,11 @@
+title = "The Low Road"
+description = "The Low Road is a point-and-click graphic adventure game in which rookie agent Noomi Kovacs must navigate her way through the world of corporate espionage in this dark spy comedy set in the 1970s.\n\nSporting a unique visual style inspired by gouache paintings and a pulsating rock and roll score, \"The Low Road\" will captivate players through intricate puzzles, branching moral dilemmas, and a quirky cast of memorable characters.\n\n\nFeatures:\n• A unique digitally hand painted 2D illustration style with 1970s television influences.\n• Over 32000 words of dark comedic dialogue fully-voiced from a cast of characters\n• Play from the perspective of two corporate espionage agents\n• A mergence of traditional storytelling and engaging game play\n• An original score of swirling psychedelia and dusty Americana \n• Nostalgic point-and-click style gameplay influenced by LucasArts and Sierra classics\n• Branching conversation puzzles that will challenge your deductive and intuitive abilities\n• Over 15+ first person puzzle sequence"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100BAB00A116000"
+region = "all"
+release_date = "2018-08-23"

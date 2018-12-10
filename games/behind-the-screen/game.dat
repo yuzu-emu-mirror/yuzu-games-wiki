@@ -1,0 +1,11 @@
+title = "Behind The Screen"
+description = "\"Behind The Screen\" is a suspense puzzle action game, set in Taiwan of an age when the internet was still not common, tracing the life of \"a certain murderer\", seeking the truth which has been bent and can no longer be distinguished.\nWhy did the young man who got arrested as his father's murderer had such an ending? Looking back at his childhood, boyhood, and to the moments leading up to the incident, the player will face truth and conflict.\nDuring a nervous and mature childhood, incapable of separating reality and dreams, the world started looking like an eerie and fantastic place. \nDuring his boyhood, he condemned the powers that be as an honest student reporter, and to get himself excited, he would impersonate ancient soldiers and politicians.\nDid the young man, who ended up becoming \"a certain murderer\" that day and who still kept resisting, gain anything from facing himself?\n\nThe player will re-experience the murderer's life, solve several mysteries, and search for the truth through the eyes of the murderer. \n\n[Characteristics of the game]\n・Several puzzle and action games according to the story, hidden elements within the stage as well.\n・A story with the theme of fake news, connected to current, also linking to Taiwan and history.\n・Nostalgic characters and setting design that are reminiscent of 1970s Taiwan. "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010053200B0E0000"
+region = "all"
+release_date = "2018-08-23"

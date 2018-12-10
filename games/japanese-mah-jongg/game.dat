@@ -1,0 +1,11 @@
+title = "Japanese Mah-jongg"
+description = "You can enjoy Mah-jongg, one of major table games easily with Japanese Mah-jongg. \n\n2 Players mode is enjoying competition with your friend by hiding your hand with single device. \n\n\"How to Play\", \"Hands list\" and \"Glossary\" are also available for Mah-jongg beginners."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C8E0083C4000"
+region = "all"
+release_date = "2018-05-03"

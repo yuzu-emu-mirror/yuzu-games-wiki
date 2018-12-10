@@ -1,0 +1,11 @@
+title = "ACA NEOGEO SAMURAI SHODOWN II"
+description = "\"SAMURAI SHODOWN II\" is a fighting game released by SNK in 1994. \n\nThe legendary weapon-wielding fighting game returns stronger / sharper than ever! \n\nFour newcomers join the battle for a total of 15 combatants ready to step on the stage of grand battles. \n\nWith the new Rage System and Weapon Breaking Attacks, epic and intense battles are waiting for you!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games. "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010052B00871C000"
+region = "all"
+release_date = "2018-02-01"

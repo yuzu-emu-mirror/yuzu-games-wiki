@@ -1,0 +1,11 @@
+title = "Shephy"
+description = "\"Shephy\", the single-player card game with cute and lovely illustration that keeps players coming back for more, is now available on the Nintendo Switch!\n\nIncrease the number of sheep?\nThe main goal of the game is to increase your sheep count to 1000. Using a combination of the event cards, achieve the goal before the deck is emptied 3 times. Let's go sheep.\n\nBeginner friendly! Practice Mode!\nIn the \"Tutorial\" and \"Practice Mode\", you will be able to enjoy the game while familiarizing yourself with the rules of Shephy.\n\nChallenge the limit! Challenge Mode!\nThere is no limit to the number of sheep you can increase to in \"Challenge Mode\". Increase the sheep count as much as possible before the deck is emptied 3 times.\n\nEnjoy the story! Post Love Mode!\nEnjoy the story of Shephy in the special \"Post Love\" game mode. In this mode, special sets of rules may apply along each part of the story, so the game can be enjoyed differently.\n\nEnjoy playing games at your own pace?\nEnjoy playing single player games?\nEnjoy solving challenging puzzles?\nDo you love sheep?\n\nIf yes, \"Shephy\" is the perfect game for you!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010040B003E5E000"
+region = "all"
+release_date = "2017-07-06"

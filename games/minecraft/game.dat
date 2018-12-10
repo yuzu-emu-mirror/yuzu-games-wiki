@@ -1,0 +1,11 @@
+title = "Minecraft"
+description = "Minecraft is a game about placing blocks and going on adventures.\n\nExplore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off the dangerous mobs."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100D71004694000"
+region = "all"
+release_date = "2018-06-20"

@@ -1,0 +1,11 @@
+title = "Puzzle Puppers"
+description = "Puzzle Puppers is a puzzle game about stretching cute dogs to their food bowls.\n\nEasy to learn, difficult to master with deceptively simple puzzles and mechanics.\n\nFeatures include:\n•Bonus Hams - collect all of these and you’ll unlock special levels!\n\n•Holes - like portals that teleport the dog elsewhere in the level.\n\n•Rivers - swim with caution, they wash your doggos downstream!\n\n•Multiple food bowls - so many choices, but which one is the right one?\n\n•Contains 80 levels with a challenge for all skill levels, ranging from casual puzzle player to the most hardcore puzzle fans.\n\nWho's a good boy? You are! Yes you are!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01003590089EA000"
+region = "all"
+release_date = "2018-02-20"

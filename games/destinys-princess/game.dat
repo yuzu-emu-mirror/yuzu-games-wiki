@@ -1,0 +1,11 @@
+title = "Destiny's Princess"
+description = "A historical Japanese romance game for women, with beautiful visuals and sound.\nEnjoy romance with famous Warring States military leaders in a tense environment born of despair and amidst the beauty of Japan.\n\nAvailable in Japanese, English, and Simplified Chinese.\n\nThe Story\nYou are a princess during Japan's Warring States period. Loved by your people, you live a peaceful life and want for nothing. However, one day your castle is attacked by hideous demons, and just as the castle is about to fall...\n\nYour wish calls five heroes from different worlds to your time. As the princess, it is your duty to protect your country and your people. Will you risk your life for love?"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100B7F00B4E6000"
+region = "all"
+release_date = "2018-06-21"

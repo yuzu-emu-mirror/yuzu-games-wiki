@@ -1,0 +1,11 @@
+title = "Shaq Fu: A Legend Reborn"
+description = "A vessel floating down a river contains an orphaned baby boy. He is found and adopted. As he grows, he learns of his true identity and destiny of greatness. Thus is the premise of two of the greatest stories of our time, but that is where the similarities end. Now we’re not saying that “Shaq Fu: A Legend Reborn” is better than the Good Book; that would be blasphemy. But please consider the following questions:\n\n• Does the Bible feature BASKETBALL LEGEND SHAQUILLE O’NEAL AS AN ASS-KICKING WU XING MASTER? \n• Can the Holy Writ boast A DOPE RAP FEATURING THE BIG ARISTOTLE HIMSELF?\n• Does the Book of Books provide the EXCITEMENT AND HILARITY OF BATTLING BOSSES WHO ARE PARODIES OF FAMOUS DOUCHEBAGS?\n• Do any of the conflicts depicted in The Sacred Testimony qualify as EPIC BOSS BATTLES THAT YOU WON’T BELIEVE WE ACTUALLY PUT INTO A GAME?\n\n“Shaq Fu: A Legend Reborn” DOES contain all of those thrilling features and many more!  So buy it. It’s pretty cheap.\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100769004584000"
+region = "all"
+release_date = "2018-06-05"

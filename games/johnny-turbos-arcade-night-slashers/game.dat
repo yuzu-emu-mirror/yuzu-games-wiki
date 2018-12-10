@@ -1,0 +1,11 @@
+title = "Johnny Turbo's Arcade Night Slashers"
+description = "Stop King Zarutz and his army of evil undead monsters from taking over the world!\n\nThe world is overrun by werewolves, vampires and the walking dead. Humanity has little hope of surviving. \n\nMonsters intend to take over the world, killing any humans that stand in their way. Unless, of course, they can turn the humans into terrifying beasts themselves.\n\nNight Slashers features seven stages of endless horror action. Destroy mutants at the hospital only to face the Mad Scientist that created them. Wander through a haunted forest filled with werewolves. Even stop a fearsome vampire from feeding on the living.\n\nAfter fighting waves of zombies, mummies and the Grim Reaper, it's time to infiltrate the fortress of the evil King Zarutz. \n\nCan you destroy the portals of darkness as the fire of the\nunderworld threatens to consume you? Or will you perish in the face of your enemies?\n\nNight Slashers also features hilarious bonus games to give you a break from battling monsters. Anyone up for a friendly game of Whack-a-Zombie or Undead Bowling?\n\nWith the Real Arcade Feel, Night Slashers is the best spooky side-scroller of the '90s."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100F7300C90E000"
+region = "all"
+release_date = "2018-11-08"

@@ -1,0 +1,11 @@
+title = "Retimed"
+description = "Challenge friends and family to awesome and fast paced arena battles. \nChoose between chaotic team matches and intense free-for-all fights. \nDash and dodge bullet clusters in nerve wrecking slow motion moments. \nUse different surroundings to outplay your opponents and enjoy the colorful world of Retimed! \n\nMeet our “heroes”! \nViolet, jolly, careless, clumsy, is made of a bubblegum-like substance. \nBintain, constantly depressed, lives in a city where everyone is happy. \nPsycho, mystery to everyone, wears a mask for an unknown reason. \nYowie, super chill, loves listening to music and getting all philosophical. \n\n• Easy to learn, hard to master\n• 2-4 players \n• 4 cute characters \n• 6 unique arenas \n• Multiple game play modes \n• E-Sport ready"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010086E00BCB2000"
+region = "all"
+release_date = "2018-09-20"

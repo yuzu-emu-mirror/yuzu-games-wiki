@@ -1,0 +1,11 @@
+title = "Toy Stunt Bike: Tiptop's Trials"
+description = "Toy Stunt Bike is a 3D, action-packed, micro-sized motorbike trials game. Guide Tiptop the chimpanzee across thirty-six tracks set in a variety of household locations. Leap over toasters, make massive jumps onto garden chairs, use laptops as ramps and perform crazy stunts.\n\nSilky smooth 60fps gameplay in every mode.\nThirty-six tracks to race + secrets.\nCompete worldwide with online leaderboards.\nSpectacular bike stunts and crashes.\nIdeal for handheld, short burst play.\nStunning soundtrack by Waterflame."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009FF00A160000"
+region = "all"
+release_date = "2018-08-23"

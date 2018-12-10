@@ -1,0 +1,11 @@
+title = "Blacksea Odyssey"
+description = "The hunt is on! Get ready to battle colossal space monsters in Blacksea Odyssey, a savage, top-down rogue-lite shoot ‘em up RPG.\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01006B400C178000"
+region = "all"
+release_date = "2018-12-24"

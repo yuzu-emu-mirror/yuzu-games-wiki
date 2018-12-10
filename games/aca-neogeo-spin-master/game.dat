@@ -1,0 +1,11 @@
+title = "ACA NEOGEO SPIN MASTER"
+description = "\"SPIN MASTER\" is a side-scrolling action game released by Data East in 1993. \n\nThe adventurer Johnny along with his best friend Tom will use a large variety of weapons and attacks in order to retrieve his beloved and the stolen treasure map from the mad scientist Dr. De Playne. \n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01007D1004DBA000"
+region = "all"
+release_date = "2017-09-14"

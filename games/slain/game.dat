@@ -1,0 +1,11 @@
+title = "Slain"
+description = "You control the fate of Bathoryn, a doomed hero in a Gothic world, who seeks to liberate six cursed realms from six deadly overlords.\n\nHe must battle his way through this blighted land, packed with gruesome and lethal creatures before ascending (or sometimes descending) into a stronghold, all the while defeating fiendish traps and vile monsters alike.\n\nAccompanying by the heavy metal visuals is an even heavier metal soundtrack recorded by Curt Victor Bryant (formerly of Celtic Frost).\n\nFeatures\nChallenging ‘elemental’- based melee and magical combat\n\n6 hours of bone-crushing, metal-fuelled mayhem and grisly gore\n\nChoose from 3 unique weapons in your fight against the demon hordes.\n\nFull soundtrack recorded by Curt Victor Bryant formerly of Celtic Frost.\n\nCunningly concealed secrets (shhh).\n\nBoss fights, mini-boss fights, sub-mini- boss fights and macro-sub- mini-boss fights.\n\nNo laborious leveling, no tedious grinding, no wimpy crafting!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100224004004000"
+region = "all"
+release_date = "2017-12-07"

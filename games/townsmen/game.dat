@@ -1,0 +1,11 @@
+title = "Townsmen"
+description = "Develop your tiny village to a grand medieval empire with a thriving economy and happy villagers! Find spots for mining ore, harvest the crops of your farms and collect coins as taxes from your folk. Build jousting fields, taverns, marketplaces and beautify your city with impressive statues, magnificent monuments and lush gardens. But there are also dangers lurking close by. Bandits are in the area, looking to plunder and pillage your peaceful town. Build barracks, guard towers and recruit brave soldiers to protect your citizens from harm. You rule the whole empire from your castle and make sure your inhabitants have fun and stay happy!\n\nFEATURES\n✔ City-building gameplay set in medieval times\n✔ Cute inhabitants with their own daily routines\n✔ Complex economy sim and deep production chains\n✔ Dozens of different town and production buildings\n✔ Optional military feature with soldiers and bandits\n✔ Meaningful seasons and weather effects\n✔ Devastating disasters like fire, disease, drought and many more\n✔ Diverse scenarios and challenging tasks\n✔ Unrestricted sandbox gameplay mode\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010049E00BA34000"
+region = "all"
+release_date = "2018-11-09"

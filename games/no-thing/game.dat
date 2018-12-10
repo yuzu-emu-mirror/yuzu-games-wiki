@@ -1,0 +1,11 @@
+title = "NO THING"
+description = "The year is 1994 and it is the future.\n\nNO THING is a minimalistic surreal action game set in a totalitarian regime of future.\n\nTells the story of an office clerk who is sent with an important message to the Queen of Ice.\n\nNO THING Features:\n• radical gameplay\n• migraine inducing\n• weird storyline\n• retro surrealistic full 3D graphic\n• full voiceover and speech synthesis\n• chiptune sounds\n• original cold wave music\n• simple controls\n• easy to play, very hard to master"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100F7D00A1BC000"
+region = "all"
+release_date = "2018-03-22"

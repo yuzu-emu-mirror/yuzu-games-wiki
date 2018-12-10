@@ -1,0 +1,11 @@
+title = "Johnny Turbo's Arcade Two Crude"
+description = "Play one or two mercenaries hired by the American government to stop the terrorist organization \"Big Valley\". Take control of post-apocalyptic New York City away from the Big Valley terrorists."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010080D002CC6000"
+region = "all"
+release_date = "2018-07-05"

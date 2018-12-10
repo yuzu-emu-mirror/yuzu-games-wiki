@@ -1,0 +1,11 @@
+title = "INVISIBALLS"
+description = "Invisiballs is a competitive local multiplayer game for 2 to 4 players.\n\nPlayed on a single, top-down, shared screen, everyone controls an invisible ball inside a maze and must capture a golden artifact to win the game. Designed entirely around a new type of gameplay set in a minimalist universe, Invisiballs is simple with a deep learning curve. Nervous and precise, Invisiballs is for players who love to play competitive games with their friends."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100E03009DB8000"
+region = "all"
+release_date = "2018-05-17"

@@ -1,0 +1,11 @@
+title = "Squareboy vs Bullies: Arena Edition"
+description = "Squareboy vs Bullies is an old school beat 'em up by Rohan Narang that follows the titular Squareboy and his quest for Justice!\nFor far too long the bullies have gone unpunished and with no one else to put them in their place, Squareboy finds himself standing up against them to do what is right, not just for himself, but for everyone the bullies victimized. Will you help Squareboy fight off the Bullies?\n\nFeatures\nRetro pixel art graphics and OST with 14 different chiptune tracks. \nFight in many different locations across Squareburg.\nNew Arena mode.\nNever before seen Bullies.\nNew UI screen that takes advantage of the entire screen.\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100DE40068CA000"
+region = "all"
+release_date = "2017-10-12"

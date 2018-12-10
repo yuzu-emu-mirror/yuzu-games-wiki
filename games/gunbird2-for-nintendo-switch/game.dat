@@ -1,0 +1,11 @@
+title = "GUNBIRD2 for Nintendo Switch"
+description = "Five characters with distresses went out for an \nadventure to get the medicine that was handed \ndown from the ancient times.\n\nHowever, they need to gather three materials \ncalled \"Sun element\", \"Star element\" and \"Moon \nelement\" and meet the god who lives in an \nillusionary underground temple to be able to get \nthe medicine.\n\nIn the middle of their journey, they will meet the \nQueen Pirates and will be blocked by them from \ngetting three materials.\n\nWill they be able to get the medicine before the \nQueen Pirates!?"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100BCB00AE98000"
+region = "all"
+release_date = "2018-06-21"

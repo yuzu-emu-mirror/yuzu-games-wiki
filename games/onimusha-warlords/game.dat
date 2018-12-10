@@ -1,0 +1,11 @@
+title = "Onimusha: Warlords"
+description = "This version includes the original game’s intense swordplay and dramatic revenge story, plus improved controls, widescreen display, a new soundtrack, and more. Experience this enhanced version of the best-selling action-adventure classic!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100416008A12000"
+region = "all"
+release_date = "2019-01-15"

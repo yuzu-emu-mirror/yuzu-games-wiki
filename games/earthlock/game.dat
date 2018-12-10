@@ -1,0 +1,11 @@
+title = "Earthlock"
+description = "Enter a beautiful world haunted by its fateful past and join a party of unlikely heroes on their journey to rescue Amon's uncle from an ancient cult and uncover the secret of EARTHLOCK.\n\nExplore the magical world of Umbra.\n\nFast-paced and highly strategic turn-based battles.\n\nHarvest magical materials to craft helpful items and perks on your home island.\n\nUtilize Your Talent Table: combining a classic 'skilltree' and equipment to customize your character's progression.\n\nAlternate between 6 playable characters.\n\nGrow your friendships between different character pairs for a strategic advantage in combat.\n\nHelp the people of Umbra along they way to unlock more useful items."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01006E50042EA000"
+region = "all"
+release_date = "2018-03-08"

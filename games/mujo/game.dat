@@ -1,0 +1,11 @@
+title = "MUJO"
+description = "MUJO is a unique puzzle game with features that cannot be found in any other game. Let’s start collecting tiles and erase them all to attack monsters!\n\nThis game has no end! Enjoy whenever you want as much as you would like.\n\n•How to play\nStack three or more connected sword tiles by holding them down.\nThe more tiles you stack, the more offensive power you obtain!\nThen, tap three or more swords after arranging them together. You can inflict damage to monsters and defeat them. Destroy monsters from the Greek myths appearing one after another.\n\n•Add gods into your troop\nA variety of gods from the Greek myths may appear out of treasure chests that come out once in a while! They can be your allies. Win through the battles against monsters while utilizing the various abilities of the gods.\n\n• Features\nEasy but profound game development.\nA puzzle system that you have never experienced.\nMany cool gods and monsters designed by HEY.\nBeautiful but minimal graphic designs and animation."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100A8400471A000"
+region = "all"
+release_date = "2017-11-30"

@@ -1,0 +1,11 @@
+title = "Sky Ride"
+description = "The player will fly over the ground, in the sky and various fields and fight utilizing 4 weapons. We aim for the game which offers a sense of exhilaration through routing the enemies all at once in addition to a sense of exhilaration felt though flying around in the sky."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100DDB004F30000"
+region = "all"
+release_date = "2017-08-17"

@@ -1,0 +1,11 @@
+title = "Xenoraid"
+description = "Xenoraid is an exciting shooter game with classic action and modern features. Intercept the alien threat in missions that play out differently every time. Pilot skillfully to line up devastating bursts of fire. Switch between four fighters during combat to bring in the best weapons for each situation. Upgrade, repair and enhance your squadron between missions. Bring down huge alien capital ships in hectic bossfights. Put your skills to the ultimate test in three endless survival missions with online leaderboards!\n\nFeatures:\nExperience dynamic shoot'em up action with no level memorization\nSwitch between four fighters in the heat of combat\nManage your squadron with weapon and tech upgrades\nMaster advanced shooting mechanics like fighter tilting and weapon heat\nFight through a Campaign mode with more than 40 missions and four boss fights\nCompete in three endless Survival stages with online leaderboards\nPlay all game modes in 2-4 player local co-op"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100928005BD2000"
+region = "all"
+release_date = "2017-11-17"

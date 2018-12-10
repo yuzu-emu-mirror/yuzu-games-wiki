@@ -1,0 +1,11 @@
+title = "Miles & Kilo"
+description = "Miles and Kilo have been attacked by a mischievous specter! With their plane in pieces and a gang of thieving scoundrels running off with the important parts, the unfortunate duo's only hope of escape is to embark on a thrilling chase across a haunted island.\n\n• A fast-paced, lovingly-crafted platformer from the creators of Kid Tripp\n\n• 36 super-challenging levels, including 5 exciting boss fights\n\n• Achievements and an unlockable time attack mode, offering loads of replayability\n\n• A fun, light-hearted story told with a retro flair"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01004B7009F00000"
+region = "all"
+release_date = "2018-07-05"

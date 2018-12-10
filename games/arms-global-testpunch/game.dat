@@ -1,0 +1,11 @@
+title = "ARMS Global Testpunch"
+description = "Head online to fight with the ARMS Global Testpunch! Try out some of the characters, test your ARM arsenal, and learn the ins and outs of this sweet pseudoscience. The global testpunch event will only be active during 3/30 9:00 p.m. PT to 4/2 8:59 p.m. PT. Don’t miss this chance to get armed!\n\nYou'll need an Internet connection to participate in the ARMS Global Testpunch. To join in, download the free ARMS Global Testpunch special demo from Nintendo eShop for the Nintendo Switch™ system and then launch the demo to play! The Global Testpunch will allow players to test 8 characters, play local multiplayer (additional accessories may be required; sold separately), try out Hoops mode, and get connected online in exhibition matches.\n\nEvent times (You can only play during this time period)\n3/30 (Fri) 9:00 p.m. PT - 4/2 (Mon) 8:59 p.m. PT"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C5E003B40000"
+region = "all"
+release_date = "2018-03-27"

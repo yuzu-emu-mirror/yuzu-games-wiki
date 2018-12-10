@@ -1,0 +1,11 @@
+title = "Tinboy"
+description = "A brilliant scientist creates a humanoid little robot. She then tests her creation by placing it in different environments. Using a special bow, the robot must reach the exit of every environment. Take control of the robot and solve the scientist’s 60 puzzles."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01001CA00C514000"
+region = "all"
+release_date = "2018-11-15"

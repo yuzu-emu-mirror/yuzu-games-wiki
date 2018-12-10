@@ -1,0 +1,11 @@
+title = "Neonwall"
+description = "Aim & shoot in this arcade Joy-Con™ controller game\n\nEscape your way out of Neonwall by solving puzzles and overcoming a variety of challenging levels. Over the course of the game you will need a combination of skill, concentration and precision to be victorious.\n\n• Drag, change color & shoot with your Joy-Con™ controller\n• Three game modes. Runner, Puzzle & Time trial.\n• More than 50 levels in 3D.\n• Support for different game controllers modes.\n• Color blind mode."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100743008694000"
+region = "all"
+release_date = "2018-03-15"

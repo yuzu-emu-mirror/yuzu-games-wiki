@@ -1,0 +1,11 @@
+title = "Arena of Valor(BETA)"
+description = "Arena of Valor"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100944009646000"
+region = "all"
+release_date = "2018-09-25"

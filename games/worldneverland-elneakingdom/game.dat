@@ -1,0 +1,11 @@
+title = "WorldNeverland-ElneaKingdom-"
+description = "The kingdom simulation game where you immigrate to an imaginary kingdom and enjoy your free life. This is the latest game of the World Never Land (Nickname is WorNeva) series. This is the imaginary kingdom that lives in the computer. You can walk wherever you wish to go. Beautiful woods, river, farms, stock farms, mines, schools, churches, and castles... And, it simulates the lives of the people who live there finely.\n\nThe users who go there and see the real communication with the habitats would feel like they are playing a MMORPG. They would have a boyfriend or a girlfriend and get married, have children, and their children will carry that over. The life in this kingdom is a one-time story that is different every time you play it. This is so much more than the normal game experience and will stay in your heart as a cherished memory forever."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01008E9007064000"
+region = "all"
+release_date = "2018-03-15"

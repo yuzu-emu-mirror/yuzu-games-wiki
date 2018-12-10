@@ -1,0 +1,11 @@
+title = "BINGO for Nintendo Switch"
+description = "This game is four kinds of party games arranged BINGO.\n\nBuzzer BINGO\nBuzzer BINGO is a game in which 4 players scramble for the number that appears.\n\nSlide BINGO\nSlide BINGO is a game in which you move the rows around to allign the red tiles on your card to make a row.\n\nBINGO Poker\nBINGO Poker is a game in which you try to get a BINGO using both the pre-existing red tiles and the new numbers you get.\nHowever, when you acquire a new number, you must throw away one existing number in return.\n\nClassic BINGO\nClassic BINGO is a simple game in which you take in all the numbers that appear on your card.\n\nLay flat Mode\nIn \"Lay flat Mode\" you can face opponent and play.\n\nPlay \"BINGO for Nintendo Switch\" \nand get excited by everyone!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010087D008D64000"
+region = "all"
+release_date = "2018-03-15"

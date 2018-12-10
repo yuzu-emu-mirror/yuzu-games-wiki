@@ -1,0 +1,11 @@
+title = "GRIP"
+description = "GRIP is a high octane, hardcore combat racer, packing ferocious speed and armed to the teeth with heavy weapons.\n\nHarnessing gravity defying physics alongside a bristling arsenal of outlandish weapons, GRIP delivers the fastest, most competitive racing experience ever. Scale walls, ceilings and anything else you can get your tyres on to... as you master tantalising tracks, tricks and perform mind-blowing stunts to race your way across the cosmos. \n\n• Hit speeds of up to 767mph on floors, walls and ceilings\n• Race your way through 22 tracks across a host of 4 exotic planets\n• Pick-up 9 power-ups and weapons, from shields and turbos, to missiles and explosive darts.\n• Compete with offline split screen and online multiplayer\n• Face off alone or team up in 5 Arena battle maps \n• Beat the clock in 19 point-to-point Carkour runs.\n• Single player campaign included\n• Roster of 15 armoured cars to suit your style"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100459009A2A000"
+region = "all"
+release_date = "2018-11-06"

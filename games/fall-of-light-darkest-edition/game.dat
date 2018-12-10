@@ -1,0 +1,11 @@
+title = "Fall Of Light - Darkest Edition"
+description = "Fall of Light is a story-driven action RPG set within a world consumed by darkness. You are Nyx, an old warrior who has embarked on a dangerous journey with his daughter, Aether, an ‘indigo child’ who radiates luminescence. Only together will they be strong enough to complete their quest: reach the last place on Earth still touched by sunlight. \n\nFeatures\n• 20 different battle stances: get ready to face hordes of shadowy enemies!\n• 10 weapon classes: pick your favorite combo of close-range weapons, crossbows, and shields\n• All-new dungeon: complete with new enemies and dangers, exclusive to the Darkest Edition \n• Protect Aether: her light pierces the darkness and you are stronger together, so keep her safe! \n• Unlock hidden secrets: learn more about the history and lore of Nyx’s world\n• Supports the following languages: French, Italian, German, Spanish, Russian, Portuguese-Brazil, Simplified Chinese, Hungarian.\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01005A600BE60000"
+region = "all"
+release_date = "2018-08-30"

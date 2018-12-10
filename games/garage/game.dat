@@ -1,0 +1,11 @@
+title = "Garage"
+description = "Garage - United by Death\n \nGarage is a bloody shooter in the style of an 80s B-movie. Playing as a drug dealer named Butch, you stand alone against hordes of the living dead.\n \nExplore every dark corner of an underground parking garage and discover a passageway to a supernatural world that has never seen the light of day.\n \nFind new weapons and master them in order to survive. Solve the mystery of this cursed place and the creatures that inhabit it."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01000FA00A4E4000"
+region = "all"
+release_date = "2018-05-10"

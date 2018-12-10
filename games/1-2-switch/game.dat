@@ -1,5 +1,5 @@
-title = "1-2-Switch!"
-description = "1-2-Switch is a party game developed and published by Nintendo. The game extensively uses the system's Joy-Con controllers, with players facing each other performing various minigames."
+title = "1-2-Switch"
+description = "Throw an impromptu party anywhere with anyone thanks to a new play style in which players look at each other—not the screen! Bring the action and fun into the real world as you face off in wild-west duels, cow-milking competitions, a copycat dance-off, and more. Each game takes advantage of the Joy-Con controller features of the Nintendo Switch system in different ways. While the action unfolds off-screen, the audience watches the players themselves instead of the screen. That makes it as hilarious to watch as it is to play—an instant party amplifier!"
 github_issues = []
 needs_system_files = false
 needs_shared_font = false

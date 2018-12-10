@@ -1,0 +1,11 @@
+title = "Dawn of the Breakers"
+description = "Defeat the impending menace, the mysterious \"Ghouls\"!\nUtilize new abilites with each transformation of your Heroes!\nDiscover the fate that awaits a young man afflicted with amnesia...\nEmbark on an unpredictable journey in the fully realized Story Mode! \nPlay with friends in co-op, or compete against them for glory in the Arena!\nForm a team with 6 Heroes, and terminate the Ghoul threat with explosive techniques!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100F0B0081DA000"
+region = "all"
+release_date = "2018-07-26"

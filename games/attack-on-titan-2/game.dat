@@ -1,0 +1,11 @@
+title = "Attack on Titan 2"
+description = "Abandon all fear.  Attack on Titan 2 is the gripping sequel to the action game based on the worldwide hit anime series \"Attack on Titan.\" \n\nExperience the immense story of the anime alongside Eren and his companions, as they fight to save humanity from the threat of the deadly human devouring Titans.  Try your hand in operating the omni-directional mobility gear, maneuvering and flying through the sky to counter the Titans, and feel the thrill and satisfaction of battling giant opponents."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010034500641A000"
+region = "all"
+release_date = "2018-03-20"

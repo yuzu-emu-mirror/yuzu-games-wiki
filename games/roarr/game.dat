@@ -1,0 +1,11 @@
+title = "Roarr!"
+description = "When the aliens arrived, they didn't come in peace. \nThe invasion was immediate and so overwhelming that humans didn't stand a chance. One thing it wasn't though, was quiet. \nA terrible rumble from upstairs woke Rex up from his slumber. For millennia he was hibernating in his cosy cave but the incessant crescendo of the alien invasion was too much to sleep through. It was time for Rex to go upstairs and give his new neighbours a piece of his mind!\n\nWHAT IS ROARR!\n- Vicious modern take on a classic brawler gameplay\n- Tongue-in-cheek story with serious gameplay that's easy to pick up\n- Countless combos, swarms of enemies, 6 towering bosses and one very angry dinosaur!\n- The perfect party game with coop up to 4 players\n- A slick retro style with polygons as sharp as Rex's teeth\n- Plenty of Rex variants, each with unique moves and animations\n- Fully destructible environment that will let you unleash your jurassic power… Roarr!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010068200C5BE000"
+region = "all"
+release_date = "2018-11-07"

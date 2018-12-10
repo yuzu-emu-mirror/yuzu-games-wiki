@@ -1,0 +1,11 @@
+title = "Johnny Turbo's Arcade Shoot Out"
+description = "Stop the criminal gangsters and save the civilians in this action-packed shooter.  "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010007F00B9F0000"
+region = "all"
+release_date = "2018-08-02"

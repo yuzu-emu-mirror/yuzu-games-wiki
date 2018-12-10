@@ -1,0 +1,11 @@
+title = "Stern Pinball Arcade"
+description = "Stern Pinball Arcade is the most realistic and accurate pinball game ever created!\n\nStern Pinball Inc® has created many of the all-time greatest pinball tables. They are the most experienced and largest producer of real pinball machines in business today! Modern classics in this collection include:\n\nGhostbusters™ Premium\nStar Trek™ Vengeance Premium\nAC/DC® Premium\nMustang® Premium \"Boss\"\nHarley-Davidson® / Third Edition\nLast Action Hero™\nMary Shelley's Frankenstein™\nStarship Troopers™\nHigh Roller Casino™\nRipley's Believe it or Not!®\nPhantom of the Opera™"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100AE0006474000"
+region = "all"
+release_date = "2017-12-12"

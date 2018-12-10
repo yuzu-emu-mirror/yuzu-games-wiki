@@ -1,0 +1,11 @@
+title = "Circle of Sumo"
+description = "Have fun with your friends with the great award-winning Circle of Sumo!\nCOS is simple and compelling at the same time, with a lot of different challenges. It's pure fun!\n\nTake control of 8 different sumo wrestlers and challenge your friends on daring fights and sport based extra-games!\n\n- Up to 4 local players\n- 8 different characters\n- 24 sumo arenas\n- 4 crazy extra-games  \n- 2 single player mini-games\n\nCircle of Sumo is a must for the game nights with your friends!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010039700BA7E000"
+region = "all"
+release_date = "2018-11-16"

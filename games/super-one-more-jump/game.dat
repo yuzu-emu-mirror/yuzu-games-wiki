@@ -1,0 +1,11 @@
+title = "Super One More Jump"
+description = "Super One More Jump is a hand-crafted intense arcade platformer.\nSimple to learn one button controls. Hard to master levels. \nTest your muscle memory, concentration and sanity!\nFeatures: Now fully reworked & upgraded for the Nintendo Switch!\n100+ Hand crafted levels\nInsanely-hard challenge levels! (Seriously, enter at own risk..)\nEndless mode: New random level every play!\n2 player vs. mode. Compete for the highest score & glory!\nUp to 4 players crazy co-op mode\nOriginal music soundtrack by Batterie\nCustomise your character with easily unlockable themes & avatars from some of our favorite artists;\nToby Dixon(@tbdxn)\nIlija Melentijevic (@iLkKke)\nCocefi (@chickysprout)\nSven ‘ptoing’ Ruthner (@the_ptoing)\nMister Hk (@mr_hk_)\nStephane Boutin (@JGSBoutain)\nHelm (@helm_ll)\nAnders Gullmarsvik (@itchabop)\nIan Cid (@skydevilpalm)\n\nHow to Play:\nPress any button to JUMP\nTime your JUMPS between platforms using power ups, patience and skill\nCollect all three level diamonds to master the level\nFrom the studio that brought you Death Squared. Haven't played it? Shame on you :)\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100284007D6C000"
+region = "all"
+release_date = "2018-01-25"

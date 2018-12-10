@@ -1,0 +1,11 @@
+title = "ACA NEOGEO THE KING OF FIGHTERS '95"
+description = "\"THE KING OF FIGHTERS '95\" is a fighting game released by SNK in 1995.\n\nIn addition to the character of popular work such as \"FATAL FURY\" and \"ART OF FIGHTING\" in the sequel title of the previous work \"KOF '94\", Yagamian will participate as the rival of the main character Kyo Kusanagi.\n\nWith the team edit function installed, it became possible to form a team with the player 's favorite character.\n\nThe ‶ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009DC001DB6000"
+region = "all"
+release_date = "2017-10-12"

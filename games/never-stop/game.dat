@@ -1,0 +1,11 @@
+title = "Never Stop"
+description = "Keep moving ! Roll and jump - but never stop in this new addicting game! The longer you keep moving without getting stopped by one of the many obstacles or traps, the more points you get. How long can you manage this thrill of speed? Will you be able to dominate your friends in multiplayer?\n\nFeatures:\n• Speedy gameplay\n• Unique graphic style\n• Multiplayer mode up to 4 players\n• Many powerups"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010021D00ACA2000"
+region = "all"
+release_date = "2018-05-17"

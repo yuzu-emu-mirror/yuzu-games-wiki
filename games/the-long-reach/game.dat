@@ -1,0 +1,11 @@
+title = "The Long Reach"
+description = "The Long Reach takes place in New Hampshire, in the fictional town of Baervox. The game draws its inspiration from Lone Survivor and The Cave and all the classical adventures (except that The Long Reach is set in the present day). You don't play in a post-apocalyptic world or explore a fairy-filled fantasy world. You’re in the thick of it, just around the corner from the place where you buy your groceries."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010052B003A38000"
+region = "all"
+release_date = "2018-03-15"

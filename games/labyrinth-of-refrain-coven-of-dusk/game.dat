@@ -1,0 +1,11 @@
+title = "Labyrinth of Refrain: Coven of Dusk"
+description = "From Nippon Ichi Software, creators of the Disgaea™ series, comes Labyrinth of Refrain: Coven of Dusk.\n\nIn this dungeon RPG, you play as the Tractatus de Monstrum, a living book owned by the conniving Dusk Witch Dronya, and confront the dangers lurking beneath the quiet town of Refrain. Assemble an army of up to 40 fully customizable puppet soldiers and wield unique skills, deadly magic, combination attacks, and powerful weapons to annihilate terrifying monsters and conquer the labyrinth of Refrain!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010058500B3E0000"
+region = "all"
+release_date = "2018-09-18"

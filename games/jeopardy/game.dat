@@ -1,0 +1,11 @@
+title = "Jeopardy!"
+description = "Play America’s Favorite Quiz Show® anytime, anywhere. Show off your knowledge and test your reflexes as you make your way to Final Jeopardy!® \n\nEnjoy the game at home or on the go, or challenge players online. Show off your knowledge and test your reflexes playing America's Favorite Quiz Show®, Jeopardy!® Play Classic mode for the full, traditional experience, or Quick mode for a shorter, jam-packed session. Choose your favorite categories and unlock new ones as you progress in the game. Take advantage of over 2,000 clues, featuring photos, videos, and music. Get the whole family in on the action with Family mode, featuring specially adapted, family-friendly puzzles and clues."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01006E400AE2A000"
+region = "all"
+release_date = "2018-10-30"

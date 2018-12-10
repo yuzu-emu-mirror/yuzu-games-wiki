@@ -1,0 +1,11 @@
+title = "Tiny Hands Adventure"
+description = "Join a young t-rex Borti on his quest to find the best replacement for his tiny hands and arms. Explore several unknown worlds, find all the collectables and face bosses that have what you want.\n\nThe adventure starts now!\n\nFEATURES\n- beautiful 3D graphics\n- collect different tools and weapons for Borti and use them in game! From sticks, through compact drills to mechanical arms and more\n- fight with bosses - the elemental keepers are waiting for you to show up!\n- slide, roll or jump your way to victory\n- visit over 20 stages, set across multiple location themes\n- try yourself in challenging mode after completing a stage and finding all collectables\n- find out how the story unfolds!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010061A00AE64000"
+region = "all"
+release_date = "2018-08-10"

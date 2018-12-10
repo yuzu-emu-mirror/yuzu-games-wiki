@@ -1,0 +1,11 @@
+title = "Johnny Turbo's Arcade Sly Spy"
+description = "Listening to the world's desperate plea for freedom and hoping to protect those he loves most, Sly Spy boards a plane headed towards Washington D.C., To begin his mission to prevent the terrorists from infiltrating not only the city, but several spots in the U.S., and must also prevent a nuclear missile from launching and striking the Earth.\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100B70003836000"
+region = "all"
+release_date = "2018-05-03"

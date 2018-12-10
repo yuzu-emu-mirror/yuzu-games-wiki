@@ -1,0 +1,11 @@
+title = "Unepic"
+description = "Daniel was just an average guy. He was a great videogame player, a big fan of sci-fi movies, and a novice RPG player. In the midst of an RPG, he was teleported to a castle. At first, Daniel believed that he was having a massive hallucination. Eager to keep playing within the RPG to create his own adventure, he decides to go along for te ride until his delirium comes to an end.\n\nOnce inside the castle, Daniel is inhabited by a mysterious shadow. This dark spirit can communicate with Daniel, but not control him. The shadow has a simple goal: to escape from the prison of Daniel's body. There's a catch, though-- the dark spirit can only escape if Daniel perishes.\n\nStruggling against enemies in the castle, with the dark spirit attempting to murder him at every turn. Daniel finally discovers his goal: to kill Harnakon, the master of the castle, and free the Pure-Spirits who are trapped within. While the stage seems set for a typical role-playing adventure, Daniel will soon discover that everything is not what it seems... "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01008F80049C6000"
+region = "all"
+release_date = "2017-12-15"

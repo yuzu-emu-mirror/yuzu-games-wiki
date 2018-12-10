@@ -1,0 +1,11 @@
+title = "Manual Samuel"
+description = "Manual Samuel is a classic adventure game with a wild twist. After making a deal with Death, our hero, the spoiled rich-kid Samuel, must survive for 24 hours controlling his entire body manually. From breathing and blinking to driving and working, all these tasks will fall to you. It won’t be easy, with Death himself tagging along for the ride, you might be in some very deep feces!\n\nNow updated to take advantage of the Nintendo Switch™ Joy-Con™ features such as motion sensors and split Joy-Con support for 2 player co-op.\n\nFeatures:\n•\tA hilarious story of love, redemption and death with \nsecrets to uncover along the way.\n•\tUnique, hand-drawn 2D art and animation bring the \nworld of Manual Samuel to life.\n•\tPlay solo or share control of Sam’s body with a friend for local co-op fun.\n•\tMaster the brutal time-attack mode.\n•\tScintillating soundtrack by Sondre Jensen and Ozan \nDrøsdal.\n•\tOver 600 lines of dialogue expertly executed by eloquent voice actors."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100748009A28000"
+region = "all"
+release_date = "2018-08-16"

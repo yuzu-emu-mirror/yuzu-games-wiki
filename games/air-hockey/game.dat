@@ -1,0 +1,11 @@
+title = "Air Hockey"
+description = "Play Air Hockey and re-discover the fun and excitement of this classic arcade game anywhere.\n\nWith stunning 3D graphics, you'll be transported straight back to the arcades of your youth.\n\nAir Hockey takes full advantage of HD giving you stunning crisp graphics.\n\nPlay against another player in TWO player mode or against the smart artificial intelligent (Ai) player, but be warned, winning won't come easy."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010005A00A4F4000"
+region = "all"
+release_date = "2018-02-28"

@@ -1,0 +1,11 @@
+title = "Vertical Drop Heroes HD"
+description = "Vertical Drop Heroes is a procedural platformer RPG hybrid with roguelike elements, where your hero adventures through randomly generated stages. Armed with a variety of skills and traits, you must use your cunning and reflexes to survive the dangers of each stage, until you face the final boss and uncover the truth behind the game!\n\nKey Features: \n•\tRandomly generated stages with destructible terrain\n•\tSplit screen, local co-op (supports split Joy-Con play)  \n•\tTons of skills, abilities, traits and powers to unlock\n•\tUnique combat system encourages proper planning over quick reflexes \n•\tPersistent upgrades allow you to carry forward progress between games\n•\tEvery enemy and boss is designed to provide challenge and variety\n•\tCreated by one-man indie studio, Nerdook, in his unique style\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009F100B0B8000"
+region = "all"
+release_date = "2018-10-04"

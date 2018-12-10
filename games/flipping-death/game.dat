@@ -1,0 +1,11 @@
+title = "Flipping Death"
+description = "9/10 - Nintendo Life\n9/10 - Nintendo World Report\n8/10 - IGN.com\n\nWhen Penny dies under mysterious circumstances, she wakes up and finds herself filling in for DEATH HIMSELF! This temp job comes with a new power - the ability to flip between the worlds of the living and the dead! In this puzzling platformer, she’ll need that - and her wits - if she ever hopes to unravel the mystery of her demise.\n\nLeap between platforms, solve puzzles and help the dead rest in peace by possessing the living and making them dance around at your merest whim in this comedy adventure game by Zoink Games, with writing by the Eisner-award winning Ryan North.\n\n- Flip between worlds: Move swiftly between the living and the dead.\n- Possess the living: Control their limbs and read their minds to solve puzzles.\n- Play as Death: You're just a temp, but the ultimate power of life and death is in your hands.\n- Dive into a rich, colorful world: Explore vivid environments in a pop-up book style and make your way through a completely original storyline!\n\nPossess the living, aid the dead and flip between the worlds of Flipping Death - a puzzling adventure platformer where you find yourself filling in for Death. Maybe your new powers will help you solve the mystery of your own demise?"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009FB002B2E000"
+region = "all"
+release_date = "2018-08-07"

@@ -1,0 +1,11 @@
+title = "The Bug Butcher"
+description = "The Bug Butcher is an action-packed 2D side scrolling shoot'em up game where peril comes from above.\n\nSo in a nutshell, pest control with machine guns in space. The core mechanics hold old ties from the classic arcade shooter “Super Pang” where you shoot vertically, but with modern day twists. You are Harry, a brash and tenacious exterminator who has a knack for decimating bugs.\n\nFeatures:\n- Chaotic, fast paced action shooting inspired by the arcade classic Super Pang!\n- Play solo or in local co-op\n- 30 levels and 5 merciless boss fights crammed with relentless waves of bugs\n- Online leaderboards and 3 difficulty modes offer the ultimate challenge\n- Upgradeable Weapons and Power-ups to make any trigger happy player smile\n- Handcrafted 2D graphics with explosion animations galore"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01008D700AB14000"
+region = "all"
+release_date = "2018-11-08"

@@ -1,0 +1,11 @@
+title = "Flood of Light"
+description = "You control a mysterious girl who arrives at a city that is completely flooded with water. Only she possesses the ability to control light.\nBy using the girl's supernatural power, you can solve various puzzles to gradually make the water recede and ultimately save the city.\n\nHowever, by doing so, the true purpose of this mysterious girl will also be slowly revealed to you."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100D1700ACFC000"
+region = "all"
+release_date = "2018-08-23"

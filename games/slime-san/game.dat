@@ -1,0 +1,11 @@
+title = "Slime-san"
+description = "Synopsis\nSlime-san was minding his own business, sliming around in a peaceful forest when suddenly…A giant worm appeared and gobbled him up! Now deep within the worm’s belly, Slime-san has to face a decision: Be digested by the incoming wall of stomach acid... Or jump, slide and slime his way through the worms intestines and back out its mouth!\n\nFeatures\nIncredibly fast-paced and twitch-timing platforming madness!\n\nNo time to stay still as you are chased by a wall of acid at every corner! Run, run, run!\n\nBeing a slime has its perks. Slime your way through cracked walls and surfaces!\n\nBust through brittle obstacles or tense situations with a speedy dash move.\n\nSlime to slow time, dash to speed it up. Feel like an absolute hero with pixel precise maneuvers!\n\nA game filled with content: 100 levels made out of 400 rooms combined with 100 newgame+ levels totaling to a \nstaggering 200 levels and 800 rooms!\n\nCollect partially-digested apples to unlock different play styles, outfits, shaders and mini games!\n\nUnlock competitive local multiplayer arcade games that recall titles of the past!\n\nGet your shopping done in a town of survivors within the worm, home to colorful characters and surprising secrets.\n\nUnlock extra game modes like New Game+, Speed Running and Boss Rush modes!\n\nGet engrossed in a flexible, 5 colored, pixelated world…found… within… the worm?\n\n14 composers contributed with over 20 songs for a chiptune album that you can't help but groove out to!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100112003B8A000"
+region = "all"
+release_date = "2017-08-03"

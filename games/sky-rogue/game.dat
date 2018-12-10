@@ -1,0 +1,11 @@
+title = "Sky Rogue"
+description = "Sky Rogue is a fwooshy rogue-lite action flight simulator! Blow things up over land, sea, and air, on an infinite number of procedurally-generated islands. Choose one of a diverse set of aeros and kit it out with a dizzying array of weaponry. Go toe-to-toe with enemy aces or assault giant flying aircraft carriers and battleships, but watch out for volleys of missiles; when you die, you're dead."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C5700434C000"
+region = "all"
+release_date = "2018-04-26"

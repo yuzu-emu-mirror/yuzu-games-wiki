@@ -1,0 +1,11 @@
+title = "Space Ribbon"
+description = "SPACE RIBBON\t\t\nThe year is 2132 and the earth’s remaining resources have been mined to create Space Ribbon, a reality TV racing platform set in the far reaches of the galaxy. Giant pandas and tigers spew illuminated ribbons of solid space junk from their mouths (space ribbons.) Humans compete by racing on these platforms, using the beaten up cars left strewn across the dystopian earth of 2132. This hedonistic pastime has become the fastest growing sport in the galaxy. The aim of game is to chase down a giant space beast and race to enter the creature’s mouth as it spews out a series of different psychedelic racetracks. Modify your junked up classic car and compete to become the intergalactic winner. The world is watching you…\n\nFEATURES\n• Never the same track twice!\n• Intelligent track generation combines procedural AI with great track design.\n• Navigate a twisting, turning, unpredictable racetrack as it appears ahead of you.\n• Race your friends with up to 4 Player split-screen.\n• 2 classes of car, with 4 in each class, each with different strengths.\n• Level up your racer to unlock new and harder race modes including cosmic mode.\n• Unlock new cars and upgrades to improve engine, grip and slipstreaming."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010010A009830000"
+region = "all"
+release_date = "2018-08-24"

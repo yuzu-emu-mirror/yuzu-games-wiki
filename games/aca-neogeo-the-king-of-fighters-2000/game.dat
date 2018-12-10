@@ -1,0 +1,11 @@
+title = "ACA NEOGEO THE KING OF FIGHTERS 2000"
+description = "“THE KING OF FIGHTERS 2000” is a fighting game released by SNK in 2000.\n\nFeaturing numerous improvements from KOF '99, KOF 2000 also introduces the all-new “Active Striker” system where players can enjoy exciting striker-based battle strategies. Plenty of nostalgic characters from the SNK Universe appear as “another strikers”.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100B97002B44000"
+region = "all"
+release_date = "2017-08-10"

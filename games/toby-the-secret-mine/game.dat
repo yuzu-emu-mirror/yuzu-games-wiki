@@ -1,0 +1,11 @@
+title = "Toby: The Secret Mine"
+description = "A peaceful way of life in a small village in the mountains was thrown into disorder. Someone has kidnapped most of its residents. A couple of brave hearts tried to rescue their friends but none of them has returned. Little Toby didn’t want to just sit and wait so he decided to find them by himself. He went to the near deep forest but he soon realized this is just a beginning. \n\nGo with Toby on an eerie adventure in a dark and creepy world full of dangerous situations, enemies and challenging puzzles."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100A4A00B2E8000"
+region = "all"
+release_date = "2018-08-07"

@@ -1,0 +1,11 @@
+title = "The Pinball Arcade"
+description = "Pinball Arcade is the most realistic and comprehensive pinball simulation ever created!\n\nPlay digital versions of over 35 real pinball tables including Mary Shelley's Frankenstein™, Ghostbusters™ Premium, AC/DC® Premium, Star Trek™ Vengeance Premium, Mustang® Premium \"Boss\", Doctor Who Master of Time, Wipeout™, and Tee'd Off™!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100CD300880E000"
+region = "all"
+release_date = "2018-05-11"

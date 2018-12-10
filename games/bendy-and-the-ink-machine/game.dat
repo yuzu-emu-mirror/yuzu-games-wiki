@@ -1,0 +1,11 @@
+title = "Bendy and the Ink Machine"
+description = "\"Bendy and the Ink Machine™\" is a first person puzzle action horror game that begins in the far days past of animation and ends in a very dark future.\n\nPlay as Henry as he revisits the demons of his past by exploring the abandoned animator's workshop of Joey Drew Studios. With twists and turns around every corner, \"Bendy and the Ink Machine\" is sure to thrill you... and decimate your childhood.\n\nYou'll never look at cartoons the same way again.\n\nThis first chapter sets the tone for the adventure ahead.\nSolve the riddle. Escape the workshop.\n\nAbove all, fear the machine and survive."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010074500BBC4000"
+region = "all"
+release_date = "2018-11-20"

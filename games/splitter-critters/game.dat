@@ -1,0 +1,11 @@
+title = "Splitter Critters"
+description = "Splitter Critters is an award-winning freeform puzzle game that puts world-splitting power into your hands. Split and rearrange the world to bring faraway platforms together, move deadly lasers out of the way, and create floating swimming pools to guide alien critters back to their spaceship.\n\nKey Features\nSolve - There's no wrong way to solve any of the puzzles, so you are free to get creative with your solutions.\n\nExplore - Diverse planets full of danger and innovative mechanics that will make you think in new ways.\n\nListen - Each world features an immersive soundscape and soundtrack composed by A Shell in the Pit."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C320083BE000"
+region = "all"
+release_date = "2018-05-15"

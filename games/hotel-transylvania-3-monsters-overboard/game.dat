@@ -1,0 +1,11 @@
+title = "Hotel Transylvania 3: Monsters Overboard"
+description = "Dracula, Mavis and the gang have been marooned on the mysterious Lost Islands! Only you, with help from lovable little creatures, the Impa, can reunite them with the rest of the Drac-Pack! Lead your Impa team on daring missions to explore the Lost Islands and rescue Frankenstein, Murray and Wayne. Discover new Impa varieties – including Frankenimpa, Wolfimpa and more – and use their scary skills to battle fearsome enemies, solve puzzles and save your monster friends, in a hilarious new adventure that continues the story of Sony Pictures Animation’s Hotel Transylvania 3 movie!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100017007980000"
+region = "all"
+release_date = "2018-07-10"

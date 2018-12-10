@@ -1,0 +1,11 @@
+title = "Her Majesty's SPIFFING"
+description = "In the wake of a political crisis Britain finds itself increasingly isolated from global society. Frustrated by the demise of this once great nation Her Majesty the Queen concludes the elected representatives in London are no longer fit to govern her United Kingdom.\n\nEstablishing S.P.I.F.F.I.N.G. (Special Planetary Investigative Force For Inhabiting New Galaxies) Her Majesty has turned to the stars in a bid to establish a new, Galactic British Empire!\n\nAssuming command of the near futuristic space ship HMSS Imperialise and her crew (distinguished veteran and gentleman Captain Frank Lee English and Aled, his mild-mannered South Walean colleague) YOU will venture into the cosmos, solving puzzles, engaging in witty banter, deal with crippling claustrophobia, gradually succumb to the sustained exposure of cosmic radiation and so on, all for Queen and Country."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100946008DAE000"
+region = "all"
+release_date = "2018-02-01"

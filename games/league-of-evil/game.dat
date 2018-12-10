@@ -1,0 +1,11 @@
+title = "League Of Evil"
+description = "Use your acrobatic skills to punch your way through levels filled with deadly traps and defeat your enemies.\nThe world is counting on you!\n\nIn this new version we bring you new features such as new exclusive levels and a level editor, that will allow players to create and share their own levels! You can even share levels with players all over the world! This works accross platforms, increasing the total amount of levels available.\n\nFeatures:\n140 challenging levels, divided into 4 chapters.\nAmazing level editor to make your own levels, download new ones from the community and best of all, cross-platform level sharing!\nClassic 8-bit style art style\nAwesome one punch decapitations!\nRocking chiptune soundtrack.\nSuper fast and challenging gameplay\nEach level has a briefcase to collect as a bonus challenge. Try to collect them all!\nBeat the levels as fast as you can to receive the highest score!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009C100390E000"
+region = "all"
+release_date = "2017-08-31"

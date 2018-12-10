@@ -1,0 +1,11 @@
+title = "Professional Construction - The Simulation"
+description = "Immerse yourself in the sprawling and fascinating world of road construction! Experience life on the construction site like the pros, and use heavy equipment and massive machinery. Enter an open world scenario to complete a large variety of assignments. There's no way you can get bored repairing roads and doing so much more. A wide range of heavy construction equipment stands ready for your use. Utilise pavement milling, bulky cement mixers, powerful dump trucks, practical mini excavators and more!\n\nFEATURES\nLoads of challenging tasks\nAn open world with a gravel quarry, port and train station\nLots of special vehicles like the bulldozer, mill and flatbed truck\nDiverse missions: fuel aircraft, sell vehicles, dispose of rubble and organise construction materials\nAssignments, big and small: repair roads, excavate foundations and repair runways"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100A9800A1B6000"
+region = "all"
+release_date = "2018-05-03"

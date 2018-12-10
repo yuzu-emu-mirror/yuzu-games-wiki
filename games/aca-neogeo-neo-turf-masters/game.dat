@@ -1,0 +1,11 @@
+title = "ACA NEOGEO NEO TURF MASTERS"
+description = "\"NEO TURF MASTERS\" is a golf game released by SNK in 1996.\n\nPlayers can choose from a total of six golfers with different abilities and play on courses located around the world such as Australia or Germany.\n\nPlayers can test out their golf game skills against friends with game modes such as \"STROKE PLAY\" and \"MATCH PLAY (2P battle only)\".\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01002E70032E8000"
+region = "all"
+release_date = "2017-03-23"

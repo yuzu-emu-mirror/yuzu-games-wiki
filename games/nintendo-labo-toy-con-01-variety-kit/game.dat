@@ -1,0 +1,11 @@
+title = "Nintendo Labo Toy-Con 01: Variety Kit"
+description = "Nintendo Labo Toy-Con 01 Variety Kit"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C4B0034B2000"
+region = "all"
+release_date = "2018-04-20"

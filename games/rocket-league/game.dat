@@ -1,0 +1,11 @@
+title = "Rocket League®"
+description = "Winner or nominee of more than 150 ‘Game of the Year’ awards, Rocket League® is a high-powered hybrid of arcade soccer and driving with rewarding physics-based gameplay. Take to the pitch for a fully-featured offline season mode, multiple game types, casual and competitive online matches, and special “Mutators” that let you change the rules entirely. Express yourself with one of the deepest customization systems around and battle opponents on other platforms with groundbreaking cross-platform play!\n\n• Includes exclusive Nintendo Car Toppers and Battle Cars\n• Nintendo Switch version features ad-hoc (local) multiplayer\n• Supports online multiplayer for up to 8 players; cross-platform play with Steam & Xbox One users\n• Supports all play styles - TV, TableTop, Handheld Modes"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01005EE0036EC000"
+region = "all"
+release_date = "2017-11-14"

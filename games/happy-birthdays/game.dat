@@ -1,0 +1,11 @@
+title = "Happy Birthdays"
+description = "From legendary creator Mr. Yasuhiro Wada (TOYBOX Inc.) comes Happy Birthdays: a sandbox game in which players create cube-shaped worlds that give rise to diverse and unique lifeforms. With careful experimentation, players can shape the geography and alter the temperature of the world to create the conditions for life and witness the birth of an entire ecosystem!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010083600AE9E000"
+region = "all"
+release_date = "2018-06-05"

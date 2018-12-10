@@ -1,0 +1,11 @@
+title = "Super Inefficient Golf"
+description = "Super Inefficient Golf builds on top of the most inefficient game ever conceived by making it even LESS efficient. Drop your silly golf stick and start using exploding mines to guide your ball! Place them, choose the right timing, and BOOM - Birdie!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010056800B534000"
+region = "all"
+release_date = "2018-09-07"

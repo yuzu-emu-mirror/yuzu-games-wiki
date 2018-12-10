@@ -1,0 +1,11 @@
+title = "Pirates: All Aboard!"
+description = "If you own or buy Astro Bears Party or Robonauts, you can save 50% off this title!\n\nPirates: All Aboard! is a competitive battle game for solo and multiplayer pick ’n play fun.\n\nBecome the best pirate:\n• Skillfully navigate between tropical islands on 7 maps\n• Exploit each of the ships’ strengths and weaknesses\n• Hook the power-ups and fire devastating cannon blasts\n• Be absolutely merciless with your enemies!\n\nEnjoy 2 game modes - Battle Arena (1-4 players) & Endless “Treasure Sail” (1 player).\n\nAll Aboard!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100FC5009952000"
+region = "all"
+release_date = "2018-04-13"

@@ -1,0 +1,11 @@
+title = "Alteric"
+description = "Only Yesterday You Were A Man.\nToday Everything Has Changed.\nYou Died.\nBut your soul is still there. It’s a piece of light energy trapped in the alien space between two worlds.\n\nAlteric\nA single player 2D-platformer\nBright minimalistic graphics\nHardcore gameplay with physics, gravity and logic\n2 interconnected parallel worlds\nA variety of obstacles and dangerous bosses\nAtmospheric soundtrack\n\nAccording to the developers - 'We tried to develop a game in such a way that the player realized: here, Thomas meets with Dark Souls'"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01004DB00935A000"
+region = "all"
+release_date = "2018-03-30"

@@ -1,0 +1,11 @@
+title = "Gaokao Love 100Days"
+description = "Is there still room for love in this 100 days, or am I just ruining my life, or worse, her life?\n\nThis is a dating simulation game based on Chinese students' real life. \nYou can have romantic relationship with classmates, but remember that you have just 100 days while preparing for “Gaokao” (National College Entrance Exam), the exam that may change your destiny.\n\nKeep a balance between score and romance, or just drop one and see what would happen? There are over 10 story lines and will lead to more than 50 ends."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010091400B596000"
+region = "all"
+release_date = "2018-09-24"

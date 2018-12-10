@@ -1,0 +1,11 @@
+title = "Super Saurio Fly"
+description = "“Super Saurio Fly” is a 2D arcade platformer and adventure video game. Players will move along the stages  crossing different parts of the world by using Super Saurio´s ability to fly, dodge traps and defeat other dinosaurs. The storyline puts the player on the role of Saurio, a cute and clumsy tiny pterodactyl whose eggs were stolen. Saurio will have to look for his eggs around the world and defeat the evil kidnappers ."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01004CF00A60E000"
+region = "all"
+release_date = "2018-04-28"

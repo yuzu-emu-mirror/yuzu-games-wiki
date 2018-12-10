@@ -1,0 +1,11 @@
+title = "Johnny Turbo's Arcade Express Raider"
+description = "Save the Old West, with your rifle and your horse, from thieving Train Robbers."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100378002CCA000"
+region = "all"
+release_date = "2018-07-12"

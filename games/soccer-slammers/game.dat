@@ -1,0 +1,11 @@
+title = "Soccer Slammers"
+description = "Soccer Slammers is 2-on-2 arcade soccer with no rules. Just fast-paced fun for 1 to 4 players on a single Nintendo Switch. Crush your opponent by mastering power shots, slam tackles, bank shots, super sprints, and team combo-shots! Warm up with a two minute Quick Game or go for glory in the World Cup against the top 32 teams in the world."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010011A00A9A8000"
+region = "all"
+release_date = "2018-06-14"

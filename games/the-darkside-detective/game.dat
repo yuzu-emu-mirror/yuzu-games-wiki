@@ -1,0 +1,11 @@
+title = "The Darkside Detective"
+description = "Where cultists crawl, where demons dwell, where the occult… occults? *ahem* That's where you’ll find Detective Francis McQueen, the lead investigator of the criminally underfunded Darkside Division. When evil darkens the doorsteps of Twin Lakes City – hell, even when it just loiters around shop fronts or hangs out in shady alleyways – he’s there, ready to investigate the cases that nobody else will. \nHe is The Darkside Detective.\n\nThe Darkside Detective is a micro-adventure game with a distinct sense of humour. It’s being developed for PC & Mac, and consists of a series of humorous bite-size investigations into the occult and extraordinary. It features:\n\n6 cases, each more spooky than the last\nMusic from Ben Prunty, the audiomancer behind gems such as FTL and Gravity Ghost\nAt least three jokes\nCutting edge, high definition pixels\nOne free curse-removal, up to and including mid-level witch hexes"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01003DE00918E000"
+region = "all"
+release_date = "2018-02-07"

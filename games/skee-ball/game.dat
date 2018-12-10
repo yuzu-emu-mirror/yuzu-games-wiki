@@ -1,0 +1,11 @@
+title = "Skee-Ball"
+description = "Skee-Ball is officially licensed Skee-Ball arcade game. \nSkee-Ball is fun and action packed alley bowling game \nwhich you can now take with you wherever you go. The \ngame captures all the fun of the original arcade game, \nfeatures a host of new game variants.\n\nFeatures include:\n• Classic layout with multiple game modes including Call \nyour Shot, Speedball, Horse, Hangman, and Head to \nHead multiplayer modes like Countdown\n• Use motion controls in TV mode to throw the balls\n• New layouts with different scoring circles and \ncombinations including Pachinko style play\n• Dynamic layouts where the targets are moving, to \nchallenge even the best players\n• Holiday season layouts\n• Ticket redemption for power ups, score multiplier \nballs, magic balls, new game boards and other goodies \nthat affect gameplay, instead of just being window \ndressing on your shelf\n• Hundreds of challenges\n• Global and Category Leaderboards"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100B2F008BD8000"
+region = "all"
+release_date = "2018-04-19"

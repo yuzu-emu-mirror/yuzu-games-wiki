@@ -1,0 +1,11 @@
+title = "Gelly Break"
+description = "Gelly Break is a varied jump'n'run with an intense co-op mode for two players, which will demand real teamwork in addition to the right tactics, especially in the boss battles against huge unique enemies. Discover a new world and rescue the captured Gellies from Evil Blob!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009D000AF3A000"
+region = "all"
+release_date = "2018-11-29"

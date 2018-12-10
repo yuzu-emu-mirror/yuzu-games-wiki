@@ -1,0 +1,11 @@
+title = "NARUTO™: Ultimate Ninja® STORM"
+description = "NARUTO: Ultimate Ninja STORM allows players to battle in full 3D across massive environments. Players will unleash powerful jutsu attacks, perform acrobatic evasive maneuvers and even run up walls and over water as they pursue their opponent for ninja supremacy. Players will be able to customize their character's fighting style and recruit up to two support characters to put their own stamp on the action."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100715007354000"
+region = "all"
+release_date = "2018-04-26"

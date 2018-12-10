@@ -1,0 +1,11 @@
+title = "36 Fragments of Midnight"
+description = "This time Midnight's friends lost of their Star Fragments!\n\nYour task is to find them, and take them back, but it won't be easy. In this procedurally generated platform game, you have to avoid deadly lasers, circular saws and spikes to collect all the Fragments, to get their greatest gift. Do you have what it takes to collect all?"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01003670066DE000"
+region = "all"
+release_date = "2017-09-14"

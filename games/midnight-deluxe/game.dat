@@ -1,0 +1,11 @@
+title = "Midnight Deluxe"
+description = "Use your controller or touch-screen controls, to launch Midnight into the night sky, but watch out! The world of Midnight is a dangerous one thanks to the likes of spikes, circular saws and plenty of other dangerous objects and even if you do manage to get Midnight into the safe zone, to advance to the next level, there’s the added challenge of trying to complete each level in the least amount of shots as possible to get all three Stars.\n\nFeatures:\n• 70 engaging levels that get progressively harder.\n\n• Enhanced graphics that are even greater than those seen in 36 Fragments of Midnight\n\n• Controller support added\nTouch-screen controls have also been added for the players who would rather use their fingers.\n\n• A soothing piano soundtrack throughout to complement gameplay."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01000FB008900000"
+region = "all"
+release_date = "2018-03-08"

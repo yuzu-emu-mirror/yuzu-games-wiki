@@ -1,0 +1,11 @@
+title = "Super Rock Blasters!"
+description = "Super Rock Blasters is a fun local multiplayer Asteroids/Space War mashup style arcade shooter where you blast friends into smithereens for points. Play with 2 to 4 friends (or enemies) for fast paced competitive fun!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009E4006CC8000"
+region = "all"
+release_date = "2018-07-05"

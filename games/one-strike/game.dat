@@ -1,0 +1,11 @@
+title = "One Strike"
+description = "Become the deadliest fighter in a vintage Japan! \nOnly one strike settles the duel, master the fighting style of each warrior to outsmart your opponents. \n\nChallenge your friends or the AI in easy, medium or hard mode. \n \n6 fighters in medieval Japan:\n• Kenji the honorable samurai and his katana\n• Hinode the ninja striking her Sai weapons at the speed of light\n• Soujirou the monk wielding his long-range Nodashi\n• Hangaku the fastest girl in the East with her Kusarigama\n• Bailong the Chinese veteran and his proud Kwan dao\n• Tomoe the killer with her sharp Wakizashi \n \n4 modes:\n• One Life: just like in real life, you've got only one\n• Arcade: you get 5 lives to train with your character\n• Team Duel: put together your best team of 3 warriors\n• Tournament: up to 8 players (AI or real person) fight for the final victory!\n \nThe game lets you consult your achievements at any time."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01003A800B102000"
+region = "all"
+release_date = "2018-06-08"

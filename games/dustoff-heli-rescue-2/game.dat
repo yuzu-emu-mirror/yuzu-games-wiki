@@ -1,0 +1,11 @@
+title = "Dustoff Heli Rescue 2"
+description = "Jump into the hot seat of a combat helicopter and fly behind enemy lines under heavy fire as you search and rescue hostages! Play through 35 tense missions that include rescuing hostages, providing air support, protecting convoys and of course wiping out the enemy. Tackle windy deserts, snow storms, blazing forests and weave through underground caves in search for your men. Fly 12 different machines and gradually upgrade each with more powerful guns, rockets and missiles as you take the fight to the enemy! "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C00005E38000"
+region = "all"
+release_date = "2018-01-25"

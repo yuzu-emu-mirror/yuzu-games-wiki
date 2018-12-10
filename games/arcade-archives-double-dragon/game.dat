@@ -1,0 +1,11 @@
+title = "Arcade Archives DOUBLE DRAGON"
+description = "DOUBLE DRAGON is an action game that was released from Technos Japan in 1987.\n\nTwo brothers fight with evil, to rescue Marian that has been kidnapped by violence organization.\n\nThe Arcade Archives series has faithfully reproduced many classic Arcade masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100F25001DD0000"
+region = "all"
+release_date = "2018-01-18"

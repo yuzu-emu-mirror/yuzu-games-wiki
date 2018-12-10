@@ -1,0 +1,11 @@
+title = "Tanzia"
+description = "Years ago, your grandfather disappeared under mysterious circumstances. Before leaving, he sent you into hiding on Volcano Island. Now older, you've been set free by your guardian and mentor Abenaki to follow the mystery... but is Abenaki telling you everything?\n\nTanzia is a single-player RPG that combines fast-paced strategic combat with elements of favorite classic RPGs in an open 3D world of magic and monsters.\n\nFEATURE OVERVIEW:\n\n-Explore a unique island setting.\n\n-Deep story revealed through a combination of NPC dialog, comic-style cutscenes and in-game unlockable comic books.\n\n-1080p, 60 FPS.\n\n-Open world gameplay, with no loading times.\n\n-Run, hail a ship, row a boat or teleport to travel around the islands.\n\n-Main questline and optional quests to unlock more spells, items, and zones.\n\n-Open combat system where exploiting combinations of spells, enemy weaknesses, and environment is encouraged.\n\n\n\"Tanzia is an experience that deserves its fair time in the spotlight. If you are in the market for an action RPG, check it out!\"\n-gamingboulevard.com - \"9/10\"\n\n\"Tanzia is a good game on Nintendo Switch, with polished and colorful graphics, a solid story and plenty of content to enjoy. You should definitely check out.\"\n-PS4Blog.net - \"8.5/10\"\n\n\"This is a good game, the kind the Switch needs more of!\"\n-LadiesGamers.com - \"I LIKE IT A LOT!\"\n\n\"Tanzia is a gem of a game. Very much worth the price of admission.\"\n-Anydayreviews.com - \" VERY RECOMMENDED\""
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01004DF007564000"
+region = "all"
+release_date = "2018-07-19"

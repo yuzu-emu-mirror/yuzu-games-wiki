@@ -1,0 +1,11 @@
+title = "ACA NEOGEO METAL SLUG 4"
+description = "“METAL SLUG 4” is an action shooting game released by SNK in 2002 andit marks as the fifth title in the METAL SLUG series. In addition to Marco and Fio, the brand new characters, Trevor and Nadia have joined the battle! Use the new items effectively and get the highest score with the new Metallish System!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009CE00AFAE000"
+region = "all"
+release_date = "2018-08-09"

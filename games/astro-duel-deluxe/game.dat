@@ -1,0 +1,11 @@
+title = "Astro Duel Deluxe"
+description = "Astro Duel Deluxe includes new features and gameplay created for the Nintendo Switch!\n\nASTRO DUEL DELUXE is a fun, frenetic same-screen local multiplayer party game for 1 to 6 players!\n\nGame rounds are quick and defeat is sudden as you blast enemy ships, or run over your friends' shipless pilots. (Hilarity ahead!)\n\nFEATURES\nPlay anywhere – On the TV, on the go, or even face up on a table or floor!\n\nPlay with multiple controller types (including touch screen)\n\nWipe out your friends' squad in \"Team Annihilation\" mode\n\n6-player \"Chaos\" mode (More open arenas support Free-For-All and 3v3)\n\nPilot Selection – Pick from 6 pilots to control, including Box Cat and Chomper\n\nInstant Replay after completing each round\n\nAdditional music\n\nWacky \"Touch\" mode – Ships can only turn in one direction!\n\nBattle your friends or team up to take on CPU opponents\n\nRun over pilots in \"Pilot Hunters\" mode, battle for the most kills in \"Ship Hunters\", or join forces in \"Team Deathmatch\"\n\nArm your ship with offensive and defensive powerups including missiles, lasers, jousters and shields\n\nDynamic arenas provide a host of hiding places and hazards – Avoid turrets, death beams, and black holes\n\nMix up play with Game Modifiers (enable asteroids, starting power-ups, super dashes, and so much more)"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100F0400351C000"
+region = "all"
+release_date = "2017-05-30"

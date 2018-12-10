@@ -1,0 +1,11 @@
+title = "Frutakia 2"
+description = "Frutakia is back and better than ever! Match 3 or more fruits and level up! Go ahead and move any row up or down! We dare you to discover its ultra-addictive gameplay, play once and that’s it... Simple and smart gameplay, ideal for short periods of time, like buses, trains.\n\nGAME OBJECTIVE:\nYou must make clever groups of 3 or more cascade lines with the same fruits in any direction!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010099700B760000"
+region = "all"
+release_date = "2018-10-04"

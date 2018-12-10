@@ -1,0 +1,11 @@
+title = "NORTH"
+description = "In NORTH you play a man who applies for asylum in a city filled with strange creatures and strange customs. \n\nDealing with the issue of the contemporary refugee crisis while at the same time being deeply rooted in a classical cyberpunk atmosphere à la Blade Runner, NORTH features a dark synthpop soundtrack, a sprawling mega-city and weird monster-like inhabitants. \n\nThe gameplay is very straightforward and mostly consists of exploration and simple puzzles. The main difficulty is to understand what you have to do in order to get asylum. You've come from an foreign land in the south and find yourself lost and confused - a confusion you convey through letters to your sister back home. An important part of the gameplay, these letters help you understand your tasks while at the same time moving the narrative of the game forward."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01004840086FE000"
+region = "all"
+release_date = "2018-03-06"

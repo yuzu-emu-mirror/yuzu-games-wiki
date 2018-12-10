@@ -1,0 +1,11 @@
+title = "Arcade Archives Traverse USA"
+description = "\"Traverse USA\" is a racing game released by IREM in 1983. Hop on a motorcycle and ride across America, avoiding cars as you head to your goal of New York City. A variety of obstacles await off-road and on, so utilize all your techniques as you participate in this race.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010029D006ED8000"
+region = "all"
+release_date = "2017-11-30"

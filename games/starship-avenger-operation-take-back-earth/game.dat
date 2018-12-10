@@ -1,0 +1,11 @@
+title = "Starship Avenger Operation: Take Back Earth"
+description = "In a distant future... When mankind advanced to outer space, the Crius suddenly appeared out of nowhere and began invading humanity. Mankind's defense network in the solar system was no match for the overwhelming forces of Crius and were quickly defeated... However, mankind did not lose all hope. The remaining survivors gathered to the Planet Kagutsuchi located close to the solar system. They researched the Crius and mapped out the ultimate battle plan that would determine humanity's fate.\n\nThe essential factor to this plan is the newly built Space Battleship \"Avenger.\"\n\nAvenger’s mission is to intercept the enemies that roam in the solar system and deliver mankind’s ultimate weapon \"Thor's Hammer\" back to Earth's orbit.\n\nThus, \"Mission Take Back Earth,\" the plan to return to Earth and retaliate against the Crius, is about to begin...\n\n\"Starship Avenger\" is a defense shooter action game.\n\nBlast off the weapons installed on Avenger to defeat the enemies who come to destroy mankind's ultimate weapon! Don't let them cross the Dead Line or they'll cause damage to Thor's Hammer!\n\nCharge your energy gauge by defeating enemies and release the limiter to blast a full-scale attack to destroy them all at once! The energy gauge can be used to create a temporarily barrier surrounding Avenger! Use your gauge wisely depending on the situation to get ahead!\n\nPower up the battleship and try to attain a perfect shield and kill ratio in all stages! There are three different difficulties to choose from, making it enjoyable for beginners and advanced players of defense action games!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01001BB00AC26000"
+region = "all"
+release_date = "2018-07-19"

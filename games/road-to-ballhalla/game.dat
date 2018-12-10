@@ -1,0 +1,11 @@
+title = "Road to Ballhalla"
+description = "- Rhythm-driven Gameplay: Move with the music to overcome even the most difficult hazards, like laser beams or insane camera angles trying to explode both your balls and your brain.\n\n- Dynamic Music and SFX: The dynamic music by Emmy-nominated composer Nicholas Singer is tailored to the rhythm and style of each level, with sound effects adjusting to the level's music. Without it, you'd fail even harder.\n\n- Epic Storyline: Not included. Instead, be guided by floor texts that make fun of you when you fail and drop awful puns even if you unexpectedly don't.\n\n- Scavenger Hunt: Discover secret areas that lead to other secret areas which in turn lead to other secret areas. You get the idea, and maybe even the rainbow that awaits you at the end of the treasure. Probably you'll just google it though.\n\n- Speedrolling: Replay levels in Rush mode as fast as you can and prove that you are a good person by beating other players' highscores.\n\n- Style your Balls: Be rewarded with awesome bonus contents like tasty new colors and trail effects for your balls."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010002F009A7A000"
+region = "all"
+release_date = "2018-08-02"

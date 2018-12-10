@@ -1,0 +1,11 @@
+title = "Fate/EXTELLA"
+description = "Experience lightning-fast battlefield action across an epic story! In the digital realm of SE.RA.PH, the Holy Grail War is over, but the land's new ruler faces challenges and threats from all sides. The servants now find themselves drawing up tense and unlikely alliances, preparing for a conflict that may tear SE.RA.PH apart...or destroy it entirely.\n\nKey Features:\n\nA Variety of Fate Universes Collide\nThe famous Fate EXTRA series strikes a path to a new stage with Fate/EXTELLA: The Umbral Star. Not just Fate/EXTRA Servants, but characters from Fate/stay night, Fate/Apocrypha, Fate/Grand Order, Fate Zero and other Fate series will make appearances. You can enjoy the game in Japanese audio with English subtitles. Chinese, Korean, and Japanese text is also available. \n\nA Brand-New Story From the Series' Author, Kinoko Nasu\nAs the original creator of Fate/stay night and the scenario writer of Fate/EXTRA, Kinoko Nasu has created a completely new scenario for Fate/EXTELLA. The universe and characters of Fate will evolve.\n\nA Large Story Told From Different Perspectives\nIn Fate/EXTELLA, the story will be told from the independent perspectives of three heroine Servants. Various side stories are also included, creating a structure that will shed light on the main story.\n\nA New Way to Battle\nAs a unique action game in the Fate series, the player will be able to control a Servant and perform various moves. On top of that, a powerful \"Form Change\" ability has been added to transform your Servant. Engage in intense battles, on the ground or in mid-air, to annihilate the enemy forces."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010053E002EA2000"
+region = "all"
+release_date = "2017-07-25"

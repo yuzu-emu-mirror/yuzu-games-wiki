@@ -1,0 +1,11 @@
+title = "Physical Contact: 2048"
+description = "Physical contact: 2048 is a casual but head-minded game that aims at higher values by coalescing the same blocks in the region.\n\nFor better grades, polite operation is necessary.\n\nIt is a game series where two people can play against each other.\n\nAny two partners, including parents, friends and lovers are suitable.\n\nBecause it is simple and has rules that everyone knows, you can enjoy the game immediately.\n\nIf you use the handicap function, you can level the playing field.\n\nBecause the match times are short, you can play anytime and anywhere whenever you feel like it.\n\nOf course there is also a single-player mode.\n\nPlease enjoy it together!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100BF1003B9A000"
+region = "all"
+release_date = "2017-09-07"

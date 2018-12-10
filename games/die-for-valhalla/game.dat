@@ -1,0 +1,11 @@
+title = "Die for Valhalla!"
+description = "Die for Valhalla! is an action RPG where you possess and take full control of heroes, monsters and other things to help Vikings save their realm!\n\nYou are a Valkyrie, a supernatural maiden bestowed with the ability to possess fallen warriors. You embark on a quest that will lead you through strange lands where Norse Mythology collides with Lovecraftian mythos. Sounds Weird? Well, because it is!\n\nThe game offers two story modes with procedurally generated worlds: Beat ‘Em Up and Rogue-lite.\n\nBeat ‘Em Up mode creates a larger world for you to explore with a more relaxed difficulty curve. You can revive your friends and the potions you find have useful or hilarious effects (or both).\n\nRogue-lite mode generates a smaller world featuring steeper difficulty curve and permadeath. Some of the potions you find have malicious effects - you have to learn which ones to avoid in each run!\n\nYou can play solo or with friends locally (up to 4 players).\n\nKey Features:\nAn action-packed hybrid of Roguelike and arcade Beat ‘Em Up.\nUnique Possession gameplay mechanic.\nMore than 10 Viking Clans to discover and unlock. \nEach of the 7 Viking Classes comes with unique play styles and combos.\nOver 80 skills to choose from when leveling up your Valkyrie.\nCute but bloodthirsty creatures will become your companions. \nPlay against your friends in Deathmatch and Survival modes.\nAnd more!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100D98005E8C000"
+region = "all"
+release_date = "2018-05-29"

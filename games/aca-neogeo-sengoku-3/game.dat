@@ -1,0 +1,11 @@
+title = "ACA NEOGEO SENGOKU 3"
+description = "“SENGOKU 3” is a side-scrolling action game released by SNK in 2001. In order to purge malicious souls, Shinobi travel the world to defeat the undead. Cut, smash, throw, and use weapons as well as Ninja Arts and Ultimate Ninja Arts in this hyper-action ninja game.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01008D000877C000"
+region = "all"
+release_date = "2018-03-29"

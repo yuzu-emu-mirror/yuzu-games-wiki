@@ -1,0 +1,11 @@
+title = "Lost In Harmony"
+description = "Experience music in a new way with the combination of rhythmic tapping and choreographic runner\n\nDiscover the musical story from the co-creator of Valiant Hearts\n\nGuide Kaito and Aya through their adventures, in total harmony with music\n\nTravel trough 30+ painted environments\n\nCustomize your character's clothes, headphones, hat and skateboard"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100B6C00AF6E000"
+region = "all"
+release_date = "2018-06-21"

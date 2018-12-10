@@ -1,0 +1,11 @@
+title = "Shut Eye"
+description = "Shut Eye on Nintendo Switch™ - now with refreshed \ngraphics and gameplay!\n\nPlay as a young child, who is away from her parents. The \ngirl has suffered from anxiety most of her life, which lead \nto confusion and an exuberant imagination. When the \nlights go out, and the moon comes out, it's when the story \nbegins.\n\nKeep her safe and awake. Things at the night may take an \nunexpected turn. These toys are out to play, and the \nquestion is - are they real or is this just the child's \nimagination?\n\nSurvive the night and keep your anxiety level down, as \nthroughout the night you will experience the true meaning \nof what a child's imagination can be.\n\nEach night you may encounter different types of creatures. \nDon't let their cuteness fool you! The higher your anxiety \nlevel goes, the harder things become.\n\nKeep her calm. Keep her safe. Keep her in the light."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100A7900B936000"
+region = "all"
+release_date = "2018-08-09"

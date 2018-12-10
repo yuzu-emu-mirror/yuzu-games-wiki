@@ -1,0 +1,11 @@
+title = "ROCKETSROCKETSROCKETS"
+description = "ROCKETSROCKETSROCKETS is a game where you fly ROCKETS that rocket ROCKETS at other ROCKETS! The ultimate rush of arcade arena action, with the fluidity and amazing feel of soaring through space.\n\nROCKETS. We feature only the finest interstellar vehicles. \n\nLOCAL VERSUS MULTIPLAYER. Get your fellow rocketeers together, we're going to BLOW THINGS UP! \n\nUNDERDOG MODE. A flock of rockets versus the lone rebel. Amongst all the friendly fire, will you rocket to the top? \n\nTEAM PLAY. Every rocket needs a partner! \n\nSTANLEY. This is a story of a rocket named Stanley. Meet the AI Rocket that thinks he has free will, and meet the rockets he will relentlessly fire at your rocket. \n\nCOOL LIGHT TRAILS. These are some classy rockets that are a lot of fun to fly. \n\nMAKE IT YOUR OWN. We've got a glorious settings menu where you can turn on different game modes, tweak weapon behaviours, alter gravity, and even adjust sprite sizes! "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010053400BFA6000"
+region = "all"
+release_date = "2018-11-15"

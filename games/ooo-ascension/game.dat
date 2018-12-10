@@ -1,0 +1,11 @@
+title = "oOo: Ascension"
+description = "Indie arcade hit oOo: Ascension is out on Nintendo Switch! \n\nNavigate your ship through short but ferociously difficult levels in the shortest time possible without touching any walls, spinning blades, lasers or countless other hazards that will try to destroy you in the process. oOo: Ascension revisits the ramping difficulty of old-school arcade games, whereby each challenge CAN be completed in a matter of seconds - however doing so ranges in difficulty from hard to straight-up rage-inducing. \n\nThe unique neon visuals and electronic soundtrack help to make oOo: Ascension an immersive experience that will have you saying \"just one more shot...\" for hours on end. Play in single player mode across 90 levels or race against a friend in local splitscreen mode - your progress carries across the two modes!\n\nFeatures:\n- Classic Arcade mode with increasingly challenging levels\n- Local Multiplayer mode - complete the game with a friend, or race against them for the best time!\n- 9 unique sectors consisting of 10 levels, each with their own unique hazards and stunning visual styles \n- Ghosts - Race against your own best times!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010074000BE8E000"
+region = "all"
+release_date = "2018-10-04"

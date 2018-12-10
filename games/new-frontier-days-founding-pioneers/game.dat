@@ -1,0 +1,11 @@
+title = "New Frontier Days -Founding Pioneers-"
+description = "\"New Frontier Days ~Founding Pioneers~\" is a town-building simulation game, where you command your pioneers to colonize a new land. \n\nThe pioneers are capable of \"Logging\", \"Mining\", \"Hunting\", \"Fishing\", and many others. Command them accordingly, and build your own town efficiently!\n\nFrom the materials gathered via the actions of your pioneers, you can then use them to \"Build\"! With the buildings, you can then process logs into lumber, weave wool into textiles, grow plants with the Field and many more! Make your town thrive with all these useful buildings!\n\nYou can also keep wild animals as pets too! Pets can go out with the pioneers to gather materials, or they can help in hunting, and even allow pioneers to ride on their backs!\n\nAs you progress in colonizing the land, you may obtain \"Invention Cards\" along the way. These cards provide various effects, such as shortening your farm harvesting time cycle, and increasing the fishing time and etc. There are over 290 cards in the game! Use them wisely!\n\n3 Game Modes are in the game. First, there is the Story Mode, where you set out with the help of your lovely assistant, Jessica, to build your dream town from scratch, overcome all sorts of obstacles, and aim to develop into a city.\n\nThen, there is the Survival Mode, where you can choose from 5 levels of difficulty to suit your pace of gameplay.\n\nLastly, the Free Mode has no Game Overs, and you can use whichever Invention Cards you have obtained freely.\n\nYou choose how you want to build your frontier town!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01004C200100E000"
+region = "all"
+release_date = "2017-03-23"

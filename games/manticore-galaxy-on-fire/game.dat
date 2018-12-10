@@ -1,0 +1,11 @@
+title = "Manticore - Galaxy on Fire"
+description = "MAKE YOUR STAND BEYOND THE STARS\n\nWrite your legacy in gunfire and smoke as you take down the galaxy’s most wanted criminals in action-packed dogfights! Rise to become the hero of the Neox Sector – a deadly fringe world terrorized by ruthless crime lords and their no-good underlings!\n\nFIGHT SPACE PIRATES & SAVE THE GALAXY\n\nEnjoy 8+ hours of play time and 60fps across all game modes as you follow a gripping narrative in three acts. Fly spectacular spaceships, master challenging missions and explore a handcrafted universe in the new sci-fi action shooter on Nintendo Switch! Experience stellar gameplay thanks to intuitive HUD and UI elements as well as full support of the Joy-Con and Switch Pro controllers with HD Rumble."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C9A00952A000"
+region = "all"
+release_date = "2018-04-19"

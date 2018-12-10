@@ -1,0 +1,11 @@
+title = "Detective Gallo"
+description = "Detective Gallo is a point&click comic-noir adventure that is \nentirely hand-illustrated and hand-animated, and whose \nprotagonist is a feathered and grumpy private eye \nstruggling with a very tricky case, bizarre characters, and \npuzzles that will put his insight and patience to the test.\n\n- A non-violent adventure, inspired to the classical Disney \ncartoons and the best point&click adventure game of the \npast!\n- Play as Gallo, a... rooster noir detective, and investigate \non a multiple plant murder!\n- Meet lots of incredible characters, all hand-animated, \nframe-by-frame.\n- Dozens and dozens of logical puzzles and quests!\n- Listen to over 50 minutes of original pure jazz-noir \nsoundtrack! \n- Fully dubbed in English and Italian, with multilanguage \nsupport!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009C0009842000"
+region = "all"
+release_date = "2018-08-17"

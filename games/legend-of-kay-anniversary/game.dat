@@ -1,0 +1,11 @@
+title = "Legend of Kay Anniversary"
+description = "\"Mastering others is strength. Mastering yourself is true power.\" - Lao Tzu\n\n10 years after its initial release, Legend of Kay - Anniversary is a thoroughly remastered version of the original game: high-resolution textures; new, more detailed character models; modern rendering techniques and crystal-clear surround sound give this great classic a new shine.\n\nExperience the unique blend of Martial Arts-combat, action adventure, Jump 'n' Run and puzzle solving\n\nMeet, befriend or fight loads of quirky animal characters like Gorillas, Rats, Foxes, Hares, Pandas and Frogs\n\nLearn to master various weapons and special skills to defeat hordes of well-armed enemies\n\nConfront huge bosses to test your Martial Arts skills\n\nDiscover and secure the treasures of the demons’ underworld\n\nExplore a world inspired by the threats and beauties of ancient China, by foot, well, paw, or on the back of a wild boar, a wolf or even a dragon"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01002DB007A96000"
+region = "all"
+release_date = "2018-05-29"

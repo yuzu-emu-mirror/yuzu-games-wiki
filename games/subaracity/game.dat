@@ -1,0 +1,11 @@
+title = "SubaraCity"
+description = "SubaraCity on Nintendo Switch offers a new twist for puzzle game fans, combining careful planning with relaxing gameplay. You’re not just matching blocks, but you’re city building at the same time!\n\nOn Nintendo Switch the game can be played on the TV with the controller, or you can even play in portable mode and use touch controls. \n\nThe buildings on the blocks can be combined into larger, and special, buildings. It’s a simple rule but there are hidden complexities, and as the years pass each move plays an important role. Your decisions will decide the city's future - develop your city step-by-step to make a \"SubaraCity\"!\n\nFeatures:\n\n●\tEnhanced and optimised for the Nintendo Switch.\n●\tPlay your way, either on the TV with a controller, tabletop mode or even using the touchscreen in portable mode.\n●\tStrategic puzzle gaming with a twist as you try to build a great city.\n●\tFind the right combinations for the best results!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100CD6004130000"
+region = "all"
+release_date = "2018-08-09"

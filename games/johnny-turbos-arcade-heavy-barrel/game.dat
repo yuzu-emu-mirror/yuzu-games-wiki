@@ -1,0 +1,11 @@
+title = "Johnny Turbo's Arcade Heavy Barrel"
+description = "Fight through the enemy's army and collect pieces for a secret weapon to destroy their underground artillery base."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C6D002CB8000"
+region = "all"
+release_date = "2018-11-15"

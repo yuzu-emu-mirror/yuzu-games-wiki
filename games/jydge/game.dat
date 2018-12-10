@@ -1,0 +1,11 @@
+title = "JYDGE"
+description = "Build your JYDGE. Enter Edenbyrg. Get out alive. JYDGE is a lawful but awful roguehate top-down shooter where you get to build your own cybernetic JYDGE and eradicate crime in the never-sleeping megacity of Edenbyrg. \n\nCreate your own play-style by augmenting your JYDGE, modifying your Gavel rifle, and choosing fearless companions to suit the tasks at hand.\n\nChoose your cybernetics, items, weapon mods, and companions from over a BILLION different configurations.\nDeal ruthless Jystice with lead, rockets, lasers, electricity, and other deadly tools of the law.\nPerform heroic feats to get extra medals and unlock new equipment.\nTeam up with your CO-JYDGE for local co-op."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010035A0044E8000"
+region = "all"
+release_date = "2017-10-19"

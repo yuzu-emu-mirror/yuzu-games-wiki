@@ -1,0 +1,11 @@
+title = "Millie"
+description = "A joyful, casual puzzle game that will tease both your wits and your memory!\n\nYou've always dream of flying. Roaming high in the clouds, free from all worries. Just gliding through air like a bird. Unfortunately, you were born as a millipede, and your best chance of launching to the sky is probably in some crows mouth... or is it?\nRumor has it that the local Aviation School is accepting new recruits for a pilot course. Seeing an opportunity to make your dreams come true, you seize the moment and embark on a journey of your life. Your path is full of dangers, mazes and obstructions, but the end goal is more than worth it!\n\nSo rise on your feet, all 100 of them, and get going!\n\nControl a millipede, roaming through over 90 diverse levels. Solve the elaborate mazes laying on your way. Gather and use multitude of power-ups that will help you with your struggles. Enjoy three types of immersing mini games. Grow bigger and bigger; and remember: try not to eat your tail.\n\nAlmost a hundred challenging and diverse levels\n3 totally different environments.\nTons of power-ups and helpers\nVaried and colorful levels\nImmersing mini-games\nReally enjoyable, casual gameplay"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100976008FBE000"
+region = "all"
+release_date = "2018-02-15"

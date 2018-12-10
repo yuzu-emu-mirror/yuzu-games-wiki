@@ -1,0 +1,11 @@
+title = "POKKÉN TOURNAMENT DX Demo"
+description = "Introducing the first Pokémon title for the Nintendo Switch console. Take direct control of one of 21 prized Pokémon fighters to defeat other Pokémon in arena fights. Call upon Support Pokémon to assist in the fight, then unleash your Pokémon's unique Burst Attack to climb atop the ranks. \n\nWith all new modes and new ways to battle with friends, this is your chance to become champion of the Ferrum Region!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010030D005AE6000"
+region = "all"
+release_date = "2017-10-03"

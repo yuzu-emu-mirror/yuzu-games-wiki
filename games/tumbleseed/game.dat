@@ -1,0 +1,11 @@
+title = "TumbleSeed"
+description = "TumbleSeed is a deceptively deep roguelike about balancing a seed up a dangerous and ever-changing mountain.\n\nAvoid holes and defeat corrupted creatures in this dual-stick action adventure. Along your perilous trek you'll be forced to strategize, grow powerful with upgrades, and master the art of rolling to avoid the mountain's many dangers.\n\nTumbleSeed features 5 procedurally generated worlds and over 30 unique seed powers. Top your personal best or compete with the world in the daily challenge. The mountain holds many surprises, secrets, and adventures waiting to be explored — see you on the slopes!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01004B1001D22000"
+region = "all"
+release_date = "2017-05-02"

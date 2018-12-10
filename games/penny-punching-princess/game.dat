@@ -1,0 +1,11 @@
+title = "Penny-Punching Princess"
+description = "Penny-Punching Princess is an isometric brawler that takes place in a world ruled by capitalism, where cash is king. Fight or bribe your way to reclaiming your kingdom from the greedy Dragoloans."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C510049E0000"
+region = "all"
+release_date = "2018-04-03"

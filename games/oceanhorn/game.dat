@@ -1,0 +1,11 @@
+title = "Oceanhorn"
+description = "You wake up and find a letter from your father. He is gone...\nThe only lead is his old notebook and a mysterious necklace. What happened?\n \nExplore the islands of Uncharted Seas, a world filled with many dangers, puzzles and secrets. Fight monsters, learn to use magic and discover ancient treasures which will help you on your quest. Use all your wits and skill to unravel the mysteries of the ancient kingdom Arcadia and sea monster Oceanhorn.\n \nOceanhorn combines captivating storytelling, breathtaking 3D visuals and exciting gameplay into one massive action adventure experience you will never forget. \n \nEnjoy an incredible soundtrack from the best video game composers in the world: Nobuo Uematsu (Final Fantasy) and Kenji Ito (Seiken Densetsu).\n \nFEATURE OVERVIEW:\nFull HD, 1080p, 60 FPS\nMusic from legendary Nobuo Uematsu and Kenji Ito\n10+ hours of story driven gameplay.\nMaster magic and swordfight\nFind ancient items to help you on your quest"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01007D7001D0E000"
+region = "all"
+release_date = "2017-06-22"

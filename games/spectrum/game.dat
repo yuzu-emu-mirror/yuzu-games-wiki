@@ -1,0 +1,11 @@
+title = "Spectrum"
+description = "Spectrum is a unique platform game set in a stunning \nabstract world. Jump, dive and find your flow to skillfully navigate through 80 ingenious levels of shifting shapes and vibrant colours. Stylish visuals combine with an atmospheric soundtrack to create an immersive experience of pure, zen-focus platforming. \n\nFeatures\n• A mysterious world brought to life with a colourful, \nminimalist aesthetic\n• Master movement and gravity to dodge obstacles and \nreach the exit portal \n• Ambient soundtrack to sharpen the senses and \nstimulate the mind\n• 80 beautifully designed levels spanning 8 different \nenvironments \n• 3 bonus objectives on every level to complete for \ntotal perfection\n• Challenge a friend and race to the portal in an all-new \nlocal 2-player mode \n• Perfect your runs to become a legend of the \nleaderboards"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01008B000A5AE000"
+region = "all"
+release_date = "2018-08-20"

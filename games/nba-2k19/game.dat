@@ -1,0 +1,11 @@
+title = "NBA 2K19"
+description = "NBA 2K celebrates 20 years of redefining what sports \ngaming can be, from best in class graphics & gameplay to \ngroundbreaking game modes and an immersive open-\nworld “Neighborhood.” NBA 2K19 continues to push limits \nas it brings gaming one step closer to real-life basketball \nexcitement and culture.\n\nThe NBA 2K19 20th Anniversary Edition includes the \nfollowing digital items:\n- 100,000 Virtual Currency\n- 50,000 MyTEAM points\n- 20 MyTEAM League Packs (delivered one a week)\n- 10 MyTEAM Heat Check Packs (delivered one a week \nbeginning at the start of the NBA season)\n- Sapphire LeBron James and Sapphire Giannis \nAntetokounmpo MyTEAM cards\n- 5 LeBron-themed murals for MyCOURT \n- LeBron MyCOURT design\n- King's Collection - Nike LeBron apparel & footwear (20 pairs at launch, and 5 additional pairs post-launch)"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01001FF00B544000"
+region = "all"
+release_date = "2018-09-07"

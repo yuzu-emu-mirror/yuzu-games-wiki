@@ -1,0 +1,11 @@
+title = "Energy Invasion"
+description = "Energy Invasion - an arcade game inspired by the classic Breakout. Unlike the original game, your ball does not break blocks on its own, but can launch missiles in a chosen direction.\n\nFeatures:\nA lot of bonuses (both useful and harmful)\nBright graphic effects\nLevels with dangerous enemies\nSoundtrack from Nick R 61\n25 levels in \"Invasion\" mode, 25 levels in \"Linear\" mode, ∞ levels in \"Endless\" mode"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100A8E0090B0000"
+region = "all"
+release_date = "2018-01-11"

@@ -1,0 +1,11 @@
+title = "Little Inferno"
+description = "*** OVER 1 MILLION COPIES SOLD! ***\n\nNow multiplayer! Grab the other Joy-Con and play with a friend!\n\n\"A beautiful masterpiece\", \"inventive, moving and unrelentingly funny\", \"a deft statement on games and how we play them\" — Little Inferno is an unusual game filled with surprise and wonder, and even better the less you know about it before playing!\n\nBurn flaming logs, screaming robots, credit cards, batteries, exploding fish, unstable nuclear devices, and tiny galaxies. An adventure that takes place almost entirely in front of a fireplace — about looking up up up out of the chimney, and the cold world just on the other side of the wall.\n\nFrom the creators of World of Goo and Henry Hatsworth in the Puzzling Adventure.\n\nMultiple nominee in the Independent Games Festival for the Grand Prize, Nuovo Award, and Technical Excellence, with honorable mentions in Best Design and Best Audio.\n\n100% indie — made by 3 guys, no office, no publishers, no funding."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100B18001D8E000"
+region = "all"
+release_date = "2017-03-16"

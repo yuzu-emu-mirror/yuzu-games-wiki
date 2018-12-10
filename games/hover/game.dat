@@ -1,0 +1,11 @@
+title = "Hover"
+description = "Hover is a fast-paced single and multiplayer Parkour game in a futuristic 3D Open World.\n\nExperience the thrills of a fast-paced single and multiplayer Parkour game. Join the Rebellion and deride the security forces of an anti-leisure tyranny. Rise up to the many challenges of a futuristic Open World. Assemble your team, enhance your gear and perform incredible tricks and combos.\n \nThe game takes place in ECP17, a high-tech city also called Hover City by its inhabitants and located on a distant planet. The Great Admin cut the communication with the Galactic Union and established a strong dictatorship. Having fun has become illegal and entertainment is banished.\n \nYou're in charge of a team of young rebels, the Gamers, fighting against the new anti-leisure laws oppressing the city. Equipped with high-tech gears allowing amazing jumps and speed, they roam the city to sabotage the propaganda, help citizens, and find a way to reach the Orbital Station. This way they could warn the Galactic Union and put an end to the oppression."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100F6800910A000"
+region = "all"
+release_date = "2018-09-20"

@@ -1,0 +1,11 @@
+title = "Cast Of The Seven Godsends"
+description = "Cast of the Seven Godsends harks back to the days when classic 2D, run ’n gun, action-shooter games ruled the arcades. Four levels of difficulty, six worlds to conquer, twelve mid and end-of-level bosses, seven god-like armour sets, five basic weapons and thirty-five magic combat spells!\n\nThe evil emperor Zaraaima has kidnapped the infant heir to the land of Dareca. King Kandar must call upon the aid of the seven gods of Dareca as he traverses the six worlds of his kingdom in a bid to save his son. He must face the emperor’s hordes as he battles through dark woods, slimy swamps, sinister mills, infernal volcanos, snowy mountains, golden cities and demonic castles. Each world is guarded by level bosses each sworn to bring about the king’s swift demise. To help him in his quest King Kandar can invoke god-given armour, wield different weapons and cast fanatical spells. Can the King save his son and his kingdom or will Dareca fall into the evil emperor’s grasp? \n\nFeatures\n• Easy controls - only two buttons to play (shoot and jump) \n• Six very different and long worlds to conquer \n• Checkpoint save positions throughout worlds \n• Five basic weapons to master \n• Seven god-like armour sets \n• 15 different bonus items to boost your hero \n• Thirty-five magic combat spells to utilise \n• Over 50 different enemies \n• Twelve mid and end-of-level bosses \n• Four difficulty levels \n• Different endings \n• Hand-drawn pixel graphics with a 16-bit look-and-feel \n• Special art gallery with achievements to unlock \n• Easter eggs to discover.\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100AEF00A270000"
+region = "all"
+release_date = "2018-05-03"

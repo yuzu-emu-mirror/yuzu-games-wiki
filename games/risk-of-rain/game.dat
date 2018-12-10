@@ -1,0 +1,11 @@
+title = "Risk of Rain"
+description = "Risk of Rain is an action platformer with roguelike elements. With permanent death as a primary feature, players will have to play their best to get as far as possible. Fight on a mysterious planet with randomly spawning enemies and bosses, either alone or with 3 friends in online co-op. With over 100 items at your disposal, you will find the tools you need to find the teleporter back home. Discover a myriad of randomly chosen stages, from the desolate forest to the frozen tundra. \n\nThe three main goals for our game are simple: \n\n1. Design a game that is randomly generated every play-through, to keep replayability high and fresh. \n\n2. Time = difficulty. The higher the in-game time gets, the harder the difficulty gets. Keeping a sense of urgency keeps the game exciting! \n\n3. Be enjoyable, regardless of whether you win or lose. No more fussing with complex and non-intuitive gameplay patterns. Players should not blame the game for their loss!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100AAA00ACBE000"
+region = "all"
+release_date = "2018-09-20"

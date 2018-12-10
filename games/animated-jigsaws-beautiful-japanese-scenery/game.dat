@@ -1,0 +1,11 @@
+title = "Animated Jigsaws: Beautiful Japanese Scenery"
+description = "Complete video jigsaw puzzles alone or team up with friends and finish them together!\n\n“Animated Jigsaws - Beautiful Japanese Scenery” contains moving images from spring, summer, autumn and winter capturing the natural beauty of Japan from all four seasons. Piece together scenes from some of Japanese most famous places including Mt. Fuji, Kyoto, Tokyo and the Snow Monkeys enjoying a bath in a natural hot spring! The hectic scramble crossing at the metropolitan Shibuya district in Tokyo is also included.\n\nAn easy-to-use interface such as separating edge and inner pieces makes solving puzzles fun and relaxing.\n\nFeatures:\nSolve puzzles with friends in multiplayer for up to 4 players\nEasy-to-play traditional jigsaw puzzle\n10 animated scenes of beautiful scenery from Japan\nFamous locations taken from all seasons\nSelection of three background colors\n3 sizes for each puzzle: 60, 240 and 240 pieces\nSaves time spent completing each puzzle and each size\nSeparate edge and inner pieces\nEach piece snaps into place for stress-free experience\nAbility to snap individual pieces together\nSave a puzzle half way and continue later\nSelection of traditional Japanese music to choose from\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01003C200A232000"
+region = "all"
+release_date = "2018-04-05"

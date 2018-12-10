@@ -1,0 +1,11 @@
+title = "Akihabara - Feel the Rhythm Remixed"
+description = "Take a trip through engaging music and intense puzzle action, set in Tokyos Electric Town! Stack blocks to build combos, tap in rhythm with the music to break them. Play trough the campaigns, go for the high score!\n\nCan you master the rhythm in Akihabara?\n\n* Challenge yourself with intense, fast-paced rhythm gameplay\n* Several original soundtracks\n* Enjoy high-quality art\n* Earn achievements in different game modes\n* Master the beat in Tokyo’s own Electric Town"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010053100B0EA000"
+region = "all"
+release_date = "2018-11-29"

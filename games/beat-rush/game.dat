@@ -1,0 +1,11 @@
+title = "Beat Rush"
+description = "Catch the beat and rush forward! \nDodge the spikes and traps! \nCollect lots of gold on the way to the top!\n\nUnlock unique characters for more fun, and level up for more challenges!\n\nBeat Rush is your new addiction! With this brand new beat-based action platform game, you will challenge your skills and see what you’re capable of. \n\nThe gameplay is as simple as one touch jumps and hops. You just need to rush forward in tune with the amazing beats the game offers. Dance your fingers to the adventurously good music. \n\nGame Features\n•\tUnique beats\n•\tFast-paced action platform\n•\tUnlockable characters\n•\t5 challenging levels (more to come)"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100DC500B4B0000"
+region = "all"
+release_date = "2018-07-16"

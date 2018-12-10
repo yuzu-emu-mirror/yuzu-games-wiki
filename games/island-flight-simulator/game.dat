@@ -1,0 +1,11 @@
+title = "Island Flight Simulator"
+description = "Enjoy fantastic open-ended gameplay, touch down in the tropics and transport freight between twelve exotic islands in more than a hundred exciting missions. Only the most daring pilots will take the risk of accepting both highly lucrative and illegal missions from shifty clients.\n\n• Over a hundred different transport missions, some of them very lucrative, but also quite risky.\n• Exotic setting on an archipelago with twelve islands.\n• 3 different planes, which can be improved using upgrades for speed, sturdiness and fuel capacity.\n• Personal hangars and three basic airfields.\n• Personal map and survey map "
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010077900440A000"
+region = "all"
+release_date = "2018-02-01"

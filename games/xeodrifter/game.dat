@@ -1,0 +1,11 @@
+title = "Xeodrifter"
+description = "Xeodrifter is the story of an interstellar drifter traveling the stars on a simple mission of exploration. We join our nomad as he embarks on the investigation of a small cluster of four planets in the omega sector, after a collision with a rogue asteroid damaged his warp core.\n\nBlast your way through alien landscapes, seek out valuable secrets, and defeat ancient guardians to unlock powers from a legendary supreme culture in this exciting journey of mystery and adventure."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01005B5009364000"
+region = "all"
+release_date = "2018-02-15"

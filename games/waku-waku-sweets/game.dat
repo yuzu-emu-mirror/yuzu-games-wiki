@@ -1,0 +1,11 @@
+title = "WAKU WAKU SWEETS"
+description = "Acquire on-the-job experience by making all kinds of confectioneries.♪\n\n*As if you were baking in real life!\nTilt to pour mixtures, rotate to mix,\nfollow the steps and move the controller as shown on the screen.\nThat's how you cook!\n\n*Over 100 recipes included!\nRanging from popular cakes that everyone loves\nto traditional Japanese confectioneries called Wagashi.\nThey all look so yummy!\n\n*There is more to enjoy!\nChange into your favorite outfit, and change your hairstyle.♪\nParticipate in contests and chat with the people in town\nto complete your quest to become the best.\nMake everyone smile with your confectioneries, and become a wonderful pastry chef!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010058100C80A000"
+region = "all"
+release_date = "2018-11-22"

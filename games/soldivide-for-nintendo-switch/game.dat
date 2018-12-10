@@ -1,0 +1,11 @@
+title = "SolDivide for Nintendo Switch"
+description = "Vorg heard a rumor that the army of Satan was searching for treasures called Seirei stones which led him to think that the time for revenge has come. In addition, he also knows that one of the Seirei stones was entrusted secretly to King Silverna from Vorg's homeland, the Kingdom of Miltia.\n\nVorg, who was a holy knight in Miltia, was in the forest town of Neraphai working for a mission when the king of Satan, Ifter, invaded the Kingdom of Miltia with Dhatilos armies.\n\nUpon hearing the news, Vorg immediately returned to Miltia. But, the kingdom has been destroyed.\n\nAfter 7 years, a dark shadow went into the royal room inside the Silverna castle. That dark shadow was Satan, Ifter.\n\nVorg heads to Silverna castle with his Helos. Satan owns the Sol Divide which is the pair of heilos.\n\nThe tale of magic, sword and vengeance starts now!!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100590009C38000"
+region = "all"
+release_date = "2018-03-22"

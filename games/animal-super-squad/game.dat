@@ -1,0 +1,11 @@
+title = "Animal Super Squad"
+description = "Animal Super Squad is a physics-based adventure game that lets you play as your favorite animal. Speed through a world full of dangers and bananas. Create your own levels, share them with the community, or forget all that nonsense and just play other people’s stuff."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100EFE009424000"
+region = "all"
+release_date = "2018-05-01"

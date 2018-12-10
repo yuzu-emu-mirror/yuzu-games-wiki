@@ -1,0 +1,11 @@
+title = "Broforce"
+description = "When evil threatens the world, the world calls on Broforce - an under-funded, over-powered paramilitary organization dealing exclusively in excessive force. Brace your loins with up to four players to run ‘n’ gun as dozens of different bros and eliminate the opposing terrorist forces that threaten our way of life. Unleash scores of unique weapons and set off incredible chain reactions of fire, napalm, and limbs in the name of freedom. \n\nFeatures:\n\nThe Broforce: Deliver your own brand of shock and awe with dozens of bros each with their own unique weaponry and special attacks designed to dispatch freedom across the world.\n\nBro-Op & Deathmatch: Battle terrorism with up to four players in cooperative mode or sever ties with your bros and face each other in several bombastic competitive modes.\n\nFully Destructible Everything: Destructible terrain opens up a slew of strategic options while the abundance of Exploding Red Barrels of Justice™ can literally level the playing field with one shot.\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010060A00B53C000"
+region = "all"
+release_date = "2018-09-06"

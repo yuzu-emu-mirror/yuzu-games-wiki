@@ -1,0 +1,11 @@
+title = "A Gummy's Life"
+description = "FEATURES\n· Multiplayer up to 8 players!\n· · Play as a gummy with up to 8 Friends online or in the couch!\n\n· Easy to play, hard to master\n· · You can sit down, smash all the buttons and have fun or... use the right move in each situation to take your opponents down!\n\n· Different game modes\n· · Hot Potato, King of the Hill, Team Deathmatch... The fun doesn't stop on the classic Free for All mode.\n\n· Tons of levels to play with different game style and mechanics\n· · You'll find something new in each level. Each one has a different way to be played. Have fun discovering all their secrets!\n\n· Lots of different gummies to play with\n· · Each of them has slightly different stats. You can choose between many different colors and there are also unlockable gummies!\n\n· Crazy fights based on physic simulations\n· · Awesome hits and incredible throws. Every fight is genuinely unique.\n\n· Taunts!\n· · Taunt your friends to celebrate your victory... or to make them go after you.\n\n· For all ages\n· · It's fun and easy to play for all people. You can even play with your granny!\n\n· Gummies!!\n\nA GUMMY'S WORLD\nWarning! In A Gummy’s Life, gummies have come to life… And they are unmanageable!\n\nThey have invaded the city, they are all around: in the football stadium, the park, the fortress, the fair… even on the flan.\nTheir non-stop free-for-all fights gain people’s attention because of their jellied funny movements, but their blows are solid and well-aimed. Due to their ingenuity, they convert the elements of the landscape into insurmountable obstacles. They seemed so sweet! \n\nChoose your favorite gummy among a great variety, customize it to your taste and enjoy playing and laughing with your friends or your family. Attack! Only one can remain. \n\nShow who is in charge of the sugar!\n\nA Gummy’s Life – a game in which the winner is the one who enjoys the most. But fun does not end yet, because the game will be updated with new levels and characters which will surprise you."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100ABC009708000"
+region = "all"
+release_date = "2018-09-25"

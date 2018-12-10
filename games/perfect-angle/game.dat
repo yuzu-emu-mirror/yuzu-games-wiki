@@ -1,0 +1,11 @@
+title = "Perfect Angle"
+description = "Challenge your mind with puzzles based on optical illusions. Find the perfect angle by rotating the camera to clean up the chaos and find a shocking story fraught with twists.\n\nREAL OPTICAL ILLUSIONS\nNothing is what it seems! Sharpen your perception by beating over 100 puzzles through scenarios with no apparent structure or logic.\n\nPUZZLES BASED ON 3D PERSPECTIVE\nDetect the perfect angle in which a chaotic composition reveals the figure hidden behind a game on perspective. Test your visual acuity by accepting a greater challenge each time.\n\nSTUNNING GRAPHICS AND SETTING\nPenetrate the mind of the protagonist immersed in a seductive atmosphere. Stunning graphics, original music and captivating sound effects.\n\nCHARACTERISTICS:\n• Over 100 puzzle levels based on optical illusions.\n• Original soundtrack.\n• Original script.\n• Voicing by professional voice actors.\n• Unique graphics and setting.\n• Simple and mechanical control for relaxed gaming."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010089F00A3B4000"
+region = "all"
+release_date = "2018-05-03"

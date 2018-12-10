@@ -1,0 +1,11 @@
+title = "ACA NEOGEO TOP PLAYER’S GOLF"
+description = "“TOP PLAYER’S GOLF” is a sports game released in 1990 by SNK. Three modes, STROKE PLAY, MATCH PLAY, and NASSAU GAME, are available along with two types of courses. You'll find yourself fully absorbed in this game's immersive graphics and strategic skill planning.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100B7400A304000"
+region = "all"
+release_date = "2018-05-24"

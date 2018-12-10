@@ -1,0 +1,11 @@
+title = "Palm Reading Premium"
+description = "Palm Reading Premium is the most luxury and professional palmistry and chirology software out there developed by crazysoft. \nYou can use it to analyze, read and master your palm lines and palm fingers without knowing anything of hand reading / palm reading. Understand yourself better with simple / quick and entertaining image tests. Get analytics of your own palm or your friend's palm and reveal all its secrets and future. This is no nonsense, it works. Test your left hand and you will see what you are. The right hand will show you how you want to be seen by others.\n\nPalmistry can trace its roots back to India in (Hindu) Astrology (Sanskrit as Jyotish, clairvoyant readings), Chinese Yijing (I Ching reading), kddi palm reading app and Roma (gypsy) fortune tellers / teller. \n\nThis application uses simple-quick and entertaining image tests to give you accurate results about dousing of palm lines, palm fingers and palm marks. All results are based on information about the ancient art of palmistry and real world tendency."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010002900B75A000"
+region = "all"
+release_date = "2018-11-14"

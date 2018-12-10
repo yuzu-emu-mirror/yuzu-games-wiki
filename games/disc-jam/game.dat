@@ -1,0 +1,11 @@
+title = "Disc Jam"
+description = "Disc Jam is a fast-paced action-sports game that pits 2-4 players against each other in a frantic mix of air hockey and tennis. Players scramble to retrieve and throw a glowing disc while unleashing devastating abilities and defending their end zone. An exciting blend of strategy and skill, this arcade-inspired title boasts a zany roster of characters to compete with friends both on the couch and online!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100510004D2C000"
+region = "all"
+release_date = "2018-02-08"

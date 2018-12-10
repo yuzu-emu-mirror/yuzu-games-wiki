@@ -1,0 +1,11 @@
+title = "Fallen Legion: Rise to Glory"
+description = "Return to the battlefield of Fenumia, where a besieged nation stands on the brink of war. See the conflict through the lenses of Princess Cecille and Legatus Laendur, one who would restore her kingdom to its former glory and one who would see a new nation rise in its place. Combining both Fallen Legion: Flames of Rebellion and Fallen Legion: Sins of an Empire for the first time on one console, Fallen Legion: Rise to Glory includes all new art, Exemplars, monsters, bosses and challenges not found in the original releases. See the story from all sides anywhere you go in Fallen Legion: Rise to Glory."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100A260094EE000"
+region = "all"
+release_date = "2018-05-29"

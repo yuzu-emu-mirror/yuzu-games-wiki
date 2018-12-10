@@ -1,0 +1,11 @@
+title = "Puzzle Box Maker"
+description = "Let your fantasy run wild and get creating and uploading your own amazing Pixel Arts to the cloud.\nBrowse the online gallery and play automatically created, challenging levels from any user-generated image.\nRedraw your image in paint-by-numbers style or use it as a level to play action mini games within it.\n\nPaint and share pixel arts online\nGet cloud coins through user votes for a top ranking\nPlay action mini games with your pixel art\nGet new images and levels weekly\nover 100 levels - Download more pixel arts from the gallery\nPaint and play with up to 3 friends simulatenously\nExtremely colorful and very family friendly\nOver 30 different kinds of vibrations with HD Rumble\nNintendo Switch Pro Controller, JoyCon and Touch Screen support\n\nContent will grow and optimized through updates"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100476004A9E000"
+region = "all"
+release_date = "2017-12-21"

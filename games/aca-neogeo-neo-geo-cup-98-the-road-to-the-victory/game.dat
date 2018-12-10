@@ -1,0 +1,11 @@
+title = "ACA NEOGEO NEO GEO CUP '98: THE ROAD TO THE VICTORY"
+description = "“NEO GEO CUP '98: THE ROAD TO THE VICTORY” is a soccer game released by SNK in 1998.\nTake control of a legendary soccer team and aim for the World Championship trophy!\nChoose the right power up to ensure your victory! Watch out for accidents during matches that can cause injury or even force players off the field!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010061C00AFDA000"
+region = "all"
+release_date = "2018-11-29"

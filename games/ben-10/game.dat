@@ -1,0 +1,11 @@
+title = "Ben 10"
+description = "It’s Hero Time!\nBen, Gwen, and Grandpa Max once again have their cross-country road trip in the Rust Bucket cut short by super villains and their evil, world-threatening plans. \n\nAs Ben Tennyson, it’s up to you to save the world. Take on some of Ben’s most infamous enemies, including Zombozo, Queen Bee, and the Weatherheads. Unlock and transform into all ten of Ben’s incredible alien forms. Use each alien’s powerful combat moves – including Ultimate Attacks - to lay the beat-down on enemies with devastating combos, and solve puzzles with each alien’s unique abilities as you unravel exciting new stories in three all-new playable episodes.\n\nBeing a hero can be hard work…but it's a whole lot of fun!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01006E1004404000"
+region = "all"
+release_date = "2017-11-14"

@@ -1,0 +1,11 @@
+title = "Mecha Storm"
+description = "The War has begun. The two largest factions in our Galaxy have been preparing for years, building deadly Mech armies to march into battle. But now the time has come for you to decide which side you will join.\n \nFight for the destiny of the Galaxy by completing over 50 challenging missions in exciting mech vs mech combat! Utilize various strategies, and mech-types to claim victory against the enemy. Prove yourself by mastering close-combat, mid-range tactics, and long-range shooting. The end is drawing nigh, and the Galaxy is waiting. Will you choose to answer your call?\n\n• Man massive mech machines to save the Galaxy\n• Battle on beautiful alien worlds and futuristic cities\n• Upgrade your mechs to improve your Mech’s powerful skills\n• Exclusive to Nintendo Switch ™"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01001FA009A1E000"
+region = "all"
+release_date = "2018-05-25"

@@ -1,0 +1,11 @@
+title = "Discovery"
+description = "Explore a giant world made of blocks and modify it with your own creations. Construct houses, build entire villages, cities, monumental constructions or dig deep underground. Place torches or design complex electric circuits to light up your creations in the dark and enjoy beautiful day and night cycles. Build alone or together with friends in splitscreen multiplayer mode for up to 4 players.\n\n• Creative sandbox block-building experience: Create your own worlds with more than 250 unique materials.\n• Electric circuits: With light sensors, switches, wires and light bulbs.\n• Splitscreen Multiplayer: Build together with up to 3 friends.\n• Inking system: Customize the blocks with 16 different colors for your own look.\n• Easy accessibility: Suitable for children 6 years and older. No violence.\n• State of the Art graphics: Enjoy smooth visuals with shadows and modern effects."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01008CD00901C000"
+region = "all"
+release_date = "2018-05-24"

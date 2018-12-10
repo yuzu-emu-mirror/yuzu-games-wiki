@@ -1,0 +1,11 @@
+title = "LIMBO"
+description = "Uncertain of his sister's fate, a boy enters LIMBO"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009C8009026000"
+region = "all"
+release_date = "2018-06-28"

@@ -1,0 +1,11 @@
+title = "ACA NEOGEO METAL SLUG X"
+description = "\"METAL SLUG X\" is an action shooting game released by SNK in 1999. \n\nIt is a rearranged version of METAL SLUG 2.\n\nUsing METAL SLUG 2 as a base, a variety of new weapons and enemies have been added. \n\nFurthermore, with position changes of bosses and more, the game's difficulty has been completely readjusted.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01008FD004DB6000"
+region = "all"
+release_date = "2017-10-05"

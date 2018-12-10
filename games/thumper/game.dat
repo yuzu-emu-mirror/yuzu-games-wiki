@@ -1,0 +1,11 @@
+title = "Thumper"
+description = "Thumper is rhythm violence: classic rhythm-action, blistering speed, and brutal physicality. You are a space beetle. Brave the hellish void and confront a maniacal giant head from the future.\n\nScream down the endless track and crash through punishing obstacles with simple, airtight controls. Hurtle forward, master new moves, reach overwhelming velocities, and survive epic boss battles. Every crushing impact is interwoven with a pounding original soundtrack. To reach synesthetic bliss, you must survive rhythm hell."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01006F6002840000"
+region = "all"
+release_date = "2017-05-18"

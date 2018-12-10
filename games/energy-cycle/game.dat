@@ -1,0 +1,11 @@
+title = "Energy Cycle"
+description = "Energy Cycle – new puzzle game from the developers of Energy Balance. When you click each cell on the game field - it changes color, and the colors of adjacent cells horizontally and vertically. Your task to bring all the cells to the same color. Sounds pretty easy, but try to do it!\n \nEnergy Cycle feature three modes for every taste:\nPuzzle\n(Without timer. Pre-designed puzzles.)\nTime Attack\n(With timer and scoring. Random puzzles.)\nInfinite Play\n(Without timer. Like ‘Time Attack’, but you can play it forever.)"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100BFE00865E000"
+region = "all"
+release_date = "2017-12-25"

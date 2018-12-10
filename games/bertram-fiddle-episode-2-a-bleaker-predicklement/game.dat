@@ -1,0 +1,11 @@
+title = "Bertram Fiddle Episode 2: A Bleaker Predicklement"
+description = "Puzzles! Pigeons! And Puns!\nTake a journey deep into Victorian London with Bertram Fiddle. Explore secret passages, discover hidden objects, meet suspicious characters, solve befuddling puzzles and cringe at puns more terrible than ever as you unravel the mysteries of A Bleaker Predicklement.\n\nThe Greatest Comedy Murder Mystery Adventure set in Victorian London you will ever play!\nAt long, long, long last Bertram Fiddle is back! Unfortunately, due to unsufficient Expeditioning Opportunities he is currently working at Dulsworth’s Adequate Soap Factory… but not all is as it seems and the rumble of an Adventure once more begins.\n\n85% historically inaccurate.\nA Bleaker Predicklement is Inspired by Victorian novels, Hammer Horror and Monty Python. It is literally bursting with pre-Brexit British Humour.\nThis installment concludes the story started in Episode 1 of the Adventures of Bertram Fiddle, but is a stand-alone game. With almost 60 scenes, a unique jazz-prog infused soundtrack and fully voiced characters this Adventure can truly be described as epic!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010021F00C1C0000"
+region = "all"
+release_date = "2018-11-22"

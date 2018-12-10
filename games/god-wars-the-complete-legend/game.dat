@@ -1,0 +1,11 @@
+title = "GOD WARS THE COMPLETE LEGEND"
+description = "GOD WARS The Complete Legend is a tactical RPG that explores the untold history of Japan through folklore and tactical combat.\n\nDiscover the secret pasts and ultimate destinies of Kaguya and her friends inside the \"Labyrinth of Yomi.\""
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100F3D00B032000"
+region = "all"
+release_date = "2018-09-04"

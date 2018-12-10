@@ -1,0 +1,11 @@
+title = "Sushi Striker: The Way of Sushido"
+description = "Help Musashi end the Empire’s tyrannical monopoly of the world’s sushi supply by becoming a Sushi Striker! Devour conveyor-belt sushi, matching plates and sushi types to defeat any enemy or boss who stands between you and victory. Befriend Sushi Sprites and use their powerful skills in battle. Deliciously strategic action-RPG-puzzle battles await!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100DDD0085A4000"
+region = "all"
+release_date = "2018-06-08"

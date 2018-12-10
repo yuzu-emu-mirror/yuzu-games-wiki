@@ -1,0 +1,11 @@
+title = "The Final Station"
+description = "The world is over. \n\nBut it's not quite over for you... at least, not yet. And now that you've got thousands of tonnes of locomotive at your disposal, you've got the definite advantage over the infected hordes. This is The Final Station.\n\nThe real question is whether or not you'll help the survivors get to their destinations.... or let them die and loot their bodies. Sometimes people can be more trouble than they're worth. \n\nA post-apocalyptic adventure about travelling a dying world on a train\nA story that goes through 5 chapters, with large inhabited stations at the end of each one.\nInfected are ready to stop your progress whenever you exit the train to look for supplies\nMaintain your train in operating condition and craft valuable items from the resources you scavenge\nDon't expect to shoot your way through the crowds of infected. Supplies and ammo are very limited\nPick up survivors along the way, gaining perks (and hindrances) for your troubles\nScavenge for loot at stations and craft useful supplies\nSell your loot at inhabited stations for useful upgrades to your weapons\n\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100CDC00789E000"
+region = "all"
+release_date = "2018-02-23"

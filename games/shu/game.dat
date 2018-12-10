@@ -1,0 +1,11 @@
+title = "Shu"
+description = "When the great and terrible Storm destroys Shu's village, he embarks on a desperate journey to survive. On his travels he'll encounter stranded villagers; survivors of the devastation that need his help. In return for his assistance, these peculiar characters will grant Shu unique special abilities that he can use to traverse the treacherous path ahead.\n\nTheir only hope is to work together, in search of sanctuary - and a way to stop the Storm. Can you outrun the end of world?\n\nGame features:\n\n• 21 lush, expansive levels, set in 6 diverse lands \n• A plethora of collectibles and secrets to discover\n• 10 recruitable characters, each with their own unique power\n• An incredible original soundtrack"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01001DE0076A4000"
+region = "all"
+release_date = "2018-01-23"

@@ -1,0 +1,11 @@
+title = "Castlestorm"
+description = "Enjoy a unique take on medieval warfare in Zen Studios’ light-hearted action-strategy game – enhanced with new features designed specifically for Nintendo Switch™! As rival fortresses attack your own, you’ll use a ballista to fling an assortment of weapons at enemy towers and spear approaching enemies, while sending your own troops and unleashing powerful spells. Battling opposing units up-close as an individual hero nicely balances the ranged combat, and CastleStorm’s goofy characters and richly detailed graphics keep it an enchanting experience throughout.\n\nCastleStorm on Nintendo Switch includes the original campaign and two additional expansions: “From Outcast to Savior” and “The Warrior Queen”.\n\nNintendo Switch features include:\n\n- Touch-screen controls\n- Motion-controlled camera movement\n- Support for two Joy-Con™ controllers in splitscreen mode\n- HD Rumble\n- Pro Controller support\n- 60 frames per second at 1080p resolution while docked\n- 60 frames per second at 720p resolution in handheld mode"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010097C00AB66000"
+region = "all"
+release_date = "2018-08-16"

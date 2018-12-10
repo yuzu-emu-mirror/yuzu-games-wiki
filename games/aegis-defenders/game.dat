@@ -1,0 +1,11 @@
+title = "Aegis Defenders"
+description = "Explore, build, & defend in this unique mashup of action-platformer and tower defense strategy. You play as a team of Ruinhunters searching for the one thing that can save their village - a legendary weapon known as Aegis."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01008E6006502000"
+region = "all"
+release_date = "2018-02-08"

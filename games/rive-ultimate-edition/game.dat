@@ -1,0 +1,11 @@
+title = "RIVE: Ultimate Edition"
+description = "Blast your way through insanely spectacular battles in this hard, fast & hilarious action game. Better than ever on Nintendo Switch™!\n\n“Some of the most memorable moments in a shoot-em-up in years” – GameSpot\n\nExclusive to the Ultimate Edition on Nintendo Switch:\n\nPlay with a friend in Copilot Mode\nHD Rumble effects let you truly feel the action\nMore achievements: 48 and counting\nLoads faster, plays smoother, tweaked to perfection\n\nAbout RIVE:\n\nPilot your spider tank as it runs, jumps and shoots its way through hordes of mechanical enemies on land, underwater, in zero gravity and even on a moving train.\n\nRIVE is a modern ode to classic shooters, pumping megapixels at a deliciously smooth 60 frames per second!\n\nHack and control your enemies\nUpgrade your special attacks, armor and loot magnet\nQuirky story featuring robot butlers, space loot and clean teeth\nDaily Challenges and infinite Battle Arenas\nSpeedrun and Single-Credit modes\nOnline leaderboards for all modes and missions\n\nRIVE is Two Tribes’ last game ever, so we hope you appreciate this Ultimate Edition as much as we appreciate our loyal Nintendo fans… that’s YOU!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010069C00401A000"
+region = "all"
+release_date = "2017-11-17"

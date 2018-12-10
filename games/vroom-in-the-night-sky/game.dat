@@ -1,0 +1,11 @@
+title = "Vroom in the night sky"
+description = "\"Vroom in the night sky\" is a \"Magical Bike Action Game\". The features of this game are Fantastic feeling, Speedy feeling, and Realistic feeling using HD Vibration.\n\nThere are various night skies in this world, and it is the work of the Magical Girls to collect Stardusts. You become a Magical Girl, \"Luna\", and ride a Magical Bike to fly around the night sky and collect Stardusts!\n\nThe Magical Gate is floating in the night sky. In order to open the gate, you need to collect the necessary number of Keystars floating in the night sky. By collecting Keystars faster and entering the gate, you can get more Stardusts.\n\nBy manipulating the motorcycle technically, the number of Stardusts you can get increases. Try various actions and challenges to collect Stardusts. By using the collected Stardusts, you will be able to get a new Magical Bike. If you get a powerful Magical Bike, you will be able to more easily collect Stardusts!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01004E90028A2000"
+region = "all"
+release_date = "2017-04-05"

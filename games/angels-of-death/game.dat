@@ -1,0 +1,11 @@
+title = "Angels of Death"
+description = "\"Please... kill me.\" \n\"Help me get outta here, and I'll kill you.\" \n\nThis dark promise deepens the peculiar bond between two reluctant partners.\n\nWhere is this place in which they’ve found themselves trapped? \n\nWhy have they been imprisoned here? What does fate have in store for them? \n\nThus begins a dangerous and terrifying escape mission from a mysterious sealed building!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100AE000AEBC000"
+region = "all"
+release_date = "2018-06-28"

@@ -1,0 +1,11 @@
+title = "Croc's World"
+description = "Croc´s World is a really nice jump'n'run with 60 incredible levels and many challenging enemies!\n\nIt features:\n\n+ 60 incredible levels \n+ Nice graphics\n+ 4 different themes\n+ many challenging enemies\n\nInstructions:\n\nJump and run through the levels and dodge all enemies.\nCollect a helmet to crush stoneblocks.\nCollect the stonebag to throw stones.\nIf you collect 100 diamonds you´ll get an extra life!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01004F800C4DA000"
+region = "all"
+release_date = "2018-11-09"

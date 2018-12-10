@@ -1,0 +1,11 @@
+title = "NAMCO MUSEUM (PAC-MAN VS. Free Multiplayer-only Ver.)"
+description = "PAC-MAN™ VS. (Free Multiplayer-only Ver.) is a free download from Nintendo eShop which allows you to play PAC-MAN™ VS. with another player who owns NAMCO MUSEUM™ for the Nintendo Switch™ console.\n\nBecome Pac-Man or a ghost and challenge up to 3 other players* in classic gameplay with a multiplayer twist! \n\n*Two Nintendo Switch™ consoles will be required for 4 player gameplay."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100BA3003B70000"
+region = "all"
+release_date = "2017-07-28"

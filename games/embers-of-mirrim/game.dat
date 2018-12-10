@@ -1,0 +1,11 @@
+title = "Embers of Mirrim"
+description = "To save their world from an alien threat, two proud races must set aside their differences and come together... literally. Embers of Mirrim is an adventure-platformer featuring a mystical creature with the ability to split into light and dark embers, each independently controlled by the analog sticks."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100322004844000"
+region = "all"
+release_date = "2017-12-07"

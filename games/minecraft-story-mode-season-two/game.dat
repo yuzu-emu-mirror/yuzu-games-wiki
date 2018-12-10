@@ -1,0 +1,11 @@
+title = "Minecraft: Story Mode - Season Two"
+description = "Now that Jesse and the gang have vanquished the Wither Storm, saved the world, and become totally super famous heroes, life has gotten a bit more...complicated. With more responsibilities and less time for adventure, old friendships have started to fade -- at least until Jesse's hand gets stuck in a creepy gauntlet that belongs to an ancient underwater temple. Together with old pals and new comrades alike, Jesse embarks on a brand new journey filled with tough choices, good times, and at least one temperamental llama.\n\nIncludes access to all five episodes in this all-new season from the award-winning studio, Telltale Games."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01003EF007ABA000"
+region = "all"
+release_date = "2018-11-06"

@@ -1,0 +1,11 @@
+title = "SOLITAIRE BATTLE ROYALE"
+description = "Equipped with battle mode!\nTwo-player battle mode compete for clear speed!\nOf course, you can play it carefully by yourself.\nBeginners are enjoyable too!\nThere is also a mode that you can play easily !\nThe tasks are 3000 questions!\nIt is only a matter that can be cleared if it is done in the correct procedure.\nCollect the \"collection\" by clears to color the game screen!\nThe game screen decorated with \"collection\" can also be used on the competition screen.\nJoy-Con controller or touch screen! Play with your favorite style!\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100B4700BDBA000"
+region = "all"
+release_date = "2018-11-15"

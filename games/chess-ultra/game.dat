@@ -1,0 +1,11 @@
+title = "Chess Ultra"
+description = "Chess Ultra features stunning visuals, seamless online multiplayer and Grandmaster-approved AI to offer the ultimate chess experience.\n\nExplore an array of intricately crafted environments and choose from a selection of iconic chess sets designed with both the modern and traditional chess player in mind. \n\nWhether you’re a beginner or a veteran of the great game, Chess Ultra has something to offer for players of all ages and ability.\n\nStunning chess sets and beautiful environments\n\n10 Grandmaster-approved AI levels\n\nIntuitive, overhauled local and online multiplayer with ELO ranking system\n\nComprehensive time controls, including Classical, Blitz and Marathon, available online\n\nCross-platform online play and leaderboards\n\nSpectate and compete in Official Ripstone tournaments\n\nDemonstrate your skills in over 80 chess puzzles\n\nRe-write the past by winning the biggest historic matches\n\nIn-depth tutorials to help improve your game\n\nChess has never looked this good!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100A5900472E000"
+region = "all"
+release_date = "2017-11-02"

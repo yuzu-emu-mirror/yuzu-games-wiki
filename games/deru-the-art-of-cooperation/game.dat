@@ -1,0 +1,11 @@
+title = "DERU - The Art of Cooperation"
+description = "Deru is a cooperative puzzle game that mixes eye catching abstract art with mind bending puzzles to a unique gaming experience.\n\nIn this couch co-op experience two players team up to overcome the boundaries of shadow and light and succeed through teamwork, timing and tactics.\nBlock streams for your partner, juggle your mass to make each other huge for traversing big streams. To succeed you have to communicate and plan together, fuse your brains and bring your co-op gaming skills on the next level. Deru is more than your usual puzzle game, you need to have dexterity, precision and use strategic planning to reach the exit of each level.\n\n- Enjoy beautiful abstract art while solving mind-bending puzzles\n- Simple game mechanics, easy to pick up\n- Great atmospheric music\n- Multiple worlds packed with many brain twisting riddles\n- Couch Co-op, merge your brains together to overcome the streams and barriers\n- Single Player: Challenge your twin stick skills to tackle the puzzles solo\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100ED700469A000"
+region = "all"
+release_date = "2018-11-07"

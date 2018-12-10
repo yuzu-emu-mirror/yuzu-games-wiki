@@ -1,0 +1,11 @@
+title = "Dark Witch Music Episode: Rudymical"
+description = "The popular spin off from Dark Witch Story is now available on Nintendo Switch™!\n\nPlay the 1 player STORY MODE and defeat all the bosses!\nPlay the VS MODE to battle 1vs1 against your friends, and the CO-OP MODE for 2-player team play!\n\nHigh quality graphics true to the original Dark Witch Story\nQuality music composed by Raito\nBeautiful illustrations\n\nGameplay:\nPress the buttons rhythmically in timing to cut down\nBoing-boings (bullets).\n\nJump to avoid fire beams!\n\nGet your groove on Dark Witch style!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01001FA0034E2000"
+region = "all"
+release_date = "2017-05-11"

@@ -1,0 +1,11 @@
+title = "Light Fingers"
+description = "What do skulking thieves do after a night of procuring shady spoils? They gather at a favourite tavern and wager it away on a friendly game of Light Fingers!\n\nPlayed on a magical clockworks game board, this turn-based multiplayer game has real-time action and devious opportunities for misdirection, all in the pursuit of securing more loot than your opponents."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100A0E005E42000"
+region = "all"
+release_date = "2018-09-20"

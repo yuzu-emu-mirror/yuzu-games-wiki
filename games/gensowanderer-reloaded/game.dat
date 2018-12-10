@@ -1,0 +1,11 @@
+title = "GensoWanderer -RELOADED-"
+description = "Set out on an all-new adventure with Reimu, Marisa, Sanae, and more of your favorite Touhou characters! The land of Gensokyo once again plunges into darkness as a new mystery unfolds. What mysteries await in the Tower of Desire?"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01004E900B082000"
+region = "all"
+release_date = "2018-07-17"

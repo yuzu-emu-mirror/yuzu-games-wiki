@@ -1,0 +1,11 @@
+title = "Marble It Up!"
+description = "Marble It Up! is the joyful, bouncing, beautiful game you’ve been waiting for. Roll, jump, and master the marble physics to make your way through dozens of breathtaking levels! Experience first-hand the simple joy of rolling while exploring a gloriously psychedelic world full of mind-bending levels and dynamic power-ups. Racing to the goal line is an accomplishment at all levels of play - and with leaderboard replays, ghost races, and rewards  to help push you toward the next level, you’ll be a master in no time!\n \nNintendo Switch is the perfect platform for Marble It Up! - a system as fun to use as its games are to play. With HD rumble, you’ll actually feel the rush of power-ups and the danger of different terrain. Your collection of Marble skins and cosmetics will look just as gorgeous in handheld mode as they do on your TV screen! And most importantly - the physics-based controls feel more responsive and crisp than any other Marble roller game to date.\n\nSo, whether you’ve been rolling marbles for the last decade or have never even seen a marble before (which we find hard to believe) - there’s never been a better time to pick up, play, and Marble It Up!\n\nThe next generation of marble rolling game has arrived. \n\nFeatures:\n\n- Roll, bounce, and boost your way to the finish line across 40 visually striking maps!\n- Runs beautifully in both docked and handheld modes at 60fps\n- Unlock majestic marble skins!\n- Race against your best times in Ghost Mode!\n- Watch replays from the online Leaderboards (and learn from the best!)\n- Use exciting power-ups to slow time, launch into the air, and glide your way to glory!\n- FEEL the course with HD rumble support.\n- Test your skills and smarts in an incredibly varied set of kinetic platforming puzzles!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100B5B00693E000"
+region = "all"
+release_date = "2018-09-29"

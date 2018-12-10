@@ -1,0 +1,11 @@
+title = "Crypt of the Necrodancer"
+description = "Crypt of the NecroDancer is an award winning hardcore rhythm-based dungeon crawling game. Can you survive this deadly dungeon of dance, slay the NecroDancer, and recapture your still beating heart? Or will you be a slave to the rhythm for all eternity?\n\nPlayers must move on the beat to navigate randomly generated dungeons while battling dancing skeletons, zombies, dragons, and more, while grooving to the game's award winning Danny Baranowsky soundtrack!  You can even team up with a friend in local co-op mode!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100CEA007D08000"
+region = "all"
+release_date = "2018-02-01"

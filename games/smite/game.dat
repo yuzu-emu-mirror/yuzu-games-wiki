@@ -1,0 +1,11 @@
+title = "SMITE"
+description = "Enter the Battleground of the Gods!-Join over 25 million SMITE players! SMITE is the multiplayer online battle arena that puts the power of the Gods in your hands. With an ever-expanding roster, new events, variety of skins, and biweekly updates, there is always something new and exciting in the Battleground of the Gods!\n\nGo Ahead, Play God-Jump into the action as one of over 90 Gods from Pantheons around the world. Play as iconic figures like Ares, Thor, Hercules, Wukong, and Medusa. There are also unique Gods and Goddesses like the volcanic Pele, the Voodoo God of Death, Baron, and the nine-tailed fox, Da Ji. \n\nUnique Games modes-SMITE has competition for everyone. Enter the Arena, the perfect game mode for players hungry for fast-paced brawls. Looking for a more strategic experience? Conquest is SMITE’s premiere competitive mode. Crush the opposing Gods and slay their Titan for a triumphant victory.\n\nSMITE Founder's Pack Available Now for Pre-Purchase-Pre-Purchase the SMITE Founder's Pack and gain access to the SMITE closed beta on Nintendo Switch™ beginning January 24th, 2019. Founder's Pack access allows you to jump into SMITE before it's available for free on Nintendo Switch™, as well as granting a trove of extras which will only be available in this pack during closed beta!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01005A600C318000"
+region = "all"
+release_date = "2019-01-24"

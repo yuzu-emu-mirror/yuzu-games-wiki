@@ -1,0 +1,11 @@
+title = "Wulverblade"
+description = "Help Britannia defeat the Romans in Wulverblade – a hardcore side-scrolling beat 'em up inspired by the old arcade classics! Experience a historically inspired storyline across eight campaign levels – or test your skills in the game’s deadly arenas. Go it alone or team up with a friend in local two-player co-op. It’s time to show the Ninth Legion what you’re made of!\n\nExperience a historically accurate storyline spanning eight varied levels.\n\nMaster retro-inspired combat, including modern enhancements.\n\nTeam up with a friend – arcade-style– in two-player local co-op.\n\nTake in the rich, fully illustrated 2D scenery.\n\nTest your skills in a variety of challenging combat arenas."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010033700418A000"
+region = "all"
+release_date = "2017-10-12"

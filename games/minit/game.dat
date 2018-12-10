@@ -1,0 +1,11 @@
+title = "Minit"
+description = "Minit is a peculiar little adventure played sixty seconds at a time. Journey outside the comfort of your home to help unusual folk, uncover countless secrets, and overcome dangerous foes, all in hopes of lifting a rather unfortunate curse that ends each day after just one minute. Minit is a collaboration between Kitty Calis, Jan Willem Nijman, Jukio Kallio & Dominik Johann."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100ED600A87A000"
+region = "all"
+release_date = "2018-08-09"

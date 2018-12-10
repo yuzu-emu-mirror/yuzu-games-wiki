@@ -1,0 +1,11 @@
+title = "Gotcha Racing 2nd"
+description = "Get parts from the gacha and customize your own original machine.\nWin a variety of races and aim for the top of the Grand Prix!\n\nThere are about 700 varieties of parts. Roll the gacha by prize money from racing, and upgrade to better parts!\nYou can fuse the parts remaining to make the machine more powerful. Design your own original machine with them!\n\nThe machine spec is not only thing that make the difference in the match. Use the machine actions and heat up the racing!\nUse a variety of effects such as variant, boost, barrier and interference, and defeat your rivals!\n\nDrive 16 courses with simple operability and easy drifting!\nThere are game modes that provide excitement for both single and multiple players!\n\n• Grand Prix Mode\nYou repeat racing and rolling gacha to upgrade your machine, and win and advance grades A through F in Grand Prix in this mode.\n\n• Time Attack Mode\nThe mode where you can enjoy competing the time attack results in each courses.\nIn addition to the normal Time Attack, there are Time Attack events where you can get special parts.\nYour time can be submitted for ranking online to compete with rivals worldwide.\n\n• VS Mode\nThis mode allows a racing match with two to four players.\nYou can enjoy exciting races at anywhere with controllers and the Nintendo Switch.\n\n• Minigame\nYou can enjoy the Mini GP race which is playable with unusual controls in the circuit that just fits in the screen, and the car battle where you use spin attack to knock off your opponents from the square shaped stage.\n\nWhat will you choose to aim for, Grand Prix winner or the world top record?\nThe world of exciting racing game is waiting for you!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100E8D007E16000"
+region = "all"
+release_date = "2018-03-29"

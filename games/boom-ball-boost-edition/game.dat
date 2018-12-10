@@ -1,0 +1,11 @@
+title = "Boom Ball: Boost Edition"
+description = "• Cheerful arcade action with manic multiball mayhem\n• Two ways to play: Intuitive motion controls and touch screen controls\n• Instant two-player mode: Just hand off one controller!\n\n• Meet explosive rectangular sheep and much silliness over 60 scenic levels\n• Juggle up to 24 balls simultaneously\n• Boost power: Time your boosts perfectly for more speed and explosions\n\n• HD rumble: Feel each unique hit and explosion\n• Reach goals like Gold Time and No Balls Lost to unlock new paddles and bonus levels\n• Turbo Mode for the ultimate reaction challenge\n\nGo ballistic with Boom Ball!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009FA00A570000"
+region = "all"
+release_date = "2018-10-11"

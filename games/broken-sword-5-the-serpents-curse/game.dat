@@ -1,0 +1,11 @@
+title = "Broken Sword 5 - the Serpent's Curse"
+description = "Paris in the spring. Shots ring out from a gallery.\n\nA robbery... a murder... and the beginning of another epic Broken Sword adventure.\n\nFrom multi-award winning Revolution comes the latest mystery in this much loved adventure-puzzle series.\n\nPlaying as intrepid American George Stobbart and sassy French journalist Nico Collard, you find yourself on the trail of a stolen painting - and a murderous conspiracy. A conspiracy whose roots lie in mysteries older than the written word...\n\nArmed only with logic, integrity and a wry sense of humor - can George and Nico save mankind from disaster? Can you solve the secret of the Serpent’s Curse? A curse some say was forged by the Devil himself...\n\nThe game includes Behind the Scenes movies created especially for the Nintendo Switch version. Unlocked as play progresses, these videos reveal the story and the development process behind the game, through previously unreleased interviews with the Broken Sword team."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01001E60085E6000"
+region = "all"
+release_date = "2018-09-21"

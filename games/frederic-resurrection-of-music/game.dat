@@ -1,0 +1,11 @@
+title = "Frederic: Resurrection of Music"
+description = "If you own or buy Sparkle 2 EVO or Violett, you can save 20% off this title!\n\nStep into Frederic Chopin's shoes, and embark onto an one-of-a-kind adventure through musical genre.\n\nFrederic Chopin – one of the world's most talented classical composers, is brought back from the afterlife and finds that he's an involuntary part of a treacherous plan. The world of music is at the edge of destruction. Soulless music labels and mass-produced popstars have hindered all creativity. And you're the only hope of bringing it back.\n\nAccompany Chopin in his amazing journey full of quirky events. Battle your opponents in musical duels, intensity of which will make your palms sweat. Enjoy an hour of hand-drawn animated comic picturing the quirky story. Play through twelve catchy arrangements of Chopin's greatest classics, each in a different musical genre. Practice your skills until perfection and become the master of the piano."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01005B1006988000"
+region = "all"
+release_date = "2017-12-21"

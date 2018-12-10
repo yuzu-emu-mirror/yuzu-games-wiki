@@ -1,0 +1,11 @@
+title = "VOEZ"
+description = "\"VOEZ\" is played by touching falling notes in time with the music.\n\nSet in a fictional town named \"Lan Kong Town\", which is modeled after Yilan in Taiwan, the story is centered around 6 high school students who form a band that eventually achieves international fame.\n\nGameplay is simple, requiring players to touch vertically falling notes that have hit a bar on the bottom of the screen.\n\nDepending on the song, the number of lanes for the notes increase and shift side to side, making the screen look as if it is dancing to the music.\n\nThere are over 100 songs in the library.\n\nThree difficulty levels, \"Easy\", \"Hard\" and \"Special\" are available. \n\nPlayers are able to choose difficulty levels according to their skill so they may enjoy all pieces.\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100A7F002830000"
+region = "all"
+release_date = "2017-03-09"

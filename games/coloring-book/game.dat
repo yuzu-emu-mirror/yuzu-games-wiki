@@ -1,0 +1,11 @@
+title = "Coloring Book"
+description = "Coloring Book has 48 beautiful drawings divided in 8 pages with a unique theme:\n- Jungle and Space are already available\n- Cats, Ocean, Farm, Girls Room, Construction Site and Dinosaurs are easily purchasable\n\nNo limits to your creativity:\n- a palette of 89 colors for fantastic nuances\n- 9 tools for advanced effects and convenience – a brush that always paints inside contours for example\n- use the touch screen or the buttons on the Joy-Con controller\n\nShare your creations:\n- up to 4 players can color in the same time!\n- save your images and view them easily in your album\n\nWith its large range of options, Coloring Book is perfect for young and older children but can also be a great way to relax for adults.\n\nNew drawings might be available in future updates!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100A7000BD28000"
+region = "all"
+release_date = "2018-11-16"

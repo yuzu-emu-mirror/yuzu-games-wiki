@@ -1,0 +1,11 @@
+title = "Astro Bears Party"
+description = "Astro Bears Party is an easy-to-learn, hard-to-master game about running around a planet and avoiding each other’s Magical Beary Ribbons. Jump and hover over Ribbons using a jetpack. Perform dashes to threaten your opponents. Be the last Bear standing!\n\nChoose one of 4 Bears with different playstyles and battle between 2-4 players. Take a challenge in single player mode and beat your own record in Jetfish Hunting!    \n\nKey Features:\n4 cute Astro Bears with different playstyles\nLocal multiplayer for 2-4 players\nJetfish Hunting single player mode\nBeautiful high quality 3D graphics\nHD Rumble support"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100E5F00643C000"
+region = "all"
+release_date = "2017-09-28"

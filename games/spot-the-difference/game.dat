@@ -1,0 +1,11 @@
+title = "Spot The Difference"
+description = "From the original creators of the World famous Spot-The-Difference amusement machine game we bring you Spot-The-Difference on NINTENDO SWITCH, a TWO player version so you can play head to head against anyone, anytime.\n\nThis special edition of Spot-The-Difference has  the same exciting game play as the original amusement machine  game and just like the amusement machine It will take sharp eyes and quick wits to uncover all the differences before you opponent or against the clock in  single player mode."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100E04009BD4000"
+region = "all"
+release_date = "2018-02-26"

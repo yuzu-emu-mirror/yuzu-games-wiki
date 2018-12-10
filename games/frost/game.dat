@@ -1,0 +1,11 @@
+title = "Frost"
+description = "IGN Greece 7.9/10\nGamePitt 9/10\nHandsomePhantom 8/10\nGamingTrend 8/10\n\nFrost is a deck-building, solo survival card game set on a harsh, frozen world ravaged by a lethal storm. You must lead a group of nomads in search of the Refuge – a haven away from the Frost’s icy grip. \n\nAs well as the unrelenting threat of the Frost, your arduous trek will be fraught with many other dangers, such as wolves, cannibals, hunger and fatigue. Manage your cards wisely to stay alive and make it all the way to the Refuge.\n\nKey features\n•\tChallenging survival deck-building gameplay, requiring anticipation, strategy and memory\n•\tDozens of cards to discover – card types include resources, weapons, ideas, dangers and regions\n•\tAn intriguing and immersive world\n•\tBeautiful hand-drawn artwork\n•\tHours of gameplay with difficulty modes, endless mode, scenarios and new cards to unlock\n•\tEncounter many different characters and make use of their abilities\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100B5300B49A000"
+region = "all"
+release_date = "2018-07-19"

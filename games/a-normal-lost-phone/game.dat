@@ -1,0 +1,11 @@
+title = "A Normal Lost Phone"
+description = "If you own or buy Another Lost Phone: Laura's Story, you can save 33% on this title!\n\nA Normal Lost Phone is a game about exploring the intimacy of an unknown person whose phone was found by the player.\n\nThe game takes the shape of a narrative investigation: you have to search the phone’s text messages, pictures and applications, in order to learn about its former owner. Through this phone, you uncover Sam’s life, friends, family and relationships, until the evening when they turn 18 and mysteriously disappear.\n\nFeatures\nAn immersive and intuitive way of introducing the narrative through a fake smartphone interface.\n\nA game that bridges the gap between reality and fiction by letting players act as themselves. The game asks a simple question: if you close the app but still think about the game, have you truly stopped playing?\n\nA relatable story that helps build empathy with the characters, allowing to explore difficult topics.\n\nPlay in Portrait or Landscape mode and enjoy HD Rumble"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100978009B98000"
+region = "all"
+release_date = "2018-03-01"

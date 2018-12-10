@@ -1,0 +1,11 @@
+title = "Ninja Shodown"
+description = "It’s every ninja for themselves in the ultimate battle for the Jade Katana! Fight alone, team up or take on friends in brutal arena-based combat where the mighty prevail and the weak pay the ultimate price: death and dishonour!\n\nThe year is 199X and the world teeters on the brink of total destruction. The mystical Jade Katana, stolen! Its power, so lethal! In the wrong hands, humanity will fall! And so the Viper Clan, sworn guardians of the Jade Katana, prepare to embark on their most perilous mission yet: retrieve the sword at all costs! Use katanas, shurikens, bombs, machine guns, shotguns, bazookas and more as you battle your way through a variety of locations to become the ultimate ninja and fulfill the ancient vow of the Viper Clan.\n\nIntense local multiplayer action for one to four players, either competitively or co-operatively… you choose!\nSix distinct game modes – Last Ninja, Battle, Coin, Crown, Arcade and Infinite – and five unique locations – Temple, Dojo, Downtown, Museum and Area 88 – each with their own gameplay features.\nCustomise your ninja, then use a range of deadly ninja (and not-so-ninja) weapons to destroy anyone who gets in your way!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010088E003A76000"
+region = "all"
+release_date = "2017-10-05"

@@ -1,0 +1,11 @@
+title = "Ultra Hyperball"
+description = "In the ultimate sport of Hyperball, have you got what it takes to be the ultimate champion!\n\nClimb the ranks in the game's single player story mode. Play as Jay, an unlikely hero, battling against the odds to join the Hyperball league!\n\nFeatures:\nSingle Player Story Mode.\n\n2 – 4 Player Co-Op and Vs modes, for a party game experience!\n\n'Pick Up and Play' Arcade Mechanics.\n\n5 Game Styles.\n\nUses controls only possible on the Nintendo Switch™: Motion controls and the Touch Screen!\n\n49 playable characters! \n\nEndless fun with friends or alone, Hyperball is the sport of the future you can play today!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009C000415A000"
+region = "all"
+release_date = "2017-07-28"

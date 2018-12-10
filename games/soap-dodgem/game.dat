@@ -1,0 +1,11 @@
+title = "Soap Dodgem"
+description = "In Soap Dodgem your goal is to help your happy soap friends get back to their soap holders and clean as many mold creatures on the way as you can\n\nUse a familiar sliding puzzle gameplay with unique bathroom obstacles!\n\nEvery level holds one mysterious Golden Bubble which you can use to unlock a new chapter faster.\n\nFinish the 120 levels campaign or play other player’s creations in the cloud!\n\nCreate your own levels in the built-in editor and share it with the World!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010025C007892000"
+region = "all"
+release_date = "2018-11-15"

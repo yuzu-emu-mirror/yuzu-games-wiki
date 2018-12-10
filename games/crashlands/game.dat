@@ -1,0 +1,11 @@
+title = "Crashlands"
+description = "Play as Flux Dabes, a galactic delivery truck driver whose latest shipment gets interrupted by a megalomaniacal alien named \"Hewgodooko\" who tears her ship to pieces looking for useful tech. Crashlanded on Woanope, you must fight, tame, craft, quest, bossfight, and adventure your way to domination of all the things so that you and JuiceBox, your trusty sidekick/supervisor/robotic cargo palette, can send a message to the Bureau of Shipping and get those packages delivered!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010027100BD16000"
+region = "all"
+release_date = "2018-11-08"

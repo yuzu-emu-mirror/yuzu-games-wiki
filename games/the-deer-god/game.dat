@@ -1,0 +1,11 @@
+title = "The Deer God"
+description = "The Deer God is a breathtaking 3D pixel art adventure that will challenge your religion and your platforming skills. It's a game about survival, reincarnation, and karma; all set in a breathtaking and unique 3D pixelized world. Feast your eyes on the beautiful lighting, day and night system, and vast landscapes.\n\nBecome one of the most beautiful animals on planet earth.\n\nLIVE AS A DEER.\n\nSURVIVE AS A DEER."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01000B6007A3C000"
+region = "all"
+release_date = "2017-12-21"

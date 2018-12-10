@@ -1,0 +1,11 @@
+title = "Snipperclips Plus"
+description = "Snipperclips Plus: Cut It Out, Together!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01008E20047DC000"
+region = "all"
+release_date = "2017-11-10"

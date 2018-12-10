@@ -1,0 +1,11 @@
+title = "Heroes of the Monkey Tavern"
+description = "After countless days and nights celebrating within the infamous Monkey Tavern, our team of adventurers have spent every last penny... Their fates, however are about to change...\n\nLike a gift from the gods, in walks a mysterious stranger who points them towards a high tower full of invaluable treasures . \n\nIt doesn't take much more to rouse their thirst for adventure.\n\n\nYou will enjoy exploring a dungeon full of riddles, dangerous enemies and vicious traps.\nAnd if luck favours...you will discover secret passages sheltering legendary weapons and armours.\n\nKey Features :\nDungeon exploration in grid-base movement \n8 classes \n3 difficulty levels \n2 hours of intense music \nStatic real time fights \n22 different enemies, including 6 bosses \nNumerous traps and secrets \nMore than 100 unique items"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100352006A10000"
+region = "all"
+release_date = "2017-11-07"

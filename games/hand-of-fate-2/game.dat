@@ -1,0 +1,11 @@
+title = "Hand of Fate 2"
+description = "Hand of Fate 2 is a dungeon crawler set in a world of dark fantasy. Master a living boardgame where every stage of the adventure is drawn from a deck of legendary encounters chosen by you! Choose wisely - your opponent, the enigmatic Dealer, will pull no punches as he shapes you into the instrument of his revenge.\n\nThe table has changed, but the stakes remain the same: life or death!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01003620068EA000"
+region = "all"
+release_date = "2018-07-17"

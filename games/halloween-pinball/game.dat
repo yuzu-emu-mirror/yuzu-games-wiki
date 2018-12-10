@@ -1,0 +1,11 @@
+title = "Halloween Pinball"
+description = "The most entertaining Pinball is back! \n\nEnjoy Halloween Pinball, a perfect reproduction of a real pinball machine, with all the graphic details and sounds. \n\nDiscover all the secrets, complete all the missions and become number 1 in the world or the best among your Friends, posting your high score on the online leaderboard.\n\n- Arcade design.\n- Gloomy setting.\n- Multiball, Extraball, Skillshot, Jackpots...\n- Reproduction with all the details, lights and sounds.\n- 4 different cameras to choose from.\n- Online Leaderboard."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100E0D00C336000"
+region = "all"
+release_date = "2018-10-26"

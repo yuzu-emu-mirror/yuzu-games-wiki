@@ -1,0 +1,11 @@
+title = "Wizard of Legend"
+description = "Wizard of Legend is a fast-paced dungeon crawler with an emphasis on dynamic magical combat. Quick movement and even quicker use of spells will allow you to chain spells together to unleash devastating combinations against your enemies! Unlock over 100 unique spells and discover powerful spell combinations! A wide variety of elemental spells allows you to create a hand best suited to your play style. Dive head first into the fray or stand back and let your minions do the work for you. Play solo or co-op! The choice is yours!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100522007AAA000"
+region = "all"
+release_date = "2018-05-15"

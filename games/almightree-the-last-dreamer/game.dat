@@ -1,0 +1,11 @@
+title = "Almightree: The Last Dreamer"
+description = "The world is shattering and you are the only hope to restore the balance. A thrilling and challenging 3D puzzle platformer game, Almightree: The Last Dreamer has you racing through a crumbling world to find your way to awaken the life giving Almightree."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010063000C3CE000"
+region = "all"
+release_date = "2018-12-13"

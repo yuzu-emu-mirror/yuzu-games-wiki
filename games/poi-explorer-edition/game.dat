@@ -1,0 +1,11 @@
+title = "Poi: Explorer Edition"
+description = "Explore magical worlds in search of 100+ Explorer Medallions\n\nUnlock special items and costumes fit for any explorer\n\nMaster classic platforming moves like wall jumps, triple jumps, and long jumps\n\nCollect fossils; take photos, fly through the air, and much more!\n\n\"Explorer Edition\" Exclusives:\nUnlockable Soundtrack and Digital Art Book\n\nNew costumes and hats only available within the \"Explorer Edition\"\n\nJoy-Con motion control and HD rumble support"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01005EC0039E4000"
+region = "all"
+release_date = "2017-10-24"

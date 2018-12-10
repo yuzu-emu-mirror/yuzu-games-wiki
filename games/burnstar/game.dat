@@ -1,0 +1,11 @@
+title = "Burnstar"
+description = "Burnstar is a challenging, fast paced action-puzzle game that will get your brain blistering and set your fingers aflame! \n\nUse your explosives and powers to cause maximum damage to worksites of Evil Inc., an appropriately named corporation intent on ruining the homeland of Burnstar and his friends. Blaze your own trail, or play co-op for some friendly fire!\n\nMASTER THE FLAME\nPlay through 80 levels as four distinct characters, each with unique abilities, to cause chain reactions and turn Evil Inc.’s machinery against itself. Only the best armchair arsonists will have what it takes to save your homeland!\n\nBLAZING FAST\nFind the fastest path to complete conflagration to unlock secret stages, climb the leaderboards, and smoke the competition.\n\nBURN TOGETHER, STAY TOGETHER\nTaking on challenges with a friend has never been easier with the Switch Joy-Cons. Try out different combinations of characters to see how to best burn down each level!\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010044D00A770000"
+region = "all"
+release_date = "2018-07-02"

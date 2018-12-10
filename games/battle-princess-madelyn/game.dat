@@ -1,0 +1,11 @@
+title = "Battle Princess Madelyn"
+description = "Battle Princess Madelyn is a game that follows the journey of a young knight in training, Madelyn, and her ghostly pet dog, Fritzy. They set out on a journey to save her kingdom and her family from the clutches of an evil wizard."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100C4D0093EA000"
+region = "all"
+release_date = "2018-12-06"

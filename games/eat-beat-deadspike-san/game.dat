@@ -1,0 +1,11 @@
+title = "EAT BEAT DEADSPIKE-san"
+description = "\"EAT BEAT DEADSPIKE-san\" is a rhythm action game spin-off of the 2D-fighting game series, \"BLAZBLUE\", that features Dead Spike-san in a eating frenzy.\n\n•How to Play\nThe controls are simple, tap the buttons to the beat and eat the incoming food! Enjoy the music of \"BLAZBLUE\" while having Dead Spike-san eat as much food as possible!\n\n•Featuring a total of 20 playable songs!\nThere are 3 difficulties: \"Easy\", \"Normal\", or \"Hard\" for each of the song. Anyone can enjoy playing by choosing the appropriate difficulty.\n\n•AWARD system for replayability!\nA total of 14 objectives to clear for a full complete!\n\nSimple and interesting!\nGroove to the rhythm and aim to achieve high calories(score)!\n"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100A9B009678000"
+region = "all"
+release_date = "2018-03-22"

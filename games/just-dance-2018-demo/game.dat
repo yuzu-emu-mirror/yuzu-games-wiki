@@ -1,0 +1,11 @@
+title = "JUST DANCE® 2018 DEMO"
+description = "Try Just Dance 2018 for free now! Turn up the volume and dance your heart out now on \"24K Magic\" by Bruno Mars.\n\nJust Dance 2018 is coming back this fall on October 24, 2017 with over 40 tracks at launch, and more than 300 songs available with Just Dance Unlimited and the 3-month trial included!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010043D004CF6000"
+region = "all"
+release_date = "2017-10-03"

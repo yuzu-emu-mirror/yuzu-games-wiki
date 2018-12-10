@@ -1,0 +1,11 @@
+title = "Hidden Folks"
+description = "A strip of targets shows you what to look for. Click on a target for a hint, and find enough to unlock the next area.\n\nIn case you like numbers a lot:\n- 25+ hand-drawn areas\n- 250+ targets to find\n- 1600+ mouth-originated sound effects\n- 400+ unique interactions\n- 3 play modes supported: TV mode, Tabletop mode, and Handheld mode\n- 3 color modes: normal, sepia, and night mode\n- 22 languages (translated by the community)"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01003BB00B08E000"
+region = "all"
+release_date = "2018-10-31"

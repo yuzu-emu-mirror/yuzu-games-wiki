@@ -1,0 +1,11 @@
+title = "Personality Psychology Premium"
+description = "Personality Psychology Premium app helps in getting you the analysis of your personality, psychology score. \nIt has a series of tests which you have to go throw to achieve your personal score. These tests are very innovative and are created in a light funny way such that nothing gets too serious or boring. Once you finish the test you will get the score card of your analysis. \nWith this app over the social gathering, you can add up to 5 friends at a time to go with the tests and thus compare the results amongst players. Win Trophies based on the type of tests you try. The results help you improving the personality level as you get an idea of roads of improvements you require. \nThis app helps you best when you are unable to figure out that whether you are stressed? Tensed ? or worried. Try now."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100DEA00B758000"
+region = "all"
+release_date = "2018-10-18"

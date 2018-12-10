@@ -1,0 +1,11 @@
+title = "Octodad: Dadliest Catch"
+description = "Octodad is a game about destruction, deception, and fatherhood. The player controls Octodad, a dapper octopus masquerading as a human. Octodad's existence is a struggle, as he must master mundane tasks with his unwieldy tentacles while keeping his cephalopodan nature a secret from his human family."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100CAB006F54000"
+region = "all"
+release_date = "2017-11-09"

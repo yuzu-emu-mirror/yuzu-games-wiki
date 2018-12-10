@@ -1,0 +1,11 @@
+title = "Gear.Club Unlimited"
+description = "For the first time on Nintendo Switch, drive through an authentic world of cars with Gear.Club Unlimited. Get behind the wheel of the most incredible cars from the most prestigious manufacturers.\n\nRace through over 400 challenging races. Learn to master the controls of the world's fastest supercars and collect them in your garage: you can customize and tune them across the numerous workshops, then take them to the race track for the win! \n\nChallenge your friends, competing among up to 4 players on the same screen, or beat their times online."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010065E003FD8000"
+region = "all"
+release_date = "2017-11-21"

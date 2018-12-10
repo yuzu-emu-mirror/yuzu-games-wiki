@@ -1,0 +1,11 @@
+title = "Mom Hid My Game!"
+description = "Let's find the game console Mom hid!\n\nIs it inside the chest or on the shelf? Could it be under the sofa, too?\n\nWhere is it!?\n\nFind the 'game' in each level using various items!\n\nAn easy-going and funny escape game awaits!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100702005E18000"
+region = "all"
+release_date = "2017-12-21"
