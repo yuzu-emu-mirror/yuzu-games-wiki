@@ -1,0 +1,11 @@
+title = "Monster Boy and the Cursed Kingdom"
+description = "Monster Boy and the Cursed Kingdom is a platform game developed by Game Atelier and published by FDG Entertainment."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01006F7001D10000"
+region = "all"
+release_date = "2018-12-04"
