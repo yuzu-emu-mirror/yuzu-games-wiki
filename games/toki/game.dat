@@ -1,0 +1,11 @@
+title = "Toki"
+description = "The cult action/platform game originally released on arcade machines in 1989 is back with a super-simian new version, featuring all-new hand-drawn graphics and re-orchestrated music."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100F3400A432000"
+region = "all"
+release_date = "2018-12-04"
