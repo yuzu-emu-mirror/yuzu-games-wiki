@@ -1,0 +1,10 @@
+title = "Rayman Legends Definitive Edition"
+description = "Rayman,winner of multiple artistic and musical achievements, is coming to Nintendo Switch™ with Rayman Legends Definitive Edition".
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01005FF002E2A000"
+region = "all"
+release_date = "2018-12-27"
