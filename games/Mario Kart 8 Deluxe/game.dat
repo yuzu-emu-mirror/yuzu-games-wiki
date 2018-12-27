@@ -1,6 +1,5 @@
 title = "Mario Kart 8 Deluxe"
 description = "Race and battle your friends in the definitive version of Mario Kart 8".
-github_issues = []
 needs_system_files = false
 needs_shared_font = false
 game_type = "switch"
@@ -8,4 +7,4 @@ game_type = "switch"
 [[ releases ]]
 title = "0100152000022000,0100152000022800"
 region = "all"
-release_date = "2018-12-27"
+release_date =  "2018-12-27"
