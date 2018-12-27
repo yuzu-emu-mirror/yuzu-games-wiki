@@ -7,5 +7,5 @@ game_type = "switch"
 
 [[ releases ]]
 title = "0100152000022000,0100152000022800"
-region = "false"
+region = "all"
 release_date = "2018-12-27"
