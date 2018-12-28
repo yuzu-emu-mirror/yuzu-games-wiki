@@ -1,0 +1,11 @@
+title = "Nickelodeon Kart Racers"
+description = "Racers to the starting line...it's GO SLIME!".
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100D6200933C000"
+region = "all"
+release_date =  "2018-12-28"
