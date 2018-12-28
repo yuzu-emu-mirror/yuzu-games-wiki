@@ -1,0 +1,11 @@
+title = "Super Meat Boy"
+description = " Super Meat Boy is a tough as nails platformer where you play as an animated cube of meat who's trying to save his girlfriend (who happens to be made of bandages) from an evil fetus in a jar wearing a tux."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01004F8006A78000"
+region = "all"
+release_date = "2017-01-11"
