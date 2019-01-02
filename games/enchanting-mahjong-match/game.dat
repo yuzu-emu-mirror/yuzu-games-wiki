@@ -1,4 +1,4 @@
-release_date = ""title = ""
+title = "Enchanting Mahjong Match"
 description = "The main goal of this game is to connect the identical tiles with lines and remove them from the board. In Enchanting Mahjong Match, The line can change direction only twice. Or less, of course. Also known as Mahjong Solitaire, Shisen-sho, Onet, Lianliankan."
 github_issues = []
 needs_system_files = false
