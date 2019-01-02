@@ -1,0 +1,11 @@
+title = "Bridge Constructor Portal"
+description = "Enter the Aperture Science Enrichment Center and experience Bridge Constructor Portal – the unique merging of the classic Portal™ and Bridge Constructor™ games."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010016E004796800"
+region = "all"
+release_date = "2018-02-28"

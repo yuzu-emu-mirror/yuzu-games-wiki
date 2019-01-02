@@ -1,0 +1,11 @@
+title = "Golf Story"
+description = "Golf Story combines the sheer excitement of golf with a serious story that plays out over 8 different courses. Play the story of a golfer who is forced to give up all that he holds dear for one last shot at accomplishing his dreams."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100779004172000"
+region = "all"
+release_date = "2017-09-28"

@@ -1,0 +1,11 @@
+title = "Overcooked! 2"
+description = "Buddy up or go it alone as you cook up a storm, chopping, steaming and frying your way through dynamic and outright crazy levels. Now with online multiplayer for up to four chefs, there is no such thing as too many cooks and the steaks have never been higher as you prepare to save the Onion Kingdom... Again."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01006FD0080B2000"
+region = "all"
+release_date = "2018-08-07"
