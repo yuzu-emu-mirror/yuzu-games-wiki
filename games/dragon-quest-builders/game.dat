@@ -1,0 +1,11 @@
+title = "Dragon-Quest-Builders"
+description = "Gather, craft, and build the kingdom of your dreams to restore the ruined world of Alefgard!."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010008900705C000"
+region = "all"
+release_date = "2018-12-28"
