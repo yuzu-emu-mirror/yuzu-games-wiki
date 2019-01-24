@@ -1,0 +1,11 @@
+title = "New Super Mario Bros. U Deluxe"
+description = "New Super Mario Bros. U is a 2D side-scrolling platform video game developed and published in 2012 by Nintendo for the Wii U. It is the fourth title in the New Super Mario Bros. sub-series. An enhanced port, titled New Super Mario Bros. U Deluxe, was released for the Nintendo Switch in January 2019."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100EA80032EA000"
+region = "all"
+release_date = "2019-01-11"
