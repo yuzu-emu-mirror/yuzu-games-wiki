@@ -1,0 +1,11 @@
+title = "Harvest Moon®: Light of Hope Special Edition"
+description = "Looking for a fresh start and some new surroundings, you set off on a voyage to begin your new life! Unfortunately, the weather has different plans, as your ship is hit by a storm, and goes down! You drift into a small harbor town, now in shambles from the storm, where a young doctor named Jeanne saves your life. The town has been deserted, but you're never one to back down from a challenge! It will be up to you to help rebuild the town and save the lighthouse...but it won't be easy!"
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100CF8003E70000"
+region = "all"
+release_date = "2018-05-29"
