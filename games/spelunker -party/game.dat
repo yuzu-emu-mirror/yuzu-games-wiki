@@ -6,6 +6,6 @@ needs_shared_font = false
 game_type = "switch"
 
 [[ releases ]]
-title = "010021F004270000,0100C3F000BD8000"
+title = "010021F004270000
 region = "all"
 release_date = "2019-02-24"
