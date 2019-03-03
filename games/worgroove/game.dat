@@ -1,0 +1,12 @@
+title = "Wargroove"
+description = "Take to the battlefield with Wargroove, a turn-based strategy game for up to 4 players! Choose your Commander and wage war on battling factions, using your ‘groove’ to strategically sway the fight in your favor!
+When war breaks out in the Kingdom of Cherrystone, the young Queen Mercia must flee her home. Pursued by her foes, the only way to save her kingdom is travel to new lands in search of allies. But who will she meet along the way, and what sinister challenges will she face?."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01000F0002BB6000"
+region = "all"
+release_date = "2019-03-03"

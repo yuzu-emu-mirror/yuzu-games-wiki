@@ -1,0 +1,11 @@
+title = "RIOT Civil Unrest"
+description = "RIOT – Civil Unrest is the highly anticipated real-time riot simulator that places the player right in the heart of some of the world’s most fractious clashes. Campaigns include: Indignados (Spain), Arab Spring (Egypt), Keratea (Greece) and NoTAV (Italy). Seventeen single level scenarios include Rome, Oakland, Paris, London and Ukraine."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010088E00B816000"
+region = "all"
+release_date = "2019-03-03"

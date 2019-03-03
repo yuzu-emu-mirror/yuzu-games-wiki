@@ -1,0 +1,11 @@
+title = "Zombie Night Terror"
+description = "Prepare yourself for the most thrilling night of your life! Something strange has happened and people everywhere are turning into blood thirsty walking corpses. But guess who’s the brains behind this hungry undead army? YOU! So spread this pandemic to wipe humanity of this planet. Because the only way to survive the zombie apocalypse, is to BE the apocalypse!."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01004F900B838000"
+region = "all"
+release_date = "2019-03-03"

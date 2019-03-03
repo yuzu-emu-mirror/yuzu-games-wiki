@@ -1,0 +1,11 @@
+title = "BLAZBLUE CENTRALFICTION Special Edition"
+description = "The definitive edition of the 『BLAZBLUE』 series, 「BLAZBLUE CENTRALFICTION」, is the most-played 2D fighting game in the world featuring with beautiful graphics and a well-designed, fighting system."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100EE800C93E000"
+region = "all"
+release_date = "2019-03-03"

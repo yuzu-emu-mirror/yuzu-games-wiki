@@ -1,0 +1,11 @@
+title = "Gunman Clive HD Collection"
+description = "In the year of 18XX, the west is overrun by thugs and outlaws. A group of bandits have kidnapped Mayor Johnsons daughter and are spreading havoc across the land. Gunman Clive must rescue the girl and and bring order to the west, then finish the fight in Gunman Clive 2. His battle against the bandits takes him all around the world and beyond."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010061000D318000"
+region = "all"
+release_date = "2019-03-03"

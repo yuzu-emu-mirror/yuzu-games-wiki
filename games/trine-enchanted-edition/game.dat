@@ -1,0 +1,11 @@
+title = "Trine Enchanted Edition"
+description = "Trine Enchanted Edition is the origin story for the three unlikely heroes of Trine - Amadeus the Wizard, Pontius the Knight, and Zoya the Thief. Spellbound by the magical object Trine, the heroes must join forces to overcome obstacles and puzzles in a fully interactive physics-based world, battle the undead and their minions, and restore balance to the kingdom!."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100D9000A930000"
+region = "all"
+release_date = "2019-03-03"

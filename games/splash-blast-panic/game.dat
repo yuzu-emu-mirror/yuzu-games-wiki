@@ -1,0 +1,11 @@
+title = "Splash Blast Panic"
+description = "SPLASH BLAST PANIC is a multiplayer competitive party game where you must shoot, ram, dodge and overall bully your opponents outside the screen with a variety of watergun-based weaponry. Inspired by old arcade titles as well as newer competitive party games, ruin all your friendships in a variety of stages."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01006F900AB7E000"
+region = "all"
+release_date = "2019-03-03"

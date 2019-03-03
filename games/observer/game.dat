@@ -1,0 +1,11 @@
+title = "Observer"
+description = ">observer_ is a cyberpunk, detective thriller set in the year 2084 in Krakow, Poland. The world lies in ruins with corporations seizing power after the fall of governments. You do their bidding. No lie will remain hidden from you, as you hack into the minds of those you interrogate. When your past catches-up, you must act on your own and unravel the mystery of your son’s disappearance. Your name is Daniel Lazarski, you’re an Observer."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01002A000C478000"
+region = "all"
+release_date = "2019-03-03"
