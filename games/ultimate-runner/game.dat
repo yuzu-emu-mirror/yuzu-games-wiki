@@ -1,0 +1,12 @@
+title = "Ultimate Runner"
+description = "Ready, set, go!!!
+Terrifying cannibals take up the action-packed pursuit of a daredevil adventurer. Let the wild chase begin! The brave explorer runs for his life with the natives always hot on his heels. Burn some rubber and help the nimble guy escape!."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010045200A1C2000"
+region = "all"
+release_date = "2019-03-03"

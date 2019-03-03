@@ -1,0 +1,11 @@
+title = "Necrosphere Deluxe"
+description = "Necrosphere is where you go when you die, regardless of being good or bad. You don’t see other people around there. You don’t have anything to do, except waiting for eternity As soon as Agent Terry Cooper hits the Necrosphere, he learns about the portals that can take him back to the world of the living (also called Normalsphere), and his quest to escape the afterlife is set."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01003F000C7F8000"
+region = "all"
+release_date = "2019-03-03"

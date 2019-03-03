@@ -1,0 +1,11 @@
+title = "Holy Potatoes! We're In Space?!"
+description = "Space... the final french fried-tier! Set out on an intergalactic voyage of discovery, adventure and potato-based puns in Holy Potatoes! We're In Space?!, combining hard-boiled battles, mashed management and scalloped simulation into a dish that's out of this world!."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010096B009E12000"
+region = "all"
+release_date = "2019-03-03"

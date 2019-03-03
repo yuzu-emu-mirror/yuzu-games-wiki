@@ -1,0 +1,14 @@
+title = "Aragami Shadow Edition"
+description = "Aragami is a third person stealth game that casts you as an undead assassin with the power to control the shadows. Teleport to any shadow, become invisible, materialize weapons or even summon a shadow dragon to infiltrate the enemy ranks and dispose of your targets.
+Aragami: Shadow Edition includes Aragami: Nightfall, a story campaign which takes place before the events of Aragami, and all content released so far for Aragami.
+You are Aragami, a vengeful spirit with the power to control the shadows. You’ve been summoned by Yamiko, a girl imprisoned in the city fortress of Kyuryu. Embark on a dark journey full of blood and secrets to discover the truth about Aragami. Infiltrate the occupied city of Kyuryu with your supernatural powers and fight Light with Shadow. Uncover a story about twin souls bound together by destiny that surpasses time and memory.
+In Aragami: Nightfall, shadow assassins Hyo and Shinobu go after the mysterious ‘Alchemist’ in one last mission to bring back a long lost companion. Play as Hyo and Shinobu and use new Shadow Powers in a story campaign that will put your stealth skills to test."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010071800BA74000"
+region = "all"
+release_date = "2019-03-03"
