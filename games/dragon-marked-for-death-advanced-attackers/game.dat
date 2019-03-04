@@ -1,0 +1,11 @@
+"title = "Dragon Marked for Death Advanced Attackers"
+description = "Dragon Marked For Death is a side-scrolling 2D action RPG that can played solo or with up to four players in local or online multiplayer."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "010089700150E000"
+region = "all"
+release_date = "2019-03-04"

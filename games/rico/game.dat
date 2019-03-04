@@ -1,0 +1,11 @@
+title = "RICO"
+description = "Two cops, one case and only 24 hours to take them down... can you score the bust of a lifetime? Take the role of a loose cannon police detective and face off against criminal gangs in an exciting procedurally-generated action movie FPS. Join forces with a friend, online or locally, and take down those crooks in true buddy-cop style!."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01009D5009234000"
+region = "all"
+release_date = "2019-03-04"
