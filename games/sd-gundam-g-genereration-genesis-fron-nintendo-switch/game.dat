@@ -1,0 +1,15 @@
+title = "SD Gundam G Generation Genesis fron Nintendo Switch"
+description = "受け継がれた魂は、新たな戦場へ導かれる――
+Nintendo Switch™にガンダムゲーム初登場！
+受け継がれた魂は、新たな戦場へ導かれる――
+Nintendo Switch™にガンダムゲーム初登場！
+蘇る名場面！　収録シナリオに沿って宇宙世紀100年の歴史を振り返る！."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100CC6009456000"
+region = "all"
+release_date = "14/04/2019"

@@ -1,0 +1,11 @@
+title = "Smoke and Sacrifice"
+description = "Smoke and Sacrifice is an open-world, narrative-driven RPG, where exploiting living ecosystems is the key to your survival. Craft, fight, survive and explore the huge open world in this beautifully hand-painted, gothic adventure where every character has their tale to tell."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100207007EB2000"
+region = "all"
+release_date = "14/04/2019"
