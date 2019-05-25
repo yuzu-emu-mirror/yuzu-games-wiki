@@ -1,0 +1,16 @@
+title = "Assassin's Creed III Remastered"
+description = "Relive the American Revolution or experience it for the first time in Assassin's Creed® III Remastered, with enhanced graphics and improved gameplay mechanics.  Plus, Assassin's Creed® III Liberation Remastered and all solo DLC content are included.
+Includes: Assassin's Creed® III Liberation and all original solo DLC, including The Tyranny of King Washington.
+Enhanced graphics, now featuring 4K resolution, new character models, polished environment rendering, and more.
+Gameplay mechanics have been revamped as well, improving your experience and your immersion.
+Fight for freedom! As the American Colonies are about to revolt, secure liberty for your people and your nation.
+Nintendo Switch™ enhanced features include: Touch Screen, HD rumble, and optimized HUD.."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "01007F600B134000"
+region = "all"
+release_date = "2019-05-25"
