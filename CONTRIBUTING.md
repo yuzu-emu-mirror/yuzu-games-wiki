@@ -51,7 +51,7 @@ The icon for a game is located at `/<Game Name>/icon.png` (See: [Screenshots](#s
 ### Game Screenshots
 The screenshots for the game are located in `/<Game Name>/screenshots/` (See: [Screenshots](#screenshots)). Screenshots **must** have a resolution of `1280x720`.
 
-Additionally, if a game has a rating of 3 or higher, **you must include at least 3 screenshots**, otherwise 1 screenshot is acceptable. The names of the screenshots don't matter.
+Additionally, if a game has a game compatability rating of Bad or higher, **you must include at least 3 screenshots**, otherwise 1 screenshot is acceptable. The names of the screenshots don't matter.
 
 ### Savefiles
 #### Save Metadata
