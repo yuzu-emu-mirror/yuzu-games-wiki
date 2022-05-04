@@ -8,10 +8,15 @@ Contributions to the yuzu Games Wiki are welcomed, as keeping all of the data up
   - [Dates](#dates)
   - [GitHub Issues](#github-issues)
   - [Screenshots](#screenshots)
+  - [Title IDs](#title-ids)
+  - [TOML](#toml)
 - [Code](#code)
   - [Icon](#icon)
   - [Game Screenshots](#game-screenshots)
-  - [Wiki](#wiki)
+  - [Savefiles](#savefiles)
+    - [Save Metadata](#save-metadata)
+    - [Save Data](#save-data)
+- [Wiki](#wiki)
 
 ## Info About This Wiki
 
@@ -46,7 +51,22 @@ The icon for a game is located at `/<Game Name>/icon.png` (See: [Screenshots](#s
 ### Game Screenshots
 The screenshots for the game are located in `/<Game Name>/screenshots/` (See: [Screenshots](#screenshots)). Screenshots **must** have a resolution of `1280x720`.
 
-Additionally, if a game has a game compatability rating of Bad or higher, **you must include at least 3 screenshots**, otherwise 1 screenshot is acceptable. The names of the screenshots don't matter.
+Additionally, if a game has a rating of 3 or higher, **you must include at least 3 screenshots**, otherwise 1 screenshot is acceptable. The names of the screenshots don't matter.
+
+### Savefiles
+#### Save Metadata
+The metadata for a save is located at `/<Game Name>/savefiles/<Save Name>.dat`. This is info about the save. The DAT values (See: [TOML](#toml)) are:
+- `title` (String): The location of the save ingame.
+- `description` (String): A brief explanation about the save.
+- `author` (String): Your forum account name, if you have one. If you don't, don't include this line.
+- `title_id` (String): Title ID of the game.
+
+#### Save Data
+The save data is located at `/<Game Name>/savefiles/<Save Name>.zip` (See: [yuzu Version](#yuzu-version)). To make a ZIP file, the process is:
+- Make sure the game is in your yuzu game directory.
+- Right click on the game and click `Open Save Data Location`. This should open a window prompting you to select the user.
+- After selecting the user, you will be taken to the folder in which the save data is stored.
+- Compress the files within the folder into a ZIP.
 
 ## Wiki
 The wiki contains info about specific game problems, and can be modified by anyone. They use [Markdown](https://guides.github.com/features/mastering-markdown/) formatting.
